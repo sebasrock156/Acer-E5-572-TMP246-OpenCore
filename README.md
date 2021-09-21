@@ -4,7 +4,7 @@
 
 Hardware | Model
 --- |:--:
-CPU | i7 5500U
+CPU | i7 5500U 2 Cores/4 Threads@2,4Ghz (You could try overclock by BCLK, but not recommended).
 iGPU| Intel HD Graphics 5500
 SATA Drive | SSD Crucial BX500 480GB (For a better installation)
 IDE Driver | HDD Western Digital WD10SPZX (Needed for backup all your files)
@@ -19,11 +19,11 @@ Ethernet | Realtek RTL8111
 ## Works：
 Integrated Graphics (taken by system as Iris HD 6100) &radic;
 
-720P (1366x768) Screen &radic;
+720P Screen (1366x768) &radic;
 
 RJ45 Ethernet Connection &radic;
 
-Touchpad &radic; (It's fully working)
+Touchpad &radic; (It's fully working, enable for "One touch" in System Preferences-->Trackpad)
  
 HDMI &radic;
 
@@ -71,7 +71,7 @@ Maybe you need a External Keyboard and Mouse for use, and evite use USB 3.0/3.1 
 3. Boot to USB Drive always with BIOS Secure Boot ENABLED (if you disable Secure Boot, MacOS Preinstalled on Hard Drive/Solid Drive never will boot, stuck on Apple logo). 
 
 ## Post-Installation：
- **WARNING⚠️**: If you wanna have Dualboot with Windows or Linux, Touchpad may be don't work, OpenCore EFI modify some ACPI (BIOS Memory) directions and Touchpad (Synaptics or Elantech) crash with that modifies.
+ **WARNING ⚠️** : If you wanna have Dualboot with Windows or Linux, Touchpad may be don't work, OpenCore EFI modify some ACPI values (Advanced Configuration and Power Interface, a.k.a. memory access & Power from BIOS/Chipset to peripherics and motherboard components) and Touchpad (Synaptics or Elantech) crash with these modifies.
 
 1. Mount the macOS Drive EFI Partition (with ESP Mounter Pro), later, drag EFI Folder from Booteable USB Drive and reboot.
 
@@ -79,5 +79,27 @@ Maybe you need a External Keyboard and Mouse for use, and evite use USB 3.0/3.1 
 
 3. If you have any Intel Wi-Fi card mentioned above, move and open "HeliPort" and configurate for enable in Autostart (System Preferences), Network connection aren't the best, but works.
 
+## Applications Support:
+**Warning**: Some Apple apps as iMessage, FaceTime, App Store, Apple Music and etc won't login although you have patched SMBIOS before, consult in Olarila how fix it.
+
+---
+
+Developper | App(s)
+---|:--:
+Works:
+---
+Adobe | Photoshop, Premiere Pro, Audition, Illustrator, Acrobat DC, After Effects, XD, InDesign, etc. (2019, 20 & 21 versions) 
+Blackmagic | Davinci Resolve (17.x)
+TechSmith | Camtasia Studio (latest version)
+Valve | Steam (IDK if Proton is included)
+Facebook | Facebook, Whatsapp, Instagram, etc.
+
+---
+Not Work:
+---
+Adobe | Lightroom/Lightroom Classic, Dreamweaver, Animate, Dimension, Character Animator (use and force dGPU access) 
+---
+
+
 ## Misc:
-Some additional drivers and SSDTs are imported from Dell i7 5500U devices, enable for Backlight and some Keyboard controls, could be some Fn commands doesn't work correctly.
+Some additional drivers and SSDTs are imported from Dell i7 5500U EFI Laptops, enable for backlight and some keyboard controls, could be some Fn commands doesn't work correctly.
