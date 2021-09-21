@@ -86,17 +86,15 @@ Maybe you need a External Keyboard and Mouse for use, and evite use USB 3.0/3.1 
 
 Developper | App(s)
 ---|:--:
-Works:
----
+## Works:
 Adobe | Photoshop, Premiere Pro, Audition, Illustrator, Acrobat DC, After Effects, XD, InDesign, etc. (2019, 20 & 21 versions) 
 Blackmagic | Davinci Resolve (17.x)
 TechSmith | Camtasia Studio (latest version)
 Valve | Steam (IDK if Proton is included)
 Facebook | Facebook, Whatsapp, Instagram, etc.
 
----
-Not Work:
----
+## Not Work:
+
 Adobe | Lightroom/Lightroom Classic, Dreamweaver, Animate, Dimension, Character Animator (use and force dGPU access) 
 ---
 
