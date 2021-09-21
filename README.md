@@ -11,6 +11,7 @@ IDE Driver | HDD Western Digital WD10SPZX (Needed for backup all your files)
 RAM | Kingston & Hynix DDR3 8GB (4GB is little for MacOS, you can expand it 'till 16GB)
 Audio Card | Realtek ALC283
 dGPU | NVIDIA 820M (Not supported on MacOS)
+WLAN Card | Intel Dual Band AC 3160
 Ethernet | Realtek RTL8111
 ---
 
