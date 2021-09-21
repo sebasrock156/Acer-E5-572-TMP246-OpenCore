@@ -84,7 +84,7 @@ Maybe you need a External Keyboard and Mouse for use, and evite use USB 3.0/3.1 
 
 ---
 
-Developper | App(s)
+Developer | App(s)
 ---|:--:
 Adobe | Photoshop, Premiere Pro, Audition, Illustrator, Acrobat DC, After Effects, XD, InDesign, etc. (2019, 20 & 21 versions)
 Microsoft | Office Suite, Teams, Edge. 
