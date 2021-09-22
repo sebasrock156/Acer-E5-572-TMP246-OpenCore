@@ -19,23 +19,23 @@ Ethernet | Realtek RTL8111
 ## Works：
 Integrated Graphics (taken by system as Iris HD 6100) &radic;
 
-720P Screen (1366x768) &radic;
+720P Screen (1366x768) ✔
 
-RJ45 Ethernet Connection &radic;
+RJ45 Ethernet Connection ✔
 
-Touchpad &radic; (It's fully working, enable for "One touch" in System Preferences-->Trackpad)
+Touchpad ✔ (It's fully working, enable for "One touch" in System Preferences-->Trackpad)
  
-HDMI &radic;
+HDMI ✔
 
-VGA &radic;
+VGA ✔
 
-Camera &radic;
+Camera ✔
 
-Screen Backlit&radic; (But brightness control only works manually; Backlight work as in Linux distros)
+Screen Backlit ✔ (But brightness control only works manually; Backlight work as in Linux distros)
 
-Battery Stats & Charge level &radic;
+Battery Stats & Charge level ✔
 
-WLAN &radic; (Always that you have an Intel Dual Band *support table below*):
+WLAN ✔ (Always that you have an Intel Dual Band *support table below*):
 
 ## Supported WLAN Cards (by Intel):
 ---
@@ -52,11 +52,11 @@ Generation | Models
 ## Not work (IDK how to fix it):
 Bluetooth &times; (Don't use any Bluetooth Kext for fix, causes Kernel panics)
 
-Hibernate &times; (Really, works partially)
+Hibernate ❎✅(Really, works partially)
 
-Audio Card &times; (Recognize hardware as ALC283, but doesn't work, you can "fix" using USB Audio DACs)
+Audio Card ❌(Recognize hardware as ALC283, but doesn't work, you can "fix" using USB Audio DACs)
 
-Card Reader &times; (ACPI Problems)
+Card Reader ❌(ACPI Problems)
 
 ## Installation Method:
 
