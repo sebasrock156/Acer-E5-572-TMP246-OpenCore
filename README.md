@@ -1,4 +1,4 @@
-# ACER TravelMate P246-MG Hackintosh OpenCore (Big Sur 11.x)
+# Acer TravelMate P246-MG Hackintosh OpenCore (Big Sur 11.x)
 
 ---
 
