@@ -92,7 +92,7 @@ Blackmagic | Davinci Resolve (17.x)
 TechSmith | Camtasia Studio (latest version)
 Valve | Steam (IDK if Proton is included)
 Facebook | Facebook, Whatsapp, Instagram, etc.
-Adobe(x2) | Lightroom/Lightroom Classic, Dreamweaver, Animate, Dimension, Character Animator (not working) 
+Adobe(x2) | Lightroom/Lightroom Classic, Dreamweaver (not working) 
 ---
 
 
