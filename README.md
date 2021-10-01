@@ -87,6 +87,7 @@ Maybe you need a External Keyboard and Mouse for use, and evite use USB 3.0/3.1 
 Developer | App(s)
 ---|:--:
 Adobe | Photoshop, Premiere Pro, Audition, Illustrator, Acrobat DC, After Effects, XD, InDesign, etc. (2019, 20 & 21 versions)
+Electronic Arts | Origin, The Sims 4, Battlefield 1 and V (worse performance than Windows).
 Microsoft | Office Suite, Teams, Edge. 
 Blackmagic | Davinci Resolve (17.x)
 TechSmith | Camtasia Studio (latest version)
