@@ -17,7 +17,7 @@ Ethernet | Realtek RTL8111
 **Warning ⚠️**: My hardware is inherited from Aspire E5-471G model.
 
 ## Works：
-Integrated Graphics (taken by system as Iris HD 6100) &radic;
+Integrated Graphics (taken by system as Iris HD 6100) ✔
 
 720P Screen (1366x768) ✔
 
