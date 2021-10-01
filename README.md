@@ -80,7 +80,7 @@ Maybe you need a External Keyboard and Mouse for use, and evite use USB 3.0/3.1 
 3. If you have any Intel Wi-Fi card mentioned above, move and open "HeliPort" and configurate for enable in Autostart (System Preferences), Network connection aren't the best, but works.
 
 ## Applications Support:
-**Warning**: Some Apple apps as iMessage, FaceTime, App Store, Apple Music and etc won't login although you have patched SMBIOS before, consult in Olarila how fix it.
+**Warning**: Some Apple apps as iMessage, FaceTime, App Store, Apple Music and etc won't login although you have patched SMBIOS before, you need an Apple product serial compatible with Apple Support too, consult in Olarila how fix it.
 
 ---
 
