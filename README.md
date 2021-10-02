@@ -35,6 +35,8 @@ Screen Backlit ✔ (But brightness control only works manually; Backlight work a
 
 Battery Stats & Charge level ✔
 
+Hibernate ✔ (If you did Dualboot with Windows, works partially in this OS)
+
 WLAN ✔ (Always that you have an Intel Dual Band *support table below*):
 
 ## Supported WLAN Cards (by Intel):
@@ -50,9 +52,7 @@ Generation | Models
 ---
 
 ## Not work (IDK how to fix it):
-Bluetooth &times; (Don't use any Bluetooth Kext for fix, causes Kernel panics)
-
-Hibernate ❎✅(Really, works partially)
+Bluetooth ❌ (Don't use any Bluetooth Kext for fix, causes Kernel panics)
 
 Audio Card ❌(Recognize hardware as ALC283, but doesn't work, you can "fix" using USB Audio DACs)
 
