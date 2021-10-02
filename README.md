@@ -14,7 +14,7 @@ dGPU | NVIDIA 820M (Not supported on MacOS)
 WLAN Card | Intel Dual Band AC 3160
 Ethernet | Realtek RTL8111
 ---
-**Warning ⚠️**: My hardware is inherited from Aspire E5-471G model.
+**Warning ⚠️**: My hardware is inherited from Aspire E5-471G model, this EFI works with Aspire E5-573G model too.
 
 ## Works：
 Integrated Graphics (taken by system as Iris HD 6100) ✔
