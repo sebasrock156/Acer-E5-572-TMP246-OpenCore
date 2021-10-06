@@ -98,4 +98,4 @@ Adobe(x2) | Lightroom/Lightroom Classic, Dreamweaver (not working)
 
 
 ## Misc:
-Some additional drivers and SSDTs are imported from Dell i7 5500U EFI Laptops, enable for backlight and some keyboard controls, could be some Fn commands doesn't work correctly.
+Some additional drivers and SSDTs are imported from Dell i7 5500U EFI Laptops, enable for backlight and some keyboard controls, could be some Fn commands doesn't work correctly, for example: Brightness control works pressing "Pause" (for up backlit) or "Lock Scroll" (for down Backlit).
