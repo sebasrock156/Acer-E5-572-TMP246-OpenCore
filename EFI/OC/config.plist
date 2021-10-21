@@ -1066,7 +1066,7 @@
 				Rg==
 				</data>
 				<key>boot-args</key>
-				<string>keepsyms=1 swd_panic=1 alcid=29 vsmcgen=1 -wegnoegpu</string>
+				<string>keepsyms=1 swd_panic=1 alcid=11 vsmcgen=1 -wegnoegpu</string>
 				<key>csr-active-config</key>
 				<data>
 				/w8AAA==
