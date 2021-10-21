@@ -27,6 +27,8 @@ Integrated Graphics (taken by system as Iris HD 6100) ✔
 RJ45 Ethernet Connection ✔
 
 Touchpad ✔ (It's fully working, enable for "One touch" in System Preferences-->Trackpad)
+
+Audio Card ✔
  
 HDMI ✔
 
@@ -55,11 +57,10 @@ Generation | Models
 ---
 
 ## Not work (IDK how to fix it):
+
 Bluetooth ❌ (Don't use any Bluetooth Kext for fix, causes Kernel panics)
 
-Audio Card ❌(Recognize hardware as ALC283, but doesn't work, you can "fix" using USB Audio DACs)
-
-Card Reader ❌(ACPI Problems)
+Card Reader ❌ (ACPI Problems)
 
 ## Installation Method:
 
