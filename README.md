@@ -30,7 +30,7 @@ Touchpad ✔ (It's fully working, enable for "One touch" in System Preferences--
 
 Audio Card ✔ (Fixed, Audio driver now is correctly configured).
  
-HDMI ✔
+HDMI ✔ (Works fully, HDMI Audio works too).
 
 VGA ✔
 
