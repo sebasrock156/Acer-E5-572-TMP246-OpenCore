@@ -28,7 +28,7 @@ RJ45 Ethernet Connection ✔
 
 Touchpad ✔ (It's fully working, enable for "One touch" in System Preferences-->Trackpad)
 
-Audio Card ✔
+Audio Card ✔ (Fixed, Audio driver now is correctly configured).
  
 HDMI ✔
 
