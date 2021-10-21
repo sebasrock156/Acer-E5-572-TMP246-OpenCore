@@ -32,6 +32,9 @@ Audio Card ✔ (Fixed, Audio driver now is correctly configured).
  
 HDMI ✔ (Works fully, HDMI Audio works too).
 
+![img](https://i.imgur.com/chOTKRN.png)
+
+
 VGA ✔
 
 Camera ✔
