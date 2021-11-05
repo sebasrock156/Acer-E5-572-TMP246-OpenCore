@@ -28,7 +28,7 @@ RJ45 Ethernet Connection ✔
 
 Touchpad ✔ (It's fully working, enable for "One touch" in System Preferences-->Trackpad)
 
-Audio Card ✔ (Fixed, Audio driver now is correctly configured).
+Audio Card ✔ (Fixed, Audio driver now is correctly configured, if audio seems louder or lower change "alcid" bootflag *In config.plist --> NVRAM --> Add --> 7C436110-AB2A-4BBB-A880-FE41995C9F82 --> boot-args* for the supported coded for you audio hardware (list below): https://github.com/acidanthera/AppleALC/wiki/Adding-codec-support).
  
 HDMI ✔ (Works fully, HDMI Audio works too).
 
