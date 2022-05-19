@@ -89,10 +89,14 @@ Maybe you need a External Keyboard and Mouse for use, and evite use USB 3.0/3.1 
 ## Applications Support:
 **Warning**: Some Apple apps as iMessage, FaceTime, App Store, Apple Music and etc won't login although you have patched SMBIOS before, you need an Apple product serial compatible with Apple Support too, consult in Olarila how fix it.
 
+**EDIT**
+Now some Apple Apps were patched to work.
+
 ---
 
 Developer | App(s)
 ---|:--:
+Apple | Store, iMesssage/FaceTime (partially), Mail, Maps, Music...
 Adobe | Photoshop, Premiere Pro, Audition, Illustrator, Acrobat DC, After Effects, XD, InDesign, etc. (2019, 20 & 21 versions)
 Electronic Arts | Origin, The Sims 4, Battlefield 1 and V (worse performance than Windows).
 Microsoft | Office Suite, Teams, Edge. 
