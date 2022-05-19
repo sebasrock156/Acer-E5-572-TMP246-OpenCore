@@ -97,14 +97,14 @@ Now some Apple Apps were patched to work.
 Developer | App(s)
 ---|:--:
 Apple | Store, iMesssage/FaceTime (partially), Mail, Maps, Music...
-Adobe | Photoshop, Premiere Pro, Audition, Illustrator, Acrobat DC, After Effects, XD, InDesign, etc. (2019, 20 & 21 versions)
+Adobe | Photoshop, Lightroom, Premiere Pro, Audition, Illustrator, Acrobat DC, After Effects, XD, InDesign, etc. (2019, 20 & 21 versions)
 Electronic Arts | Origin, The Sims 4, Battlefield 1 and V (worse performance than Windows).
 Microsoft | Office Suite, Teams, Edge. 
 Blackmagic | Davinci Resolve (17.x)
 TechSmith | Camtasia Studio (latest version)
 Valve | Steam (IDK if Proton is included)
 Facebook | Facebook, Whatsapp, Instagram, etc.
-Adobe(x2) | Lightroom/Lightroom Classic, Dreamweaver (not working) 
+Adobe(x2) | Dreamweaver (not working) 
 ---
 
 
