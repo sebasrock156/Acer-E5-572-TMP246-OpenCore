@@ -2,31 +2,47 @@
 
 ![img](https://i.imgur.com/DCbWePN.png)
 
+**Warning ⚠️**: My hardware is inherited from Aspire E5-471G model, this EFI works with Aspire E5-573G model too.
+![img](https://i.imgur.com/mj0FBuD.jpg)
+
+**Firstly we will go the base hardware for this EFI needs to work:
 ---
 
 Hardware | Model
 --- |:--:
-CPU | i7 5500U 2 Cores/4 Threads@2,4Ghz-OC@2,75Ghz (You could try overclock by BCLK, but not recommended).
+CPU | i7 5500U 2 Cores/4 Threads@2,4Ghz
 iGPU| Intel HD Graphics 5500
-SATA Drive | SSD Kingston UV400 960GB (For a better installation)
-IDE Driver | HDD Western Digital WD10SPZX (OPTIONAL: Needed for backup all your files)
-RAM | Hynix DDR3 16GB (4GB is little for MacOS, you can expand it 'till 16GB)
 Audio Card | Realtek ALC283
 dGPU | NVIDIA GeForce 820M (Not supported on MacOS)
 WLAN Card | Intel Dual Band AC 3160 (From E5-471G)
 Ethernet | Realtek RTL8111
 ---
-**Warning ⚠️**: My hardware is inherited from Aspire E5-471G model, this EFI works with Aspire E5-573G model too.
-![img](https://i.imgur.com/mj0FBuD.jpg)
+
+<details>
+**Now, some minimum hardware recommendations: 
+
+---
+
+Hardware | Model
+--- |:--:
+RAM | Any Samsung, Hynix or Kingston DDR3 8GB(4GBx2).
+Audio Card | Any Realtek Audio Card (some Broadcom cards may not work).
+WLAN Card | Any Intel network card (A few Realtek cards works externally; Intel supported cards is listed below).
+SATA Drive	| Any Solid State Drive (SSD) with 240GB of storage.
+IDE Drive | Add a caddy for SATA Output, then, I recommend any Hard Disk with 500GB/1000GB of storage.
+---
+</details>
 
 ## Works：
 Integrated Graphics (taken by system as Iris HD 6100) ✔
 
 Native Screen (1366x768) ✔
 
+Multi Screen (Native + Any up 3840x2160) ✔
+
 RJ45 Ethernet Connection ✔
 
-Touchpad ✔ (It's fully working, enable for "One touch" in System Preferences-->Trackpad)
+Touchpad ✔ (It's fully working, enable for "One touch" in System Preferences-->Trackpad; If you use dual boot, touchpad may not work on Windows/Linux/BSD for ACPI changes)
 
 Audio Card ✔ (Fixed, Audio driver now is correctly configured, if audio seems louder or lower change "alcid" bootflag *In config.plist --> NVRAM --> Add --> 7C436110-AB2A-4BBB-A880-FE41995C9F82 --> boot-args* for the supported coded for you audio hardware (list below): https://github.com/acidanthera/AppleALC/wiki/Supported-codecs).
  
@@ -34,12 +50,14 @@ HDMI ✔ (Works fully, HDMI Audio works too).
 
 ![img](https://i.imgur.com/chOTKRN.png)
 
-
 VGA ✔
 
 Camera ✔
 
-Screen Backlit ✔ (But brightness control only works manually; Backlight work as in Linux distros)
+Keyboard shortcuts ✔ (At least, volume, touchpad and brightness control; hibernate, network, silence and Lock Numbers may not work)
+
+Screen Backlit ✔ (But brightness control only works manually, descripte below; Backlight work as in Linux distros)
+** For using brightness control: pressing "Pause" (up backlit ☀+) and "Lock Scroll" (down Backlit ☼-).
 
 Battery Stats & Charge level ✔
 
@@ -109,5 +127,4 @@ Adobe(x2) | Dreamweaver (not working)
 
 
 ## Misc:
-Some additional drivers and SSDTs are imported from Dell and others i7 5500U EFI Laptops, enable for backlight and some keyboard controls, could be some Fn commands doesn't work correctly, for example: 
-Brightness control works pressing "Pause" (for up backlit) or "Lock Scroll" (for down Backlit).
+Some additional drivers and SSDTs are imported from Dell and others i7 5500U EFI Laptops, enable for backlight and some keyboard controls, could be some Fn commands doesn't work correctly, for example the Brightness control.
