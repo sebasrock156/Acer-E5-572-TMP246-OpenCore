@@ -3,12 +3,9 @@
 ![img](https://i.imgur.com/DCbWePN.png)
 
 **Warning ⚠️**: My hardware is inherited from Aspire E5-471G model, this EFI works with Aspire E5-573G model too.
-
-<details>
  
 ![img](https://i.imgur.com/mj0FBuD.jpg)
- 
-</details>
+
 
 **Firstly we will go the base hardware for this EFI needs to work**:
 ---
@@ -50,11 +47,9 @@ Native Screen (1366x768) ✔
 
 Multi Screen (Native + Any up 3840x2160) ✔
  
- <details>
+
+![img](https://i.imgur.com/chOTKRN.png)
   
-  ![img](https://i.imgur.com/chOTKRN.png)
-  
- </details>
 
 RJ45 Ethernet Connection ✔
 
