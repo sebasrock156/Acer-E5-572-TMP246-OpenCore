@@ -12,7 +12,7 @@ SATA Drive | SSD Kingston UV400 960GB (For a better installation)
 IDE Driver | HDD Western Digital WD10SPZX (OPTIONAL: Needed for backup all your files)
 RAM | Hynix DDR3 16GB (4GB is little for MacOS, you can expand it 'till 16GB)
 Audio Card | Realtek ALC283
-dGPU | NVIDIA 820M (Not supported on MacOS)
+dGPU | NVIDIA GeForce 820M (Not supported on MacOS)
 WLAN Card | Intel Dual Band AC 3160 (From E5-471G)
 Ethernet | Realtek RTL8111
 ---
