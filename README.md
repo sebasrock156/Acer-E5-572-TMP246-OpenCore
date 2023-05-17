@@ -117,7 +117,7 @@ Maybe you need a External Keyboard and Mouse for use, and evite use USB 3.0/3.1 
 </details>
 
 ## Applications Support:
-<details>
+
 **Warning**: Some Apple apps as iMessage, FaceTime, App Store, Apple Music and etc won't login although you have patched SMBIOS before, you need an Apple product serial compatible with Apple Support too, consult in Olarila how fix it.
 
 **EDIT:**
@@ -137,7 +137,6 @@ Valve | Steam (IDK if Proton is included)
 Facebook | Facebook, Whatsapp, Instagram, etc.
 Adobe(x2) | Dreamweaver (not working) 
 ---
-</details>
 
 ## Misc:
 Some additional drivers and SSDTs are imported from Dell and others i7 5500U EFI Laptops, enable for backlight and some keyboard controls, could be some Fn commands doesn't work correctly, for example the Brightness control.
