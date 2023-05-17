@@ -6,12 +6,12 @@
 
 Hardware | Model
 --- |:--:
-CPU | i7 5500U 2 Cores/4 Threads@2,4Ghz (You could try overclock by BCLK, but not recommended).
+CPU | i7 5500U 2 Cores/4 Threads@2,4Ghz-OC@2,75Ghz (You could try overclock by BCLK, but not recommended).
 iGPU| Intel HD Graphics 5500
-SATA Drive | SSD Crucial BX500 480GB (For a better installation)
-IDE Driver | HDD Western Digital WD10SPZX (Needed for backup all your files)
-RAM | Kingston & Hynix DDR3 8GB (4GB is little for MacOS, you can expand it 'till 16GB)
-Audio Card | Realtek ALC283
+SATA Drive | SSD Kingston UV400 960GB (For a better installation)
+IDE Driver | HDD Western Digital WD10SPZX (OPTIONAL: Needed for backup all your files)
+RAM | Hynix DDR3 16GB (4GB is little for MacOS, you can expand it 'till 16GB)
+Audio Card | Realtek ALC283 (From E5-471G)
 dGPU | NVIDIA 820M (Not supported on MacOS)
 WLAN Card | Intel Dual Band AC 3160
 Ethernet | Realtek RTL8111
@@ -22,7 +22,7 @@ Ethernet | Realtek RTL8111
 ## Works：
 Integrated Graphics (taken by system as Iris HD 6100) ✔
 
-720P Screen (1366x768) ✔
+Native Screen (1366x768) ✔
 
 RJ45 Ethernet Connection ✔
 
@@ -71,7 +71,7 @@ Card Reader ❌ (ACPI Problems)
 
 Maybe you need a External Keyboard and Mouse for use, and evite use USB 3.0/3.1 for Bootable USB Drive.
 
-1. Using any macOS BigSur (or Monterrey Beta) Image based on Olarila project and Balena Ecther for doing Booteable USB Drive.
+1. Using any macOS BigSur Image based on Olarila project and Balena Ecther for doing Booteable USB Drive.
 
 2. If macOS image won't boot, mount Booteable USB Drive ESP (EFI) partition with ESP Mounter Pro or Clover/OpenCore Configurator (MacOS) or MiniTool Partition (Windows) and replace EFI Folder with THIS repo EFI Folder.
 
@@ -109,4 +109,5 @@ Adobe(x2) | Dreamweaver (not working)
 
 
 ## Misc:
-Some additional drivers and SSDTs are imported from Dell i7 5500U EFI Laptops, enable for backlight and some keyboard controls, could be some Fn commands doesn't work correctly, for example: Brightness control works pressing "Pause" (for up backlit) or "Lock Scroll" (for down Backlit).
+Some additional drivers and SSDTs are imported from Dell and others i7 5500U EFI Laptops, enable for backlight and some keyboard controls, could be some Fn commands doesn't work correctly, for example: 
+Brightness control works pressing "Pause" (for up backlit) or "Lock Scroll" (for down Backlit).
