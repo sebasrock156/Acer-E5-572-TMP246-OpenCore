@@ -2,6 +2,8 @@
 
 ![img](https://i.imgur.com/DCbWePN.png)
 
+**ADVICE**: If you want install OSX Ventura, see the next link (https://github.com/sebasrock156/Acer-TravelMate-P246-MG-OpenCore/tree/Ventura)
+
 **Warning ⚠️**: My hardware is inherited from Aspire E5-471G model, this EFI works with Aspire E5-573G model too.
  
 ![img](https://i.imgur.com/mj0FBuD.jpg)
