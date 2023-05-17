@@ -5,10 +5,12 @@
 **Warning ⚠️**: My hardware is inherited from Aspire E5-471G model, this EFI works with Aspire E5-573G model too.
 
 <details>
+ 
 ![img](https://i.imgur.com/mj0FBuD.jpg)
+ 
 </details>
 
-**Firstly we will go the base hardware for this EFI needs to work:**
+**Firstly we will go the base hardware for this EFI needs to work**:
 ---
 
 Hardware | Model
@@ -22,7 +24,8 @@ Ethernet | Realtek RTL8111
 ---
 
 <details>
-**Now, some minimum hardware recommendations:** 
+ 
+**Now, some minimum hardware recommendations**:
 
 ---
 
@@ -34,15 +37,24 @@ WLAN Card | Any Intel network card (A few Realtek cards works externally; Intel 
 SATA Drive	| Any Solid State Drive (SSD) with 240GB of storage.
 IDE Drive | Add a caddy for SATA Output, then, I recommend any Hard Disk with 500GB/1000GB of storage.
 ---
+ 
 </details>
 
 ## Works：
+
 <details>
+ 
 Integrated Graphics (taken by system as Iris HD 6100) ✔
 
 Native Screen (1366x768) ✔
 
 Multi Screen (Native + Any up 3840x2160) ✔
+ 
+ <details>
+  
+  ![img](https://i.imgur.com/chOTKRN.png)
+  
+ </details>
 
 RJ45 Ethernet Connection ✔
 
@@ -51,8 +63,6 @@ Touchpad ✔ (It's fully working, enable for "One touch" in System Preferences--
 Audio Card ✔ (Fixed, Audio driver now is correctly configured, if audio seems louder or lower change "alcid" bootflag *In config.plist --> NVRAM --> Add --> 7C436110-AB2A-4BBB-A880-FE41995C9F82 --> boot-args* for the supported coded for you audio hardware (list below): https://github.com/acidanthera/AppleALC/wiki/Supported-codecs).
  
 HDMI ✔ (Works fully, HDMI Audio works too).
-
-![img](https://i.imgur.com/chOTKRN.png)
 
 VGA ✔
 
