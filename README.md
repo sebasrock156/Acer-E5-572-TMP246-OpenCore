@@ -11,9 +11,9 @@ iGPU| Intel HD Graphics 5500
 SATA Drive | SSD Kingston UV400 960GB (For a better installation)
 IDE Driver | HDD Western Digital WD10SPZX (OPTIONAL: Needed for backup all your files)
 RAM | Hynix DDR3 16GB (4GB is little for MacOS, you can expand it 'till 16GB)
-Audio Card | Realtek ALC283 (From E5-471G)
+Audio Card | Realtek ALC283
 dGPU | NVIDIA 820M (Not supported on MacOS)
-WLAN Card | Intel Dual Band AC 3160
+WLAN Card | Intel Dual Band AC 3160 (From E5-471G)
 Ethernet | Realtek RTL8111
 ---
 **Warning ⚠️**: My hardware is inherited from Aspire E5-471G model, this EFI works with Aspire E5-573G model too.
