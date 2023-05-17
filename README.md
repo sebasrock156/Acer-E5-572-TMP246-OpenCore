@@ -3,9 +3,12 @@
 ![img](https://i.imgur.com/DCbWePN.png)
 
 **Warning ⚠️**: My hardware is inherited from Aspire E5-471G model, this EFI works with Aspire E5-573G model too.
-![img](https://i.imgur.com/mj0FBuD.jpg)
 
-**Firstly we will go the base hardware for this EFI needs to work:
+<details>
+![img](https://i.imgur.com/mj0FBuD.jpg)
+</details>
+
+**Firstly we will go the base hardware for this EFI needs to work:**
 ---
 
 Hardware | Model
@@ -19,7 +22,7 @@ Ethernet | Realtek RTL8111
 ---
 
 <details>
-**Now, some minimum hardware recommendations: 
+**Now, some minimum hardware recommendations:** 
 
 ---
 
@@ -34,6 +37,7 @@ IDE Drive | Add a caddy for SATA Output, then, I recommend any Hard Disk with 50
 </details>
 
 ## Works：
+<details>
 Integrated Graphics (taken by system as Iris HD 6100) ✔
 
 Native Screen (1366x768) ✔
@@ -82,8 +86,10 @@ Generation | Models
 Bluetooth ❌ (Don't use any Bluetooth Kext for fix, causes Kernel panics)
 
 Card Reader ❌ (ACPI Problems)
+</details>
 
 ## Installation Method:
+<details>
 
 **Before to try it:**
 
@@ -103,8 +109,10 @@ Maybe you need a External Keyboard and Mouse for use, and evite use USB 3.0/3.1 
 2. Now, when you boot from your macOS Drive, go to Extras folder and run "GenSMBIOS.command", select option 2 for select included config.plist, after, select option 3 for generate a new Apple SMBIOS and Serial. This is for fix not working Apple ID and Apple Aplications.
 
 3. If you have any Intel Wi-Fi card mentioned above, move and open "HeliPort" and configurate for enable in Autostart (System Preferences), Network connection aren't the best, but works.
+</details>
 
 ## Applications Support:
+<details>
 **Warning**: Some Apple apps as iMessage, FaceTime, App Store, Apple Music and etc won't login although you have patched SMBIOS before, you need an Apple product serial compatible with Apple Support too, consult in Olarila how fix it.
 
 **EDIT:**
@@ -124,7 +132,7 @@ Valve | Steam (IDK if Proton is included)
 Facebook | Facebook, Whatsapp, Instagram, etc.
 Adobe(x2) | Dreamweaver (not working) 
 ---
-
+</details>
 
 ## Misc:
 Some additional drivers and SSDTs are imported from Dell and others i7 5500U EFI Laptops, enable for backlight and some keyboard controls, could be some Fn commands doesn't work correctly, for example the Brightness control.
