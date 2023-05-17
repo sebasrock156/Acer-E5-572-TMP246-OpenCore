@@ -1,3 +1,3 @@
-# Acer TravelMate P246-MG Hackintosh OpenCore (Ventura)
+# Acer TravelMate P246-MG Hackintosh OpenCore (Monterey)
 
 Release soon
