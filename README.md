@@ -77,7 +77,15 @@ Battery Stats & Charge level ✔ (But for ACPI modifications, may have some of b
 
 Hibernate ✔ (If you did Dualboot with Windows, works partially in this OS)
  
-Bluetooth ✔ (Fully working now *see releases*)
+Bluetooth ✔ (Firstly, you should know what Bluetooth card you have; Second, below I left an explain for enable it):
+
+If you have a Intel Card (*see compatibility with Wireless list*): Open your config.plist with Opencore Configuration (Mac) or OC Auxiliary Tools (Windows), go to «Kernel» and enable: «itlwm, IntelBluetoothInjector and IntelBluetoothFirmware» kexts; then, ERASE «AirPortAtheros 4.0, Ath3kBT and Ath3kBTInjector» kexts (for evite kernel panics).
+
+If you have a Qualcomm (Atheros) Card: Bluetooth is enabled for default, if doesn't work, enable XhciPortLimit in config.plist --> Kernel.
+
+If you have a Broadcom Card: Buy a MacOS compatible Wireless card.
+ 
+If you have a Realtek Card: Change your Wireless card for a Broadcom/Atheros.
 
 WLAN ✔ (Always that you have an Intel Dual Band *support table below*):
 
