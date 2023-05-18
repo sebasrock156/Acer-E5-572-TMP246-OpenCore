@@ -2,7 +2,10 @@
 
 ![img](https://i.imgur.com/DCbWePN.png)
 
-**ADVICE**: If you want install OSX Monterey, see the next link (https://github.com/sebasrock156/Acer-TravelMate-P246-MG-OpenCore/tree/Monterey)
+**IMPORTANT ADVICE**: In future, I wanna work on a EFI for OSX Monterey.
+I did first tests with this old EFI and even boots (Opencore), doesn't boot on system; Will try with a new OC versions later.
+
+Anyways, here is the tree: (https://github.com/sebasrock156/Acer-TravelMate-P246-MG-OpenCore/tree/Monterey)
 
 **Warning ⚠️**: My hardware is inherited from Aspire E5-471G model, this EFI works with Aspire E5-573G model too.
  
@@ -70,9 +73,11 @@ Keyboard shortcuts ✔ (At least, volume, touchpad and brightness control; hiber
 Screen Backlit ✔ (But brightness control only works manually, descripte below; Backlight work as in Linux distros)
 ** For using brightness control: pressing "Pause" (up backlit ☀+) and "Lock Scroll" (down Backlit ☼-).
 
-Battery Stats & Charge level ✔
+Battery Stats & Charge level ✔ (But for ACPI modifications, may have some of battery drain)
 
 Hibernate ✔ (If you did Dualboot with Windows, works partially in this OS)
+ 
+Bluetooth ✔ (Fully working now *see releases*)
 
 WLAN ✔ (Always that you have an Intel Dual Band *support table below*):
 
@@ -90,9 +95,7 @@ Generation | Models
 
 ## Not work (IDK how to fix it):
 
-Bluetooth ❌ (Don't use any Bluetooth Kext for fix, causes Kernel panics)
-
-Card Reader ❌ (ACPI Problems)
+Card Reader ❌ (ACPI Problems, I'll trying to fix for Monterey release) 
 </details>
 
 ## Installation Method:
