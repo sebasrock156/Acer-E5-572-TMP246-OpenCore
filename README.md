@@ -4,6 +4,22 @@
 
 The first pre-release is available on **RELEASE** section.
 
+**Now, the hardware**:
+
+<details>
+
+Hardware | Model
+--- |:--:
+CPU | i7 5500U 2 Cores/4 Threads@2,4Ghz
+iGPU| Intel HD Graphics 5500
+Audio Card | Realtek ALC283
+dGPU | NVIDIA GeForce 820M (Not supported on MacOS)
+WLAN Card | Intel Dual Band AC 3160 (From E5-471G)
+Ethernet | Realtek RTL8111
+---
+
+</details>
+
 **How works (for now)**:
 - Opencore Bootloader (0.7.2)
 - Installation (is a bit slower than normal).
