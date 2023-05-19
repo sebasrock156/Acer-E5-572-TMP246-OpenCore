@@ -1,4 +1,5 @@
-# Acer TravelMate P246 Hackintosh OpenCore (Big Sur 11.2-11.6), now renamed as Aspire E5-471MG
+# Acer TravelMate P246 Hackintosh OpenCore (Big Sur 11.2-11.6)
+
 
 ![img](https://i.imgur.com/DCbWePN.png)
 
@@ -6,7 +7,7 @@
 
 And check out the **RELEASES** section.
 
-**Warning ⚠️**: My hardware is inherited from Aspire E5-471G model, this EFI works with Aspire E5-573G model too.
+**Warning ⚠️**: My hardware is inherited from Aspire E5-471G model, this EFI works with Aspire E5-573G model too (anyways, I'll wanna name "E5-471MG" 😂😂😂).
  
 ![img](https://i.imgur.com/mj0FBuD.jpg)
 
