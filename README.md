@@ -1,6 +1,6 @@
 # Acer TravelMate P246-MG Hackintosh OpenCore (Monterey 12.x)
 
-!img(https://i.imgur.com/JuBncyJ.png)
+![img](https://i.imgur.com/JuBncyJ.png)
 
 The first pre-release is available on **RELEASE** section.
 
