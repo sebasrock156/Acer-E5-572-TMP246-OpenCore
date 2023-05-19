@@ -2,10 +2,9 @@
 
 ![img](https://i.imgur.com/DCbWePN.png)
 
-**IMPORTANT ADVICE**: In future, I wanna work on a EFI for OSX Monterey.
-I did first tests with this old EFI and even boots (Opencore), doesn't boot on system; Will try with a new OC versions later.
+**IMPORTANT ADVICE**: I'm trying to boot macOS Monterey 12.6 in this laptop, futher info and code here: (https://github.com/sebasrock156/Acer-TravelMate-P246-MG-OpenCore/tree/Monterey)
 
-Anyways, here is the tree: (https://github.com/sebasrock156/Acer-TravelMate-P246-MG-OpenCore/tree/Monterey)
+And check out the **RELEASES** section.
 
 **Warning ⚠️**: My hardware is inherited from Aspire E5-471G model, this EFI works with Aspire E5-573G model too.
  
