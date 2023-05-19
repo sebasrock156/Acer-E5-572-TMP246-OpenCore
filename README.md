@@ -1,4 +1,4 @@
-# Acer TravelMate P246-MG Hackintosh OpenCore (Big Sur 11.x)
+# Acer TravelMate P246 Hackintosh OpenCore (Big Sur 11.2-11.6), now renamed as Aspire E5-471MG
 
 ![img](https://i.imgur.com/DCbWePN.png)
 
