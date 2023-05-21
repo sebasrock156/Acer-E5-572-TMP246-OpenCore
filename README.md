@@ -26,7 +26,7 @@ Ethernet | Realtek RTL8111
 - Ethernet RJ45 Port
 - Intel HD Graphics 5500 (patched in system as HD 6000)
 - Brightness Control using "Pause" (up backlit ☀+) and "Lock Scroll" (down Backlit ☼-)
-- Touchpad (works, but not gestures)
+- Touchpad (works, but not all gestures)
 - USB Ports
 - VGA and HDMI
 - SATA and IDE Drives
@@ -35,7 +35,6 @@ Ethernet | Realtek RTL8111
 
 **What's not work?**:
 - Audio/Microphone (I'll try to patch ALC283)
-- Touchpad gestures (Monterey only detects native Apple Bluetooth trackpads)
 - Hibernation (Really, works partially using Dualboot)
 - Touchpad (in other OSes if you use Dualboot)
 - Apple ID's apps (you need to fix SMBIOS)
