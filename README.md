@@ -33,13 +33,13 @@ IDE Drive | Add a caddy for SATA Output, then, I recommend any Hard Disk with 50
  
 </details>
 
-## Works (for now)：
+## Works：
 
 <details>
  
 Opencore Bootloader 0.7.5 ✔ (DON'T USE Clear NVRAM or Reset System options) 
  
-Integrated Graphics ✔ (taken by system as Iris HD 6000) 
+Integrated Graphics ✔ (taken by system as HD 6000) 
 
 Native Screen ✔ (1366x768) 
 
@@ -88,7 +88,7 @@ Generation | Models
  
 </details>
 
-## Partially work (For now):
+## Partially work:
 
 Apple ID's apps ✔❌ (you need to fix SMBIOS)
  
