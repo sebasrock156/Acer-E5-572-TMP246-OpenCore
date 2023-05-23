@@ -109,7 +109,7 @@ Card Reader ❌ (ACPI Problems, I'll trying to fix for Monterey release)
 ## Installation Method:
 <details>
 
-**Before to try it:**
+**Before to try it**:
 
 Maybe you need a External Keyboard and Mouse for use, and evite use USB 3.0/3.1 for Bootable USB Drive.
 
