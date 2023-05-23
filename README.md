@@ -63,6 +63,8 @@ Keyboard shortcuts ✔ (At least, volume, touchpad and brightness control; hiber
 
 Screen Backlit ✔ (Backlight work as in Linux distros)
 **For using brightness control: pressing "Pause" (up backlit ☀+) and "Lock Scroll" (down Backlit ☼-)**.
+ 
+Audio Card ✔ (Now it's fixed *thanks to Alejandro Barreiro from Hackintosh Hispanic 2.0 telegram group*, change "alcid" bootflag *In config.plist --> NVRAM --> Add --> 7C436110-AB2A-4BBB-A880-FE41995C9F82 --> boot-args* for the supported coded for you audio hardware (list below): https://github.com/acidanthera/AppleALC/wiki/Supported-codecs).
 
 Battery Stats & Charge level ✔ (But for ACPI modifications, may have some of battery drain)
 
@@ -86,11 +88,8 @@ Generation | Models
  
 </details>
 
-## Not work (IDK how to fix it):
- 
- 
-Audio Card ❌ (Don't work for now; when will work, change "alcid" bootflag *In config.plist --> NVRAM --> Add --> 7C436110-AB2A-4BBB-A880-FE41995C9F82 --> boot-args* for the supported coded for you audio hardware (list below): https://github.com/acidanthera/AppleALC/wiki/Supported-codecs).
- 
+## Partially work (For now):
+
 Apple ID's apps ✔❌ (you need to fix SMBIOS)
  
 
