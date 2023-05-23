@@ -7,7 +7,7 @@
 
 And check out the **RELEASES** section.
 
-**Warning ⚠️**: My hardware is inherited from Aspire E5-471G model, this EFI works with Aspire E5-573G model too (anyways, I'll wanna name "E5-471MG" 😂😂😂).
+**Warning ⚠️**: My hardware is inherited from Aspire E5-471G model, this EFI works with Aspire V3-472G and some Aspire E5-573G models too (anyways, I'll wanna name "E5-471MG" 😂😂😂).
  
 ![img](https://i.imgur.com/mj0FBuD.jpg)
 
