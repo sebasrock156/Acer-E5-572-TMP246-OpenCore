@@ -62,7 +62,7 @@ Card Reader ✔ (Now it's works)
 Keyboard shortcuts ✔ (At least, volume, touchpad and brightness control; hibernate, and network may not work)
 
 Screen Backlit ✔ (Backlight work as in Linux distros)
-** For using brightness control: pressing "Pause" (up backlit ☀+) and "Lock Scroll" (down Backlit ☼-).
+**For using brightness control: pressing "Pause" (up backlit ☀+) and "Lock Scroll" (down Backlit ☼-)**.
 
 Battery Stats & Charge level ✔ (But for ACPI modifications, may have some of battery drain)
 
