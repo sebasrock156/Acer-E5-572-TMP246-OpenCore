@@ -1,4 +1,4 @@
-# Acer TravelMate P246 Hackintosh OpenCore (Big Sur 11.2-11.6)
+# Acer Aspire V3-472G/TravelMate-P246 Hackintosh OpenCore (Big Sur 11.2-11.6)
 
 
 ![img](https://i.imgur.com/DCbWePN.png)
