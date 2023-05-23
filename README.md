@@ -83,6 +83,8 @@ Generation | Models
 8xxx | Dual Band AC 8260, Dual Band AC 8265
 9xxx | Dual Band AC 9260, Dual Band AC 9461, Dual Band AC 9462, Dual Band AC 9560 
 ---
+ 
+</details>
 
 ## Not work (IDK how to fix it):
  
@@ -91,5 +93,5 @@ Audio Card ❌ (Don't work for now; when will work, change "alcid" bootflag *In 
  
 Apple ID's apps ✔❌ (you need to fix SMBIOS)
  
-</details>
+
  
