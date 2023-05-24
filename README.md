@@ -1,4 +1,4 @@
-# Acer Aspire V3-472G/TravelMate P246-MG Hackintosh OpenCore (Monterey 12.x)
+# Acer Aspire V3-472G/TravelMate P246-MG Hackintosh OpenCore (Monterey 12.2-12.6)
 
 [Wireless Support]: https://openintelwireless.github.io/itlwm/#download
 
