@@ -2,7 +2,7 @@
 
 ![img]
 
-Here's is a ULTRA WIP EFI Boot.
+Here's a ULTRA WIP EFI Boot.
 
 Works (for now):
 - Opencore 0.9.0 (HFS partitions doesn't read by default, I'll fix later)
