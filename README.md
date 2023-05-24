@@ -1,6 +1,6 @@
 # Acer Aspire V3-472G/TravelMate P246-MG Hackintosh OpenCore (Ventura 13.x)
 
-![img](https://i.imgur.com/JuBncyJ.png)
+![img]
 
 **Now, the hardware**:
 
