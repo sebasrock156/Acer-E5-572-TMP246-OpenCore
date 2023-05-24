@@ -6,14 +6,14 @@ This is a "big" project to bring MacOS OSes for those laptops with Opencore Boot
 ![img] (future BS/MY/VA screenshot)
 
 
-And check out the **RELEASES** section.
+Check out the **RELEASES** section.
 
 **Warning ⚠️**: My hardware is inherited from Aspire E5-471G model, this EFI works with Aspire V3-472G and some Aspire E5-573G models too (anyways, I'll wanna name "E5-471MG" 😂😂😂).
  
 ![img](https://i.imgur.com/mj0FBuD.jpg)
 
 
-**Firstly we will go the base hardware for this EFI needs to work**:
+**Firstly we will go the base hardware for those EFIs needs to work**:
 ---
 
 Hardware | Model
@@ -43,69 +43,6 @@ IDE Drive | Add a caddy for SATA Output, then, I recommend any Hard Disk with 50
  
 </details>
 
-## Works：
-
-<details>
- 
-Integrated Graphics (taken by system as Iris HD 6100) ✔
-
-Native Screen (1366x768) ✔
-
-Multi Screen (Native + Any up 3840x2160) ✔
- 
-
-![img](https://i.imgur.com/chOTKRN.png)
-  
-
-RJ45 Ethernet Connection ✔
-
-Touchpad ✔ (It's fully working, enable for "One touch" in System Preferences-->Trackpad; If you use dual boot, touchpad may not work on Windows/Linux/BSD for ACPI changes)
-
-Audio Card ✔ (Fixed, Audio driver now is correctly configured, if audio seems louder or lower change "alcid" bootflag *In config.plist --> NVRAM --> Add --> 7C436110-AB2A-4BBB-A880-FE41995C9F82 --> boot-args* for the supported coded for you audio hardware (list below): https://github.com/acidanthera/AppleALC/wiki/Supported-codecs).
- 
-HDMI ✔ (Works fully, HDMI Audio works too).
-
-VGA ✔
-
-Camera ✔
-
-Keyboard shortcuts ✔ (At least, volume, touchpad and brightness control; hibernate, network, silence and Lock Numbers may not work)
-
-Screen Backlit ✔ (But brightness control only works manually, descripte below; Backlight work as in Linux distros)
-** For using brightness control: pressing "Pause" (up backlit ☀+) and "Lock Scroll" (down Backlit ☼-).
-
-Battery Stats & Charge level ✔ (But for ACPI modifications, may have some of battery drain)
-
-Hibernate ✔ (If you did Dualboot with Windows, works partially in this OS)
- 
-Bluetooth ✔ (Firstly, you should know what Bluetooth card you have; Second, below I left an explain for enable it):
-
-If you have a Intel Card (*see compatibility with Wireless list*): Open your config.plist with Opencore Configuration (Mac) or OC Auxiliary Tools (Windows), go to «Kernel» and enable: «itlwm, IntelBluetoothInjector and IntelBluetoothFirmware» kexts; then, ERASE «AirPortAtheros 4.0, Ath3kBT and Ath3kBTInjector» kexts (for evite kernel panics).
-
-If you have a Qualcomm (Atheros) Card: Bluetooth is enabled for default, if doesn't work, enable XhciPortLimit in config.plist --> Kernel.
-
-If you have a Broadcom Card: Buy a MacOS compatible Wireless card.
- 
-If you have a Realtek Card: Change your Wireless card for a Broadcom/Atheros.
-
-WLAN ✔ (Always that you have an Intel Dual Band *support table below*):
-
-## Supported WLAN Cards (by Intel):
----
-
-Generation | Models
----|:--:
-3xxx | Dual Band AC 3160, Dual Band AC 3165, Dual Band AC 3168
-4xxx | Dual Band AC 4165
-7xxx | Dual Band AC 7260, Dual Band AC 7265
-8xxx | Dual Band AC 8260, Dual Band AC 8265
-9xxx | Dual Band AC 9260, Dual Band AC 9461, Dual Band AC 9462, Dual Band AC 9560 
----
-
-## Not work (IDK how to fix it):
-
-Card Reader ❌ (ACPI Problems, I'll trying to fix for Monterey release) 
-</details>
 
 ## Installation Method:
 <details>
