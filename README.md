@@ -3,7 +3,7 @@
 
 ![img](https://i.imgur.com/DCbWePN.png)
 
-**IMPORTANT ADVICE**: I'm trying to boot macOS Monterey 12.6 in this laptop, futher info and code here: (https://github.com/sebasrock156/Acer-TravelMate-P246-MG-OpenCore/tree/Monterey)
+**IMPORTANT ADVICE**: MacOS Monterey is HERE: (https://github.com/sebasrock156/Acer-V3-472-TMP246-OpenCore/tree/Monterey)
 
 And check out the **RELEASES** section.
 
