@@ -4,6 +4,7 @@
 ![img](https://i.imgur.com/DCbWePN.png)
 
 **IMPORTANT ADVICE**: MacOS Monterey is HERE: (https://github.com/sebasrock156/Acer-V3-472-TMP246-OpenCore/tree/Monterey)
+I'll porting Ventura too, information later.
 
 And check out the **RELEASES** section.
 
