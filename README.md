@@ -8,17 +8,21 @@ This is a "big" project to bring MacOS OSes for those laptops with Opencore Boot
 
 See MacOS version banners below:
 
-![img](https://i.imgur.com/m3iq85Y.png) ![link](https://github.com/sebasrock156/Acer-V3-472-TMP246-OpenCore/tree/BigSur)
-
 **More info of MacOS [BigSur]**
 
-![img](https://i.imgur.com/Chh5xSE.png)
+![img](https://i.imgur.com/m3iq85Y.png)
+
 
 **More info of MacOS [Monterey]**
 
-![img](later)
+![img](https://i.imgur.com/Chh5xSE.png)
+
 
 **More info of MacOS [Ventura]**
+
+![img](later)
+
+
 
 **Warning ⚠️**: My hardware is inherited from Aspire E5-471G model, this EFI works with Aspire V3-472G and some Aspire E5-573G models too (anyways, I'll wanna name "E5-471MG" 😂😂😂).
  
