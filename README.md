@@ -14,7 +14,6 @@ Works (for now):
 Not works (for now):
 - System Boot (I think is for SMBIOS incompatibility)
 - Touchpad (fault of kexts)
-- Graphics (works partially)
 
 
  
