@@ -3,17 +3,8 @@
 
 ![img](https://i.imgur.com/DCbWePN.png)
 
-**IMPORTANT ADVICE**: MacOS Monterey is HERE: (https://github.com/sebasrock156/Acer-V3-472-TMP246-OpenCore/tree/Monterey)
-I'll porting Ventura too, information later.
 
-And check out the **RELEASES** section.
-
-**Warning ⚠️**: My hardware is inherited from Aspire E5-471G model, this EFI works with Aspire V3-472G and some Aspire E5-573G models too (anyways, I'll wanna name "E5-471MG" 😂😂😂).
- 
-![img](https://i.imgur.com/mj0FBuD.jpg)
-
-
-**Firstly we will go the base hardware for this EFI needs to work**:
+**Let's go with my hardware**:
 ---
 
 Hardware | Model
