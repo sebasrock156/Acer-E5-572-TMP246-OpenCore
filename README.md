@@ -43,7 +43,7 @@ CPU | i7 5500U 2 Cores/4 Threads@2,4Ghz
 iGPU| Intel HD Graphics 5500
 Audio Card | Realtek ALC283
 dGPU | NVIDIA GeForce 820M (Not supported on MacOS)
-WLAN Card | Some Intel Card (see supported models on [BigSur] or [Monterey])
+WLAN Card | Some Intel Card (see supported models on [BigSur] or [Monterey]
 Ethernet | Realtek RTL8111
 ---
 
