@@ -2,8 +2,6 @@
 
 ![img](https://i.imgur.com/JuBncyJ.png)
 
-The first pre-release is available on **RELEASE** section.
-
 **Now, the hardware**:
 
 <details>
