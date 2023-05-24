@@ -1,10 +1,10 @@
-# Acer Aspire V3-472G/TravelMate-P246 Hackintosh OpenCore (Big Sur 11.2-11.6)
+# Acer Aspire V3-472G/TravelMate-P246 Hackintosh OpenCore
+
+This is a "big" project to bring MacOS OSes for those laptops with Opencore Bootloader.
 
 
-![img](https://i.imgur.com/DCbWePN.png)
+![img] (future BS/MY/VA screenshot)
 
-**IMPORTANT ADVICE**: MacOS Monterey is HERE: (https://github.com/sebasrock156/Acer-V3-472-TMP246-OpenCore/tree/Monterey)
-I'll porting Ventura too, information later.
 
 And check out the **RELEASES** section.
 
