@@ -1,4 +1,4 @@
-# Acer Aspire V3-472G/TravelMate P246-MG Hackintosh OpenCore (Monterey 12.x)
+# Acer Aspire V3-472G/TravelMate P246-MG Hackintosh OpenCore (Ventura 13.x)
 
 ![img](https://i.imgur.com/JuBncyJ.png)
 
@@ -35,7 +35,7 @@ IDE Drive | Add a caddy for SATA Output, then, I recommend any Hard Disk with 50
 
 <details>
  
-Opencore Bootloader 0.7.5 ✔ (DON'T USE Clear NVRAM or Reset System options) 
+Opencore Bootloader 0.9.0 ✔ (DON'T USE Clear NVRAM or Reset System options) 
  
 Integrated Graphics ✔ (taken by system as HD 6000) 
 
