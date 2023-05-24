@@ -1,5 +1,7 @@
 # Acer Aspire V3-472G/TravelMate P246-MG Hackintosh OpenCore (Monterey 12.x)
 
+[Wireless Support]: https://openintelwireless.github.io/itlwm/#download
+
 ![img](https://i.imgur.com/ZJytYpS.png)
 
 **Now, the hardware**:
@@ -83,6 +85,7 @@ Generation | Models
 8xxx | Dual Band AC 8260, Dual Band AC 8265
 9xxx | Dual Band AC 9260, Dual Band AC 9461, Dual Band AC 9462, Dual Band AC 9560 
 ---
+This EFI use Airportitlwm for fix Wi-Fi connection, see newer hardware in [Wireless Support]
  
 </details>
 
