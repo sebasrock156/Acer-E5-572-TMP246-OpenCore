@@ -1,12 +1,14 @@
-[bigsur]: https://github.com/sebasrock156/Acer-V3-472-TMP246-OpenCore/tree/BigSur
-[monterey]: https://github.com/sebasrock156/Acer-V3-472-TMP246-OpenCore/tree/Monterey
-[ventura]: https://github.com/sebasrock156/Acer-V3-472-TMP246-OpenCore/tree/Ventura
+[BigSur]: https://github.com/sebasrock156/Acer-V3-472-TMP246-OpenCore/tree/BigSur
+[Monterey]: https://github.com/sebasrock156/Acer-V3-472-TMP246-OpenCore/tree/Monterey
+[Ventura]: https://github.com/sebasrock156/Acer-V3-472-TMP246-OpenCore/tree/Ventura
 
 # Acer Aspire V3-472G/TravelMate-P246 Hackintosh OpenCore
 
 This is a "big" project to bring MacOS OSes for those laptops with Opencore Bootloader.
 
-**For try MacOS BigSur go to: [bigsur]** 
+**More info of MacOS [BigSur]**
+**More info of MacOS [Monterey]**
+**More info of MacOS [Ventura]**
 
 
 
