@@ -1,4 +1,4 @@
-# Acer Aspire V3-472G/TravelMate P246-MG Hackintosh OpenCore (Monterey 12.2-12.6)
+# Acer Aspire V3-572G/TravelMate P246-MG Hackintosh OpenCore (Monterey 12.2-12.6)
 
 [AppleALC Support Codecs]: https://github.com/acidanthera/AppleALC/wiki/Supported-codecs
 [Wireless Support]: https://openintelwireless.github.io/itlwm/#download
@@ -65,7 +65,7 @@ Keyboard shortcuts ✔ (At least, volume, touchpad and brightness control; hiber
 Screen Backlit ✔ (Backlight work as in Linux distros)
 **For using brightness control: pressing "Pause" (up backlit ☀+) and "Lock Scroll" (down Backlit ☼-)**.
  
-Audio Card ✔ (Now it's fixed *thanks to Alejandro Barreiro from Hackintosh Hispanic 2.0 telegram group*, change "alcid" bootflag *In config.plist --> NVRAM --> Add --> 7C436110-AB2A-4BBB-A880-FE41995C9F82 --> boot-args* for the supported coded for you audio hardware, see in [AppleALC Support Codecs]).
+Audio Card ✔ (Now it's fixed *thanks to Alejandro Barreiro from Hackintosh Hispanic 2.0 telegram group*, change "alcid" bootflag *In config.plist --> NVRAM --> Add --> 7C436110-AB2A-4BBB-A880-FE41995C9F82 --> boot-args* for the supported coded for you audio hardware, see in [AppleALC Support Codecs]; If you have problems with some Realtek Audio Card, pull a request here in Github).
 
 Battery Stats & Charge level ✔ (But for ACPI modifications, may have some of battery drain)
 
