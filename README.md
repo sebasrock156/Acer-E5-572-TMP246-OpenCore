@@ -2,7 +2,7 @@
 [Monterey]: https://github.com/sebasrock156/Acer-V3-472-TMP246-OpenCore/tree/Monterey
 [Ventura]: https://github.com/sebasrock156/Acer-V3-472-TMP246-OpenCore/tree/Ventura
 
-# Acer Aspire V3-472G/TravelMate-P246 Hackintosh OpenCore
+# Acer Aspire V3-572G/TravelMate-P246 Hackintosh OpenCore
 
 This is a "big" project to bring MacOS OSes for those laptops with Opencore Bootloader.
 
