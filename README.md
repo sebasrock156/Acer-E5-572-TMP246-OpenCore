@@ -24,7 +24,7 @@ See MacOS version banners below:
 
 
 
-**Warning ⚠️**: My hardware is inherited from Aspire E5-471G model, this EFI works with Aspire V3-472G and some Aspire E5-573G models too (anyways, I'll wanna name "E5-471MG" 😂😂😂).
+**Warning ⚠️**: My hardware is inherited from Aspire E5-471G model, this EFI works with Aspire V3-572G and some Aspire E5-573G models too (anyways, I'll wanna name "E5-471MG" 😂😂😂).
 
 <details>
  
