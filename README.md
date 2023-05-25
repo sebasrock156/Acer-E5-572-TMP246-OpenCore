@@ -1,4 +1,4 @@
-# Acer Aspire V3-472G/TravelMate P246-MG Hackintosh OpenCore (Ventura 13.x)
+# Acer Aspire V3-572G/TravelMate P246-MG Hackintosh OpenCore (Ventura 13.x)
 
 ![img](FutureScreenshot)
 
