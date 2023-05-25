@@ -1,4 +1,4 @@
-# Acer Aspire V3-472G/TravelMate-P246 Hackintosh OpenCore (Big Sur 11.2-11.6)
+# Acer Aspire V3-572G/TravelMate-P246 Hackintosh OpenCore (Big Sur 11.2-11.6)
 
 [AppleALC Support Codecs]: https://github.com/acidanthera/AppleALC/wiki/Supported-codecs
 
@@ -126,23 +126,6 @@ Maybe you need a External Keyboard and Mouse for use, and evite use USB 3.0/3.1 
 
 **Warning**: Some Apple apps as iMessage, FaceTime, App Store, Apple Music and etc won't login although you have patched SMBIOS before, you need an Apple product serial compatible with Apple Support too, consult in Olarila how fix it.
 
-**EDIT:**
-Now some Apple Apps were patched to work.
-
----
-
-Developer | App(s)
----|:--:
-Apple | Store, iMesssage/FaceTime (partially), Mail, Maps, Music...
-Adobe | Photoshop, Lightroom, Premiere Pro, Audition, Illustrator, Acrobat DC, After Effects, XD, InDesign, etc. (2019, 20 & 21 versions)
-Electronic Arts | Origin, The Sims 4, Battlefield 1 and V (worse performance than Windows).
-Microsoft | Office Suite, Teams, Edge. 
-Blackmagic | Davinci Resolve (17.x)
-TechSmith | Camtasia Studio (latest version)
-Valve | Steam (IDK if Proton is included)
-Facebook | Facebook, Whatsapp, Instagram, etc.
-Adobe(x2) | Dreamweaver (not working) 
----
 
 ## Misc:
 Some additional drivers and SSDTs are imported from Dell and others i7 5500U EFI Laptops, enable for backlight and some keyboard controls, could be some Fn commands doesn't work correctly, for example the Brightness control.
