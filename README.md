@@ -20,7 +20,7 @@ See MacOS version banners below:
 
 **More info of MacOS [Ventura]**
 
-![img](https://i.imgur.com/ck3AHOt.png)
+![img](https://i.imgur.com/moodOld.png)
 
 
 
