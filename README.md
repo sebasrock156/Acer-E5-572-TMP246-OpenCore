@@ -4,7 +4,7 @@
 
 ![img](https://i.imgur.com/iRjYEHF.png)
 
-For test, see the [Pre-Releases]
+**For test, see the [Pre-Releases]**
 
 Works (for now):
 - Opencore 0.9.2 ✅
