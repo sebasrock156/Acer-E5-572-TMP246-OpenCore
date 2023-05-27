@@ -38,42 +38,42 @@ IDE Drive | Add a caddy for SATA Output, then, I recommend any Hard Disk with 50
 
 <details>
  
-Opencore Bootloader 0.7.5 ✔ (DON'T USE Clear NVRAM or Reset System options) 
+Opencore Bootloader 0.7.5 ✅ (DON'T USE Clear NVRAM or Reset System options) 
  
-Integrated Graphics ✔ (taken by system as HD 6000) 
+Integrated Graphics ✅ (taken by system as HD 6000) 
 
-Native Screen ✔ (1366x768) 
+Native Screen ✅ (1366x768) 
 
-Multi Screen ✔ (Native + Any up 3840x2160) 
+Multi Screen ✅ (Native + Any up 3840x2160) 
 
-RJ45 Ethernet Connection ✔
+RJ45 Ethernet Connection ✅
  
-USB Ports ✔ (2.0, 3.0/3.1) 
+USB Ports ✅ (2.0, 3.0/3.1) 
 
-Touchpad ✔ (It's partially working, some gestures may not work; If you use dual boot, touchpad may not work on Windows/Linux/BSD for ACPI changes)
+Touchpad ✅ (It's partially working, some gestures may not work; If you use dual boot, touchpad may not work on Windows/Linux/BSD for ACPI changes)
  
-HDMI ✔ (Works fully, HDMI Audio works too).
+HDMI ✅ (Works fully, HDMI Audio works too).
 
-VGA ✔
+VGA ✅
 
-Camera ✔
+Camera ✅
  
-Card Reader ✔ (Now it's works) 
+Card Reader ✅ (Now it's works; Realtek Card readers only) 
 
-Keyboard shortcuts ✔ (At least, volume, touchpad and brightness control; hibernate, and network may not work)
+Keyboard shortcuts ✅ (At least, volume, touchpad and brightness control; hibernate, and network may not work)
 
-Screen Backlit ✔ (Backlight work as in Linux distros)
+Screen Backlit ✅ (Backlight work as in Linux distros)
 **For using brightness control: pressing "Pause" (up backlit ☀+) and "Lock Scroll" (down Backlit ☼-)**.
  
-Audio Card ✔ (Now it's fixed *thanks to Alejandro Barreiro from Hackintosh Hispanic 2.0 telegram group*, change "alcid" bootflag *In config.plist --> NVRAM --> Add --> 7C436110-AB2A-4BBB-A880-FE41995C9F82 --> boot-args* for the supported coded for you audio hardware, see in [AppleALC Support Codecs]; If you have problems with some Realtek Audio Card, pull a request here in Github).
+Audio Card ✅ (Now it's fixed *thanks to Alejandro Barreiro from Hackintosh Hispanic 2.0 telegram group*, change "alcid" bootflag *In config.plist --> NVRAM --> Add --> 7C436110-AB2A-4BBB-A880-FE41995C9F82 --> boot-args* for the supported coded for you audio hardware, see in [AppleALC Support Codecs]; If you have problems with some Realtek Audio Card, pull a request here in Github).
 
-Battery Stats & Charge level ✔ (But for ACPI modifications, may have some of battery drain)
+Battery Stats & Charge level ✅ (But for ACPI modifications, may have some of battery drain)
 
-Hibernate ✔ (If you did Dualboot with Windows, works partially in this OS)
+Hibernate ✅ (If you did Dualboot with Windows, works partially in this OS)
  
-Bluetooth ✔ (Fully working; this EFI build is for Intel Cards only).
+Bluetooth ✅ (Fully working; this EFI build is for Intel Cards only).
 
-WLAN ✔ (Always that you have an Intel Dual Band *support table below*):
+Wi-Fi ✅ (Always that you have an Intel Dual Band *support table below*):
 
 ## Supported WLAN Cards (by Intel):
 ---
@@ -92,7 +92,7 @@ This EFI use Airportitlwm for fix Wi-Fi connection, see newer hardware in [Wirel
 
 ## Partially work:
 
-Apple ID's apps ✔❌ (you need to fix SMBIOS)
+Apple ID's apps ✅❌ (you need to fix SMBIOS)
  
 
  
