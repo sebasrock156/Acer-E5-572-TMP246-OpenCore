@@ -4,18 +4,19 @@
 
 # Acer Aspire V3-572G/TravelMate-P246 Hackintosh OpenCore
 
-This is a "big" project to bring MacOS OSes for those laptops with Opencore Bootloader.
+This is a "big" project to bring MacOS OSes for those laptops with Opencore Bootloader, for more information, click on "More info of **MacOS Version** below:
 
-See MacOS version banners below:
 
 **More info of MacOS [BigSur]**
 
 ![img](https://i.imgur.com/m3iq85Y.png)
 
 
+
 **More info of MacOS [Monterey]**
 
 ![img](https://i.imgur.com/Chh5xSE.png)
+
 
 
 **More info of MacOS [Ventura]**
