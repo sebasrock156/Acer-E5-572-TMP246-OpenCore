@@ -1,8 +1,10 @@
-# Acer Aspire V3-572G/TravelMate P246-MG Hackintosh OpenCore (Ventura 13.x)
+# Acer Aspire V3-572G/TravelMate P246-MG Hackintosh OpenCore (WIP-Ventura 13.x)
+
+[Pre-Releases]: https://github.com/sebasrock156/Acer-V3-572-TMP246-OpenCore/releases/tag/pre-releases
 
 ![img](https://i.imgur.com/iRjYEHF.png)
 
-Here's a WIP EFI Boot.
+For test, see the [Pre-Releases]
 
 Works (for now):
 - Opencore 0.9.2 ✅
