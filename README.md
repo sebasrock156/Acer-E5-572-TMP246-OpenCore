@@ -39,38 +39,38 @@ IDE Drive | Add a caddy for SATA Output, then, I recommend any Hard Disk with 50
 
 <details>
  
-Integrated Graphics (taken by system as Iris HD 6100) ✔
+Integrated Graphics (taken by system as Iris HD 6100) ✅
 
-Native Screen (1366x768) ✔
+Native Screen (1366x768) ✅
 
-Multi Screen (Native + Any up 3840x2160) ✔
+Multi Screen (Native + Any up 3840x2160) ✅
  
 
 ![img](https://i.imgur.com/chOTKRN.png)
   
 
-RJ45 Ethernet Connection ✔
+RJ45 Ethernet Connection ✅
 
-Touchpad ✔ (It's fully working, enable for "One touch" in System Preferences-->Trackpad; If you use dual boot, touchpad may not work on Windows/Linux/BSD for ACPI changes)
+Touchpad ✅ (It's fully working, enable for "One touch" in System Preferences-->Trackpad; If you use dual boot, touchpad may not work on Windows/Linux/BSD for ACPI changes)
 
-Audio Card ✔ (Fixed, Audio driver now is correctly configured, if audio seems louder or lower change "alcid" bootflag *In config.plist --> NVRAM --> Add --> 7C436110-AB2A-4BBB-A880-FE41995C9F82 --> boot-args* for the supported coded for you audio hardware, see in [AppleALC Support Codecs]).
+Audio Card ✅ (Fixed, Audio driver now is correctly configured, if audio seems louder or lower change "alcid" bootflag *In config.plist --> NVRAM --> Add --> 7C436110-AB2A-4BBB-A880-FE41995C9F82 --> boot-args* for the supported coded for you audio hardware, see in [AppleALC Support Codecs]).
  
-HDMI ✔ (Works fully, HDMI Audio works too).
+HDMI ✅ (Works fully, HDMI Audio works too).
 
-VGA ✔
+VGA ✅
 
-Camera ✔
+Camera ✅
 
-Keyboard shortcuts ✔ (At least, volume, touchpad and brightness control; hibernate, network, silence and Lock Numbers may not work)
+Keyboard shortcuts ✅ (At least, volume, touchpad and brightness control; hibernate, network, silence and Lock Numbers may not work)
 
-Screen Backlit ✔ (But brightness control only works manually, descripte below; Backlight work as in Linux distros)
+Screen Backlit ✅ (But brightness control only works manually, descripte below; Backlight work as in Linux distros)
 ** For using brightness control: pressing "Pause" (up backlit ☀+) and "Lock Scroll" (down Backlit ☼-).
 
-Battery Stats & Charge level ✔ (But for ACPI modifications, may have some of battery drain)
+Battery Stats & Charge level ✅ (But for ACPI modifications, may have some of battery drain)
 
-Hibernate ✔ (If you did Dualboot with Windows, works partially in this OS)
+Hibernate ✅ (If you did Dualboot with Windows, works partially in this OS)
  
-Bluetooth ✔ (Firstly, you should know what Bluetooth card you have; Second, below I left an explain for enable it):
+Bluetooth ✅ (Firstly, you should know what Bluetooth card you have; Second, below I left an explain for enable it):
 
 If you have a Intel Card (*see compatibility with Wireless list*): Open your config.plist with Opencore Configuration (Mac) or OC Auxiliary Tools (Windows), go to «Kernel» and enable: «itlwm, IntelBluetoothInjector and IntelBluetoothFirmware» kexts; then, ERASE «AirPortAtheros 4.0, Ath3kBT and Ath3kBTInjector» kexts (for evite kernel panics).
 
@@ -80,7 +80,7 @@ If you have a Broadcom Card: Buy a MacOS compatible Wireless card.
  
 If you have a Realtek Card: Change your Wireless card for a Broadcom/Atheros.
 
-WLAN ✔ (Always that you have an Intel Dual Band *support table below*):
+Wi-Fi ✅ (Always that you have an Intel Dual Band *support table below*):
 
 ## Supported WLAN Cards (by Intel):
 ---
