@@ -12,6 +12,7 @@ Works (for now):
 - System Boot ✅ (It's fixed disabling SecureBootModel from config.plist)
 - Ethernet ✅
 - USB Devices ✅ (2.0, 3.0/3.1)
+- VoodooPS2Controller ✅❌ (Works partially, if you connect an external keyboard, this may not work correctly)
 - Audio Card ✅❌ (fully working; but isn't enabled)
 - Screen ✅ (1366x768)
 - Wi-Fi ✅ (altrough is some slow to connect)
