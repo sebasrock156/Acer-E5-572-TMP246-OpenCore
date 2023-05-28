@@ -45,7 +45,7 @@ iGPU| Intel HD Graphics 5500
 Audio Card | Realtek ALC283
 dGPU | NVIDIA GeForce 820M (Not supported on MacOS)
 WLAN Card | Some Intel Card (see supported models on [BigSur] or [Monterey]
-Ethernet | Realtek RTL8111
+Ethernet | Realtek RTL8168
 ---
 
 <details>
