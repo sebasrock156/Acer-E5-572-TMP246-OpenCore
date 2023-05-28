@@ -20,7 +20,7 @@ iGPU| Intel HD Graphics 5500
 Audio Card | Realtek ALC283
 dGPU | NVIDIA GeForce 820M (Not supported on MacOS)
 WLAN Card | Intel Dual Band AC 3160 (From E5-471G)
-Ethernet | Realtek RTL8111
+Ethernet | Realtek RTL8168
 ---
  
 **Now, some minimum hardware recommendations**:
