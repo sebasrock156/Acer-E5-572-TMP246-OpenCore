@@ -4,6 +4,7 @@
 
 ![img](https://i.imgur.com/iRjYEHF.png)
 
+**ADVICE⚠️: THE PROJECT HAS BEEN STOPPED FOR NOW**
 **For test, see the [Pre-Releases]**
 
 Works (for now):
