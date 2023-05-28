@@ -1,7 +1,7 @@
 # Acer Aspire V3-572G/TravelMate P246-MG Hackintosh OpenCore (Monterey 12.2-12.6)
 
 [AppleALC Support Codecs]: https://github.com/acidanthera/AppleALC/wiki/Supported-codecs
-[Wireless Support]: https://openintelwireless.github.io/itlwm/#download
+[Wireless Support]: (https://openintelwireless.github.io/itlwm/Compat.html#dvm-iwn)
 [DOWNLOAD HERE]: https://github.com/sebasrock156/Acer-V3-572-TMP246-OpenCore/releases/tag/12-releases
 
 ![img](https://i.imgur.com/ZJytYpS.png)
