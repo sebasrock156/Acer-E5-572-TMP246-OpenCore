@@ -20,7 +20,7 @@ Works (for now):
 
 Not works (for now):
 - Touchpad ❌ (VoodooPS2Controller doesn't work full on Ventura; DON'T TRY TO USE, may break keyboard function)
-- Bluetooth ❌ (I'll trying to fix it; possible fix: Add to NVRAM --> 7C436110-AB2A-4BBB-A880-FE41995C9F82 --> [ADD] bluetoothExternalDongleFailed --> [as DATA] --> [HEX Value] 00 and [ADD] bluetoothInternalControllerInfo --> [as DATA] --> [HEX Value] 0000000000000000000000000000).
+- Bluetooth ❌ (I'll trying to fix it; If bluetoothd causes crash, delete to NVRAM --> 7C436110-AB2A-4BBB-A880-FE41995C9F82 --> [ADD] bluetoothExternalDongleFailed and bluetoothInternalControllerInfo values).
 - Graphics ❌ (seen 4MB of Memory for HD 5500 incompatibility; I'll try to patch with OCLP; if not, I'll try to patch "backporting" kexts from Monterey)
 
 
