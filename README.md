@@ -20,7 +20,7 @@ Works (for now):
 Not works (for now):
 - Touchpad ❌ (VoodooPS2Controller doesn't work full on Ventura; DON'T TRY TO USE, may break keyboard function)
 - Bluetooth ❌ (I'll trying to fix it).
-- Graphics ❌ (seen 4MB of Memory for HD 5500 incompatibility)
+- Graphics ❌ (seen 4MB of Memory for HD 5500 incompatibility; I'll try to patch with OCLP; if not, I'll try to patch "backporting" kexts from Monterey)
 
 
  
