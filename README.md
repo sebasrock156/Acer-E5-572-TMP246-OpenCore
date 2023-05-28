@@ -1,8 +1,12 @@
 # Acer Aspire V3-572G/TravelMate-P246 Hackintosh OpenCore (Big Sur 11.2-11.6)
 
+[DOWNLOAD HERE]: https://github.com/sebasrock156/Acer-V3-572-TMP246-OpenCore/releases/tag/releases
 [AppleALC Support Codecs]: https://github.com/acidanthera/AppleALC/wiki/Supported-codecs
 
 ![img](https://i.imgur.com/DCbWePN.png)
+
+
+##**[DOWNLOAD HERE]**
 
 
 **Let's go with my hardware**:
