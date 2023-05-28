@@ -2,8 +2,12 @@
 
 [AppleALC Support Codecs]: https://github.com/acidanthera/AppleALC/wiki/Supported-codecs
 [Wireless Support]: https://openintelwireless.github.io/itlwm/#download
+[DOWNLOAD HERE]: https://github.com/sebasrock156/Acer-V3-572-TMP246-OpenCore/releases/tag/12-releases
 
 ![img](https://i.imgur.com/ZJytYpS.png)
+
+
+**[DOWNLOAD HERE]**
 
 **Now, the hardware**:
 
