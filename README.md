@@ -6,7 +6,7 @@
 ![img](https://i.imgur.com/DCbWePN.png)
 
 
-##**[DOWNLOAD HERE]**
+**[DOWNLOAD HERE]**
 
 
 **Let's go with my hardware**:
