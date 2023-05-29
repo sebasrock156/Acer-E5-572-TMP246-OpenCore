@@ -1,5 +1,6 @@
 # Acer Aspire V3-572G/TravelMate P246-MG Hackintosh OpenCore (WIP-Ventura 13.x)
 
+[System README.md]: https://github.com/sebasrock156/Acer-V3-572-TMP246-OpenCore/blob/Ventura/System/Library/README.md
 [DOWNLOAD HERE]: https://github.com/sebasrock156/Acer-V3-572-TMP246-OpenCore/releases/tag/pre-releases
 
 ![img](https://i.imgur.com/iRjYEHF.png)
@@ -23,7 +24,10 @@ Works (for now):
 Not works (for now):
 - Touchpad ❌ (VoodooPS2Controller doesn't work full on Ventura; DON'T TRY TO USE, may break keyboard function)
 - Bluetooth ❌ (I'll trying to fix it; If bluetoothd causes crash, delete to NVRAM --> 7C436110-AB2A-4BBB-A880-FE41995C9F82 --> [ADD] bluetoothExternalDongleFailed and bluetoothInternalControllerInfo values).
-- Graphics ❌ (seen 4MB of Memory for HD 5500 incompatibility; I'll try to patch with OCLP; if not, I'll try to patch "backporting" kexts from Monterey)
+- Graphics ❌ (seen 4MB of Memory for HD 5500 incompatibility) 
+
+**⚠️IMPORTANT NOTE⚠️**:
+Based on OpenCore Legacy Patch (OCLP) solve for legacy graphics, I'm importing some (S/L/E) files from Monterey to try run on Ventura; basically the kexts/bundles of Broadwell/HD 5XXX Graphics; try to use like a possible GPU patch. See the [System README.md] for more info.
 
 
  
