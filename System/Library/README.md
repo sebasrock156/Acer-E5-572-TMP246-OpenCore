@@ -1,1 +1,1 @@
-**This is a possile patch for HD 5xxx/6xxx graphics, download and install on System/Library of your new MacOS Installation.**
+**This is a possile patch for HD 5xxx/6xxx graphics (I abbandon the project for now, but, based on OCLP works, it's possble that this try to works too), download and try to add in /System/Library on your already installed system on disk**
