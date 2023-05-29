@@ -9,19 +9,19 @@ This is a "big" project to bring MacOS OSes for those laptops with Opencore Boot
 
 **More info of MacOS [BigSur]**
 
-![img](https://i.imgur.com/m3iq85Y.png)
+![img](https://i.imgur.com/h9xiMsp.png)
 
 
 
 **More info of MacOS [Monterey]**
 
-![img](https://i.imgur.com/Chh5xSE.png)
+![img](https://i.imgur.com/Evxt8TX.png)
 
 
 
 **More info of MacOS [Ventura]**
 
-![img](https://i.imgur.com/moodOld.png)
+![img](https://i.imgur.com/vohhCJk.png)
 
 
 
