@@ -6,12 +6,10 @@
 
 This is a "big" project to bring MacOS OSes for those laptops with Opencore Bootloader, for more information, click on "More info of **MacOS Version** below:
 
-<pre>
 ![img](https://i.imgur.com/h9xiMsp.png)
 
 **More info of MacOS [BigSur]**
 
-</pre>
 ---
 
 
