@@ -15,13 +15,16 @@ This is a "big" project to bring MacOS OSes for those laptops with Opencore Boot
 
 
 
-![img](https://i.imgur.com/Evxt8TX.png)                                                  **More info of MacOS [Monterey]**
+![img](https://i.imgur.com/Evxt8TX.png)
+
+**More info of MacOS [Monterey]**
 
 ---
 
 
-![img](https://i.imgur.com/vohhCJk.png)                                                    **More info of MacOS [Ventura]**
+![img](https://i.imgur.com/vohhCJk.png)                                                   
 
+**More info of MacOS [Ventura]**
 ---
 
 
