@@ -6,22 +6,16 @@
 
 This is a "big" project to bring MacOS OSes for those laptops with Opencore Bootloader, for more information, click on "More info of **MacOS Version** below:
 
-![img](https://i.imgur.com/h9xiMsp.png)        **More info of MacOS [BigSur]** 
+![img](https://i.imgur.com/h9xiMsp.png)                                                     **More info of MacOS [BigSur]** 
 ---
 
 
+![img](https://i.imgur.com/Evxt8TX.png)                                                     **More info of MacOS [Monterey]**
+---
 
 
-
-
-![img](https://i.imgur.com/Evxt8TX.png)
-
-**More info of MacOS [Monterey]**
-
-
-![img](https://i.imgur.com/vohhCJk.png)
-
-**More info of MacOS [Ventura]**
+![img](https://i.imgur.com/vohhCJk.png)                                                     **More info of MacOS [Ventura]**
+---
 
 
 **Warning ⚠️**: My hardware is inherited from Aspire E5-471G model, this EFI works with Aspire V3-572G and some Aspire E5-573G models too (anyways, I'll wanna name "E5-471MG" 😂😂😂).
