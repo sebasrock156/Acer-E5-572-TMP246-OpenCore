@@ -12,7 +12,7 @@ For Monterey:
 
 For Ventura:
 
-- Abord project in future **COMPLETLY STOPPED FOR NOW**
+- Abord project in future [**COMPLETLY STOPPED FOR NOW**]
 
 - Fix Graphics ⚠️ **URGENT, so, see [Ventura/System/] Tree**
 
