@@ -1,4 +1,5 @@
 [Ventura/System/]: https://github.com/sebasrock156/Acer-V3-572-TMP246-OpenCore/tree/Ventura/System/Library
+[COMPLETLY STOPPED FOR NOW]: https://github.com/sebasrock156/Acer-V3-572-TMP246-OpenCore/blob/Ventura/README.md
 
 For BigSur:
 
