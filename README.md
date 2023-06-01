@@ -95,6 +95,18 @@ This EFI use Airportitlwm for fix Wi-Fi connection, see newer hardware in [Wirel
  
 </details>
 
+
+## Working Apps:
+
+Adobe Creative Cloud 2022 (almost all works)✓
+Davinci Resolve 18 ✓
+Origin ✓
+OBS ✓
+Office 2019 ✓
+Opera GX ✓
+
+---
+
 ## Partially work:
 
 Apple ID's apps ✅❌ (you need to fix SMBIOS)
