@@ -42,9 +42,10 @@ IDE Drive | Add a caddy for SATA Output, then, I recommend any Hard Disk with 50
 
 <details>
  
-Opencore Bootloader 0.7.5 ✅ (DON'T USE Clear NVRAM or Reset System options) 
+Opencore Bootloader 0.7.5 ✅ (DON'T USE Clear NVRAM or Reset System options)
+May be update to 0.9.2, but, I'll try to fix Battery Charging detection. 
  
-Integrated Graphics ✅ (taken by system as HD 6000) 
+Integrated Graphics ✅ (Now is show as HD 5500 *0.9.2 Only* ) 
 
 Native Screen ✅ (1366x768) 
 
@@ -54,7 +55,7 @@ RJ45 Ethernet Connection ✅
  
 USB Ports ✅ (2.0, 3.0/3.1) 
 
-Touchpad ✅ (It's partially working, some gestures may not work; If you use dual boot, touchpad may not work on Windows/Linux/BSD for ACPI changes)
+Touchpad ✅ (It's partially working, some gestures may not work; If you use dual boot, touchpad may not work on Windows/BSD for ACPI changes; works fully on linux with xf86-input)
  
 HDMI ✅ (Works fully, HDMI Audio works too).
 
