@@ -9,6 +9,11 @@ For BigSur:
 For Monterey:
 
 - Try to fix touchpad gestures and delete unused kexts and patches, or not.
+(This is a bug from own MacOS Monterey builds, try to use 12.4.X builds, there touchpad seems work well).
+
+- Try to fix battery charge status (putting in a kext).
+
+- Enable tools and drivers on OC0.9.2 for update release
 
 
 For Ventura:
@@ -17,7 +22,7 @@ For Ventura:
 
 - Fix Graphics ⚠️ **URGENT, so, see [Ventura/System/] Tree**
 
-- Fix touchpad (If it's possible, don't use VoodooI2C, system crash without reason).
+- Fix touchpad (Later, I should try on with ApplePS2SmartTouchpad).
 
 - Fix audio (mixing old Dell EFI and current Acer EFI; for now, audio is disabled for strange ACPI Errors, **PS: DON'T ENABLE HPET Patches, cause APCI error with Kernel Panic on MacOS, ACPI Error BSOD on Windows and some peripherical fails on Linux**
 ; it's solve using a older version of OpenCore).
