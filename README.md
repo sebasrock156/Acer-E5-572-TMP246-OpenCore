@@ -69,16 +69,5 @@ IDE Drive | Add a caddy for SATA Output, then, I recommend any Hard Disk with 50
  
 </details>
 
-##Working Apps:
-
-Adobe Creative Cloud 2022 (almost all works)✓
-Davinci Resolve 18 ✓
-Origin ✓
-OBS ✓
-Office 2019 ✓
-Opera GX ✓
-
----
-
 ## Misc:
 Some additional drivers and SSDTs are imported from Dell, Samsung, HP, Acer and Lenovo i7 5500U EFI Laptops, some native properties may be broken (like touchpad, keyboard shortcuts or card readers), I don't make responsible if your laptop explode later to try Hackintosh.
