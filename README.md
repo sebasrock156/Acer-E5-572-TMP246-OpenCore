@@ -45,7 +45,7 @@ IDE Drive | Add a caddy for SATA Output, then, I recommend any Hard Disk with 50
 Opencore Bootloader 0.7.5 ✅ (DON'T USE Clear NVRAM or Reset System options)
 May be update to 0.9.2, but, I'll try to fix Battery Charging detection. 
  
-Integrated Graphics ✅ (Now is show as HD 5500 *0.9.2 Only* ) 
+Integrated Graphics ✅ (Now is show as HD 5500 on about this Mac *0.9.2 Only* ) 
 
 Native Screen ✅ (1366x768) 
 
@@ -72,7 +72,7 @@ Screen Backlit ✅ (Backlight work as in Linux distros)
  
 Audio Card ✅ (Now it's fixed *thanks to Alejandro Barreiro from Hackintosh Hispanic 2.0 telegram group*, change "alcid" bootflag *In config.plist --> NVRAM --> Add --> 7C436110-AB2A-4BBB-A880-FE41995C9F82 --> boot-args* for the supported coded for you audio hardware, see in [AppleALC Support Codecs]; If you have problems with some Realtek Audio Card, pull a request here in Github).
 
-Battery Stats & Charge level ✅ (But for ACPI modifications, may have some of battery drain)
+Battery Stats & Charge level ✅ (But for ACPI modifications, may have some of battery drain, doesn't show up)
 
 Hibernate ✅ (If you did Dualboot with Windows, works partially in this OS)
  
