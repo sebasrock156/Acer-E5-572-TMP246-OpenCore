@@ -9,7 +9,7 @@ This is a "big" project to bring MacOS OSes for these laptops with Opencore Boot
 
 ![img](https://i.imgur.com/h9xiMsp.png)
 
-**More info of [MacOS BigSur]**
+<center>**More info of [MacOS BigSur]**</center>
 
 ---
 
