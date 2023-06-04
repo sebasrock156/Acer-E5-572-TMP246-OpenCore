@@ -42,10 +42,9 @@ IDE Drive | Add a caddy for SATA Output, then, I recommend any Hard Disk with 50
 
 <details>
  
-Opencore Bootloader 0.7.5 ✅ (DON'T USE Clear NVRAM or Reset System options)
-May be update to 0.9.2, but, I'll try to fix Battery Charging detection. 
+Opencore Bootloader 0.9.2 ✅
  
-Integrated Graphics ✅ (Now is show as HD 5500 on about this Mac *0.9.2 Only* ) 
+Integrated Graphics ✅ (taken as HD 6000 by system) 
 
 Native Screen ✅ (1366x768) 
 
