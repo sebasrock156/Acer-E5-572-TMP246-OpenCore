@@ -1,8 +1,7 @@
 # Build your own Ventura Hackintosh EFI for a Broadwell-U Chipset [WIP-Version]
-
+[Getting Started]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/blob/Ventura/GUIDE.md#getting-started
 
 This guide is based on my own experience trying to do that some MacOS versions boots and run functionally on a Broadwell-U device; now I will try explain a some steps/tips for get it:
-
 
 
 ---
