@@ -4,7 +4,7 @@
 [Wireless Support]: https://openintelwireless.github.io/itlwm/Compat.html#dvm-iwn
 [DOWNLOAD HERE]: https://github.com/sebasrock156/Acer-V3-572-TMP246-OpenCore/releases/tag/12-releases
 
-![img](https://i.imgur.com/ZJytYpS.png)
+![img](https://i.imgur.com/NPnWBrz.png)
 
 
 **[DOWNLOAD HERE]**
