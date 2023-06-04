@@ -12,10 +12,10 @@ This guide is based on my own experience trying to do that some MacOS versions b
 
 Content Table
 --------------
-[Getting Started]
-[Creating SSDTs]
-[Fixing Problems]
-[Opinions]
+|[Getting Started]|
+|[Creating SSDTs]|
+|[Fixing Problems]|
+|[Opinions]|
 ---------------
 
 ![img](https://i.imgur.com/YKIPyaT.png)
