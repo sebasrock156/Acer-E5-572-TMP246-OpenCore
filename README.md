@@ -7,10 +7,10 @@
 
 ![img](https://i.imgur.com/NPnWBrz.png)
 
-If you want try to build your own EFI:
+If do you want try to build your own EFI:
 **[SEE THE GUIDE]**
 
-If you want test EFI from easy way:
+If do you want test EFI from easy way:
 **[DOWNLOAD HERE]**
 
 **Now, the hardware**:
