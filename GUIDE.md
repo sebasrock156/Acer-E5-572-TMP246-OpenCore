@@ -18,8 +18,6 @@ This guide is based on my own experience trying to do that some MacOS versions b
 4 | [Opinions]
 ---
 
----
-
 ![img](https://i.imgur.com/YKIPyaT.png)
 
 ---
