@@ -3,7 +3,7 @@
 [AppleALC Support Codecs]: https://github.com/acidanthera/AppleALC/wiki/Supported-codecs
 [Wireless Support]: https://openintelwireless.github.io/itlwm/Compat.html#dvm-iwn
 [DOWNLOAD HERE]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/releases/tag/12-releases
-[SEE THE GUIDE]: future GUIDE.md
+[SEE THE GUIDE]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/tree/Monterey/GUIDE.md
 
 ![img](https://i.imgur.com/NPnWBrz.png)
 
