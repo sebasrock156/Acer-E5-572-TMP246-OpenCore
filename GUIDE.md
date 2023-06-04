@@ -12,7 +12,6 @@ This guide is based on my own experience trying to do that some MacOS versions b
 
 . | Content Table
 ---|:--:
-
 1 | [Getting Started]
 2 | [Creating SSDTs]
 3 | [Fixing Problems]
