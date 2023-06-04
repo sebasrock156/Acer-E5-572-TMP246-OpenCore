@@ -30,8 +30,8 @@ This guide is based on my own experience trying to do that some MacOS versions b
 #### About processors/internal graphic cards:
   
 <pre>  
-Any Broadwell-U processors are supported until MacOS Monterey; on Ventura, Broadwell processors (and graphics)
-has been dropped.
+Any Broadwell-U processors are supported until MacOS Monterey.
+On Ventura, Broadwell processors (and graphics) has been dropped.
 </pre>
   
 #### About dedicated/external graphic cards:
