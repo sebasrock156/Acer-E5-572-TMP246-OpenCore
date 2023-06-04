@@ -16,7 +16,7 @@ Works (for now):
 - Installer Boot ✅ (installation is a less of 35 minutes with SSD) 
 - System Boot ✅ (It's fixed disabling SecureBootModel from config.plist)
 - Ethernet ✅
-- Audio Card ✅ (Now, works only audio output)
+- Audio Card ✅ (Now, works only audio output, I mean, headphone jack)
 - Battery charging and stats ✅
 - USB Devices ✅ (2.0, 3.0/3.1)
 - Screen ✅ (1366x768)
