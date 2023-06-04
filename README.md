@@ -16,7 +16,7 @@ Works (for now):
 - Installer Boot ✅ (installation is a less of 35 minutes with SSD) 
 - System Boot ✅ (It's fixed disabling SecureBootModel from config.plist)
 - Ethernet ✅
-- Audio Card ✅ (Now, works only audio input; microphone input is missing)
+- Audio Card ✅ (Now, works only audio output)
 - Battery charging and stats ✅
 - USB Devices ✅ (2.0, 3.0/3.1)
 - Screen ✅ (1366x768)
@@ -33,6 +33,12 @@ Not works:
 - Touchpad ❌ (**DON'T TRY TO ENABLE/DISABLE IT** makes break the laptop keyboard).
 
 - Bluetooth ❌ (It's broken for most Hackintosh devices for now, sorry).
+
+- Microphone ❌ (It's broken for some Security Setting of MacOS Ventura)
+
+- Camera ❌ (It's broken for some Security Setting of MacOS Ventura)
+
+- Card reader ❌ (Try booting with their kexts causes kernel panics)
 
 **⚠️IMPORTANT NOTE⚠️**:
 Use OCLP 0.6.x for fix the iGPU; this works moving and patching the [Library Files] to System , read [Library README.md] for more info.
