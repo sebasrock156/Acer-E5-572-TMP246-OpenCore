@@ -1,6 +1,6 @@
-[BigSur]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/tree/BigSur
-[Monterey]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/tree/Monterey
-[Ventura]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/tree/Ventura
+[MacOS BigSur]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/tree/BigSur
+[MacOS Monterey]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/tree/Monterey
+[MacOS Ventura]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/tree/Ventura
 
 # Acer Aspire E5-572G/TravelMate-P246 Hackintosh OpenCore
 
@@ -9,20 +9,20 @@ This is a "big" project to bring MacOS OSes for these laptops with Opencore Boot
 
 ![img](https://i.imgur.com/h9xiMsp.png)
 
-**More info of MacOS [BigSur]**
+**More info of [MacOS BigSur]**
 
 ---
 
 ![img](https://i.imgur.com/Evxt8TX.png)
 
-**More info of MacOS [Monterey]**
+**More info of MacOS [MacOS Monterey]**
 
 ---
 
 
 ![img](https://i.imgur.com/vohhCJk.png)                                                   
 
-**More info of MacOS [Ventura]**
+**More info of MacOS [MacOS Ventura]**
 
 ---
 <pre> Warning ⚠️: My hardware is inherited from Aspire E5-471G model, this EFI works with Aspire V3-572G
