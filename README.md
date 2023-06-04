@@ -1,6 +1,7 @@
 # Acer Aspire V3-572G/TravelMate P246-MG Hackintosh OpenCore (WIP-Ventura 13.x)
 
-[System README.md]: https://github.com/sebasrock156/Acer-V3-572-TMP246-OpenCore/blob/Ventura/System/Library/README.md
+[Library Files]: https://github.com/sebasrock156/Acer-V3-572-TMP246-OpenCore/tree/Ventura/System/Library
+[Library README.md]: https://github.com/sebasrock156/Acer-V3-572-TMP246-OpenCore/blob/Ventura/System/Library/README.md
 [DOWNLOAD HERE]: https://github.com/sebasrock156/Acer-V3-572-TMP246-OpenCore/releases/tag/pre-releases
 
 ![img](https://i.imgur.com/iRjYEHF.png)
@@ -33,7 +34,7 @@ Not works:
 - Bluetooth ❌ (I'll trying to fix it; If bluetoothd causes crash, delete to NVRAM --> 7C436110-AB2A-4BBB-A880-FE41995C9F82 --> [ADD] bluetoothExternalDongleFailed and bluetoothInternalControllerInfo values).
 
 **⚠️IMPORTANT NOTE⚠️**:
-Use OCLP 0.6.x for fix the iGPU; this works moving and patching the [Library Files] to System , read [System README.md] for more info.
+Use OCLP 0.6.x for fix the iGPU; this works moving and patching the [Library Files] to System , read [Library README.md] for more info.
 
 
  
