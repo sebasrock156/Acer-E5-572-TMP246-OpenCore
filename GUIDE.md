@@ -37,13 +37,21 @@ In this case, the supported hardware is the follow:
  
  ---
 
-Processor | Graphics
+Processor Line | Graphics
 --- | :--:
-Core i7 | 5500U | 5600U
-2 | [Creating SSDTs]
-3 | [Fixing Problems]
-4 | [Opinions]
+Core i7 Series (U, HQ) | HD 5500/5600/6000, Iris 6100 and Iris Pro 6200
+Core i5 Series (U, H) | HD 5500/6000, Iris 6100 and Iris Pro 6200
+Core i3 Series U | HD 5500 and Iris 6100
 ---
+
+**NOT SUPPORTED NATIVELY**: 
+ 
+ ---
+ Processor Line | Graphics
+ --- | :--:
+ Pentium | s
+ 
+ ---
  
 ---
 ---
