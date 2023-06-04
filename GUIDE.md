@@ -1,5 +1,6 @@
 # Build your own Ventura Hackintosh EFI for a Broadwell-U Chipset [WIP-Version]
 [Getting Started]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/blob/Ventura/GUIDE.md#getting-started
+[Creating SSDTs]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/blob/Ventura/GUIDE.md#creating-ssdts
 
 This guide is based on my own experience trying to do that some MacOS versions boots and run functionally on a Broadwell-U device; now I will try explain a some steps/tips for get it:
 
@@ -31,4 +32,9 @@ Any Broadwell-U processors are supported until MacOS Monterey; on Ventura, Broad
 #### About dedicated/external graphic cards:
 Any Nvidia GPUs are dropped from MacOS BigSur, although some Nvidia graphics may be works on latest MacOS versions, the Low Power devices (and older architectures, like Fermi, Kepler and Maxwell) don't works. 
 
+</details>
+
+## Creating SSDTs
+
+<details>
 </details>
