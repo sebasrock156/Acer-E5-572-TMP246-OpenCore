@@ -22,11 +22,14 @@ Works (for now):
 Partially Works (for now):
 
 - Graphics ✅❌ (Natively, doesn't work, but try to patch with OCLP 0.6.5 or newer; for enable it, delete **-igfxvesa** boot argument after to patch with OCLP).
+
 - VoodooPS2Controller ✅❌ (Works randomly, in installation doesn't work; if you do a successful instalation, maybe works when boot in first time to system and maybe you could create an user).
-- - Audio Card ✅❌ (It's detected, but coded isn't detected; I'll update AppleALC for try to fix it)
+
+- Audio Card ✅❌ (It's detected, but coded isn't detected; I'll update AppleALC for try to fix it)
 
 Not works:
 - Touchpad ❌ (**DON'T TRY TO ENABLE/DISABLE IT** makes break the laptop keyboard).
+
 - Bluetooth ❌ (I'll trying to fix it; If bluetoothd causes crash, delete to NVRAM --> 7C436110-AB2A-4BBB-A880-FE41995C9F82 --> [ADD] bluetoothExternalDongleFailed and bluetoothInternalControllerInfo values).
 
 **⚠️IMPORTANT NOTE⚠️**:
