@@ -3,12 +3,16 @@
 [Library Files]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/tree/Ventura/System/Library
 [Library README.md]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/blob/Ventura/System/Library/README.md
 [DOWNLOAD HERE]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/releases/tag/ventura-05
+[SEE THE GUIDE]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/tree/Ventura/GUIDE.md
 
 ![img](https://i.imgur.com/YKIPyaT.png)
 
 **⚠️ADVICE⚠️:  THIS IS A WIP PROJECT TRYING TO RUN THE SYSTEM, MAY BE HAVE SOME ACPI PROBLEMS, NOW IS RESUMED**
 
+If do you want try to build your own EFI:
+**[SEE THE GUIDE]**
 
+If do you want test EFI from easy way:
 **[DOWNLOAD HERE]**
 
 Works (for now):
