@@ -3,10 +3,14 @@
 [AppleALC Support Codecs]: https://github.com/acidanthera/AppleALC/wiki/Supported-codecs
 [Wireless Support]: https://openintelwireless.github.io/itlwm/Compat.html#dvm-iwn
 [DOWNLOAD HERE]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/releases/tag/12-releases
+[SEE THE GUIDE]: future GUIDE.md
 
 ![img](https://i.imgur.com/NPnWBrz.png)
 
+If you want try to build your own EFI:
+**[SEE THE GUIDE]**
 
+If you want test EFI from easy way:
 **[DOWNLOAD HERE]**
 
 **Now, the hardware**:
