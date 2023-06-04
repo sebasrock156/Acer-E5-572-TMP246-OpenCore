@@ -35,8 +35,7 @@ But, based on Dortania's Guide, we could fake patch our laptops for try to boot 
 
 In this case, the supported hardware is the follow:
  
- ---
-
+ 
 Processor Line | Graphics
 --- | :--:
 Core i7 Series (U, HQ) | HD 5500/5600/6000, Iris 6100 and Iris Pro 6200
@@ -46,7 +45,6 @@ Core i3 Series U | HD 5500 and Iris 6100
 
 **NOT SUPPORTED NATIVELY**: 
  
- ---
  Processor Line | Graphics
  --- | :--:
  Pentium | s
