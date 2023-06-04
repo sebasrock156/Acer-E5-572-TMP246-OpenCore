@@ -1,1 +1,10 @@
-**This is a possile patch for HD 5xxx/6xxx graphics (I abbandon the project for now, but, based on OCLP works, it's possble that this try to works too), download and try to add in /System/Library on your already installed system on disk**
+##INFORMATION
+
+<dir>
+  THIS IS A DISCLAIMER FOR ADVICE: The files putted here, is an referential for code schema only.
+  don't try to putting on your system.
+</dir>
+
+Using OpenCore Legacy Patch, is possible fix the HD 5xxx/6000 Drivers.
+
+Follow the next steps for fix it:
