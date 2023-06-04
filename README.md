@@ -1,15 +1,15 @@
 # Acer Aspire E5-572G/TravelMate P246-MG Hackintosh OpenCore (WIP-Ventura 13.x)
 
-[Library Files]: https://github.com/sebasrock156/Acer-V3-572-TMP246-OpenCore/tree/Ventura/System/Library
-[Library README.md]: https://github.com/sebasrock156/Acer-V3-572-TMP246-OpenCore/blob/Ventura/System/Library/README.md
-[DOWNLOAD HERE]: https://github.com/sebasrock156/Acer-V3-572-TMP246-OpenCore/releases/tag/pre-releases
+[Library Files]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/tree/Ventura/System/Library
+[Library README.md]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/blob/Ventura/System/Library/README.md
+[DOWNLOAD HERE]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/releases/tag/ventura-05
 
 ![img](https://i.imgur.com/YKIPyaT.png)
 
 **⚠️ADVICE⚠️:  THE PROJECT IS A WIP TRYING TO RUN THE SYSTEM, MAY BE HAVE SOME ACPI PROBLEMS, NOW IS RESUMED**
 
 
-**For test [DOWNLOAD HERE]**
+**[DOWNLOAD HERE]**
 
 Works (for now):
 - Opencore 0.9.2 ✅
