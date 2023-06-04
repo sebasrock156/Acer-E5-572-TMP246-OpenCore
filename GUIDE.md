@@ -40,6 +40,10 @@ Any Nvidia GPUs are dropped from MacOS BigSur, although some Nvidia graphics may
 
 #### About audio cards (internal and external):
 
+**For Internal:** In this guide, we talking about [AppleALC's supported cards] and how config it in our Hackintosh EFI.
+
+**For External:** Any USB Audio Card DAC what is compatible with MacOS or Windows may be work.
+
 </details>
 
 ## Creating SSDTs
