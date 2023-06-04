@@ -4,7 +4,7 @@
 [Library README.md]: https://github.com/sebasrock156/Acer-V3-572-TMP246-OpenCore/blob/Ventura/System/Library/README.md
 [DOWNLOAD HERE]: https://github.com/sebasrock156/Acer-V3-572-TMP246-OpenCore/releases/tag/pre-releases
 
-![img](https://i.imgur.com/60021JO.png)
+![img](https://i.imgur.com/rKWfeiU.png)
 
 **⚠️ADVICE⚠️:  THE PROJECT IS A WIP TRYING TO RUN THE SYSTEM, MAY BE HAVE SOME ACPI PROBLEMS, NOW IS RESUMED**
 
