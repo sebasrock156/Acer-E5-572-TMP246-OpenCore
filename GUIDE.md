@@ -31,6 +31,19 @@ This guide is based on my own experience trying to do that some MacOS versions b
 #### About processors/internal graphic cards:
 
 Any Broadwell-U processors are supported until MacOS Monterey; on Ventura, Broadwell processors (and graphics) has been dropped.
+But, based on Dortania's Guide, we could fake patch our laptops for try to boot MacOS Ventura.
+
+In this case, the supported hardware is the follow:
+ 
+ ---
+
+Processor | Graphics
+--- | :--:
+Core i7 | 5500U | 5600U
+2 | [Creating SSDTs]
+3 | [Fixing Problems]
+4 | [Opinions]
+---
  
 ---
 ---
