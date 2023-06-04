@@ -15,5 +15,17 @@ Fixing problems |
 Opinions |
 ---
 
+---
 
 ![img](https://i.imgur.com/YKIPyaT.png)
+
+---
+
+## Hardware Support
+
+### About Processors:
+Any Broadwell-U processors are supported until MacOS Monterey; on Ventura, Broadwell processors (and graphics) has been dropped.
+
+### About dedicated/external graphic cards:
+Any Nvidia GPUs are dropped from MacOS BigSur, although some Nvidia graphics may be works on latest MacOS versions, the Low Power devices (and older architectures, like Fermi, Kepler and Maxwell) don't works. 
+
