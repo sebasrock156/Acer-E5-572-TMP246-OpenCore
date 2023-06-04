@@ -8,10 +8,10 @@ This guide is based on my own experience trying to do that some MacOS versions b
 
 . | Content Table
 --- | :--:
-1 | Getting Started 
-2 | Creating SSDTs
-3 | Fixing problems
-4 | Opinions
+1 | [Getting Started]
+2 | [Creating SSDTs]
+3 | [Fixing problems]
+4 | [Opinions]
 ---
 
 ---
@@ -21,6 +21,8 @@ This guide is based on my own experience trying to do that some MacOS versions b
 ---
 ## Getting Started
 
+<details>
+
 ### Hardware Support
 
 #### About Processors:
@@ -29,3 +31,4 @@ Any Broadwell-U processors are supported until MacOS Monterey; on Ventura, Broad
 #### About dedicated/external graphic cards:
 Any Nvidia GPUs are dropped from MacOS BigSur, although some Nvidia graphics may be works on latest MacOS versions, the Low Power devices (and older architectures, like Fermi, Kepler and Maxwell) don't works. 
 
+</details>
