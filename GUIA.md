@@ -76,6 +76,7 @@ Cualquier GPU de Nvidia está eliminada del soporte desde MacOS BigSur, aunque a
 
 </details>
 
+---
 ## Creación del EFI
 ---
 Primero que nada, debemos saber que es (U)EFI:
