@@ -35,7 +35,7 @@ Partially Works:
 
 Not works:
 
-- Touchpad ❌ (**DON'T TRY TO ENABLE/DISABLE IT** makes break the laptop keyboard).
+- Touchpad ❌ (**DON'T ENABLE VoodooPS2ControllerTouchpad compliment, IT'S BROKEN).
 
 - Bluetooth ❌ (It's broken for most Hackintosh devices for now, sorry).
 
