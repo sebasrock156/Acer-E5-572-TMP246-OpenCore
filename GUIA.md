@@ -30,9 +30,11 @@ Art. | Tabla de Contenido
 ---
 ## Primeros Pasos
 
-<details>
+
 
 ### Soporte de Hardware
+ 
+<details>
  
 ---
 #### Sobre los procesadores/tarjetas gráficas integradas:
@@ -77,6 +79,7 @@ Cualquier GPU de Nvidia está eliminada del soporte desde MacOS BigSur, aunque a
 
 </details>
 
+---
 ## Creación del EFI
 
 Primero que nada, debemos saber que es (U)EFI:
