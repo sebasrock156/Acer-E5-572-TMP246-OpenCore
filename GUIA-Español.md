@@ -1,4 +1,4 @@
-# Crea tu propio EFI Hackintosh en Ventura para un procesador Broadwell-U [Versión en desarrollo]
+# Crea tu propio EFI Hackintosh en Ventura para un procesador de 5ta Generación (Broadwell-U) [Versión en desarrollo]
 [Primeros pasos]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/blob/Ventura/GUIA-Español.md#primeros-pasos
 [Soporte de Hardware]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/blob/Ventura/GUIA-Español.md#soporte-de-hardware
 [Creación de SSDTs]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/blob/Ventura/GUIA-Español.md#creación-de-ssdts
