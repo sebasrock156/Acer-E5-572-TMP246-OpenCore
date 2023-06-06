@@ -23,7 +23,7 @@ This is a "big" project to bring MacOS OSes for these laptops with Opencore Boot
 
 ![img](https://i.imgur.com/vohhCJk.png)                                                   
 
-**More info of MacOS [MacOS Ventura]**
+**More info of [MacOS Ventura]**
 
 ---
 <pre> Warning ⚠️: My hardware is inherited from Aspire E5-471G model, this EFI works with Aspire V3-572G
