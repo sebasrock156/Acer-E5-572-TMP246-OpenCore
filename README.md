@@ -8,21 +8,21 @@
 This is a "big" project to bring MacOS OSes for these laptops with Opencore Bootloader, for more information, click on "More info of **MacOS Version** below:
 
 
-![img](https://i.imgur.com/h9xiMsp.png)
+![img](https://i.imgur.com/SP2LYM8.png)
 
  **More info of [MacOS BigSur]**
 
 
 ---
 
-![img](https://i.imgur.com/Evxt8TX.png)
+![img](https://i.imgur.com/BKvumkU.png)
 
 **More info of [MacOS Monterey]**
 
 ---
 
 
-![img](https://i.imgur.com/vohhCJk.png)                                                   
+![img](https://i.imgur.com/Y3QSYAZ.png)                                                   
 
 **More info of [MacOS Ventura]**
 
