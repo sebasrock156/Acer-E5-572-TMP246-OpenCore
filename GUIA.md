@@ -1,7 +1,7 @@
 # Crea tu propio EFI Hackintosh en Ventura para un procesador de 5ta Generación (Broadwell-U) [Versión en desarrollo]
 [Primeros pasos]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/blob/Ventura/GUIA.md#primeros-pasos
 [Soporte de Hardware]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/blob/Ventura/GUIA.md#soporte-de-hardware
-[Creación de SSDTs]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/blob/Ventura/GUIA.md#creación-de-ssdts
+[Creación de SSDTs]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/blob/Ventura/GUIA.md#creación-del-efi
 [Solucionando Problemas]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/blob/Ventura/GUIA.md#solucionando-problemas
 [Opiniones]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/blob/Ventura/GUIA.md#opiniones
 
@@ -15,7 +15,7 @@ Art. | Tabla de Contenido
 ---|:--:
 1 | [Primeros Pasos]
 1.1 | [Soporte de Hardware]
-2 | [Creación de SSDTs]
+2 | [Creación del EFI]
 3 | [Solucionando Problemas]
 4 | [Opiniones]
 ---
@@ -61,21 +61,21 @@ Los procesadores Pentium y Celeron no tienen un framebuffer real para MacOS. Si 
  
 ---
   
-#### About dedicated/external graphic cards:
+#### Sobre las GPUs Discretas/Dedicadas:
 
-Any Nvidia GPUs are dropped from MacOS BigSur, although some Nvidia graphics may be works on latest MacOS versions, the Low Power devices (and older architectures, like Fermi, Kepler and Maxwell) don't works.
+Cualquier GPU de Nvidia está eliminada del soporte desde MacOS BigSur, aunque algunas gráficas de Nvidia podrían funcionar en versiones posteriores (desde BigSur); Las gráficas de bajo consumo (y de arquitecturas viejas como Fermi, Kepler y Maxwell) directamente no funcionan.
   
-#### About wireless/bluetooth cards:
+#### Sobre tarjetas Wi-Fi/Bluetooth:
 
-#### About audio cards (internal and external):
+#### Sobre tarjetas de audio (internas y externas):
 
-**For Internal:** In this guide, we talking about [AppleALC's supported cards] and how config it in our Hackintosh EFI.
+**Para tarjetas internas:** En esta guía, hablaremos sobre las [tarjetas de audio soportadas por AppleALC] y cómo configurarlas en tu EFI Hackintosh.
 
-**For External:** Any USB Audio Card DAC what is compatible with MacOS or Windows may be work.
+**Para tarjetas externas:** Cuelquier tarjeta de audio DAC USB que sea compatible con Windows o MacOS podría funcionar.
 
 </details>
 
-## Creación de SSDTs
+## Creación del EFI
 
 <details>
 </details>
