@@ -6,12 +6,12 @@
 [Opiniones]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/blob/Ventura/GUIA-Español.md#opiniones
 
 
-This guide is based on my own experience trying to do that some MacOS versions boots and run functionally on a Broadwell-U device; now I will try explain a some steps/tips for get it:
+Esta guía está basada en mi propia experiencia intentando hacer que algunas versiones de MacOS arranquen y funcionen sobre procesadores Broadwell-U (Intels de 5ta Generación); Ahora, explicaré unos pasos/consejos a seguir:
 
 
 ---
 
-Art. | Content Table
+Art. | Tabla de Contenido
 ---|:--:
 1 | [Primeros Pasos]
 1.1 | [Soporte de Hardware]
@@ -20,7 +20,7 @@ Art. | Content Table
 4 | [Opiniones]
 ---
 
-**In my case, I'm use as base, my laptop (Acer Aspire E5-572G/TravelMateP246-MG)**
+**En mi caso, usaré como base mi laptop (Acer Aspire E5-572G/TravelMateP246-MG)**
 
 
 ![img](https://i.imgur.com/YKIPyaT.png)
@@ -33,31 +33,31 @@ Art. | Content Table
 ### Soporte de Hardware
  
 ---
-#### About processors/internal graphic cards:
+#### Sobre los procesadores/tarjetas gráficas integradas:
 
-Any Broadwell-U processors are supported until MacOS Monterey; on Ventura, Broadwell processors (and graphics) has been dropped.
-But, based on Dortania's Guide, we could fake patch our laptops for try to boot MacOS Ventura.
+Cualquier procesador Broadwell-U (5ta Generación) está soportado hasta MacOS Monterey; en Ventura, dichos procesadores (y gráficas) han sido eliminados del soporte.
+Pero, basandonos en la Guía de Dortania, podemos parchar falsamente nuestros PCs para intentar correr MacOS Ventura.
 
-In this case, the supported hardware is the follow:
+En ese caso, los procesadores con posible soporte (en este guía, al menos), serían los siguientes:
  
-**SUPPORTED DEVICES**:
+**DISPOSITIVOS SOPORTADOS**:
  
-Processor Line | Graphics
+Línea del procesasor | Gráficos
 --- | :--:
-Core i7 Series (U, HQ) | HD 5500/5600/6000, Iris 6100 and Iris Pro 6200
-Core i5 Series (U, H) | HD 5500/6000, Iris 6100 and Iris Pro 6200
-Core i3 Series U | HD 5500 and Iris 6100
+Serie Core i7 (U, HQ) | HD 5500/5600/6000, Iris 6100 e Iris Pro 6200
+Serie Core i5 (U, H) | HD 5500/6000, Iris 6100 e Iris Pro 6200
+Serie Core i3 (U) | HD 5500 y Iris 6100
 ---
  
  
-**NOT SUPPORTED DEVICES NATIVELY**: 
+**DISPOSITIVOS NO SOPORTADOS NATIVAMENTE**: 
  
- Processor Line | Graphics
+Línea del procesasor | Gráficos
  --- | :--:
- Pentium U Series | HD 4100 (Basic Broadwell Graphics)
- Celeron U Series | HD 4100 (Basic Broadwell Graphics)
+Serie Pentium U | HD 4100 (Por darle un nombre; Intel los llama solamente HD Graphics)
+Serie Celeron U | HD 4100 (Por darle un nombre; Intel los llama solamente HD Graphics)
  
-The Pentium and Celeron processors doesn't have a real framebuffer for MacOS, if you really try to use, patch like a HD 4000 (Haswell) iGPU
+Los procesadores Pentium y Celeron no tienen un framebuffer real para MacOS. Si realmente quieres intentar usarlo, puedes intentar pacharlo como un Intel HD Graphics 4000 (de la 4ta Generación, Haswell).
  
 ---
   
