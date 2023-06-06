@@ -46,7 +46,7 @@ Línea del procesasor | Gráficos
 --- | :--:
 Serie Core i7 (U, HQ) | HD 5500/5600/6000, Iris 6100 e Iris Pro 6200
 Serie Core i5 (U, H) | HD 5500/6000, Iris 6100 e Iris Pro 6200
-Serie Core i3 (U) | HD 5500 y Iris 6100
+Serie Core i3 (U) | HD 5500 e Iris 6100
 ---
  
  
