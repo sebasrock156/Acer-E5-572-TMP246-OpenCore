@@ -1,4 +1,4 @@
-# Acer Aspire E5-572G/TravelMate P246-MG Hackintosh OpenCore (WIP-Ventura 13.x)
+# Acer Aspire E5-572G/TravelMate P246-MG Hackintosh OpenCore (WIP-Sonoma 14.x)
 
 [Library Files]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/tree/Ventura/System/Library
 [Library README.md]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/blob/Ventura/System/Library/README.md
