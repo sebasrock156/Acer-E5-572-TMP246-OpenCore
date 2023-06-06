@@ -19,7 +19,7 @@ If do you want test EFI from easy way:
 Works (for now):
 - Opencore 0.9.2 ✅
 - Installer Boot ✅ (installation is a less of 40 minutes with SSD) 
-- System Boot ✅ (It's fixed disabling SecureBootModel from config.plist)
+- System Boot ✅ (Boots really slow, but works)
 - Ethernet ✅
 - Audio Card ✅❌(It's detected, but doesn't work)
 - Battery charging and stats ✅
