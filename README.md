@@ -25,7 +25,7 @@ Works (for now):
 - Battery charging and stats ✅
 - USB Devices ✅ (2.0, 3.0/3.1)
 - Screen ✅ (1366x768)
-- Wi-Fi ✅❌ (Doesn't work for the moment)
+- Wi-Fi ✅❌ (It's detected, but doesn't work)
 
 Partially Works:
 
