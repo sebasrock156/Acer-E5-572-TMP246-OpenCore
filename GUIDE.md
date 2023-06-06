@@ -35,6 +35,7 @@ But, based on Dortania's Guide, we could fake patch our laptops for try to boot 
 
 In this case, the supported hardware is the follow:
  
+**SUPPORTED DEVICES**:
  
 Processor Line | Graphics
 --- | :--:
