@@ -18,6 +18,9 @@ Art. | Content Table
 4 | [Opinions]
 ---
 
+**In my case, I'm use as base, my laptop (Acer Aspire E5-572G/TravelMateP246-MG)**
+
+
 ![img](https://i.imgur.com/YKIPyaT.png)
 
 ---
