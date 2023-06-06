@@ -1,10 +1,10 @@
-# Crea tu propio EFI Hackintosh en Monterey para un procesador de 5ta Generación (Broadwell-U)
-[Primeros pasos]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/blob/Ventura/GUIA.md#primeros-pasos
-[Soporte de Hardware]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/blob/Ventura/GUIA.md#soporte-de-hardware
-[Creación del EFI]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/blob/Ventura/GUIA.md#creación-del-efi
-[Creación de DSDT]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/blob/Ventura/GUIA.md#creación-de-dsdt
-[Solucionando Problemas]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/blob/Ventura/GUIA.md#solucionando-problemas
-[Opiniones]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/blob/Ventura/GUIA.md#opiniones
+# Crea tu propio EFI Hackintosh en BigSur para un procesador de 5ta Generación (Broadwell-U)
+[Primeros pasos]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/blob/BigSur/GUIA.md#primeros-pasos
+[Soporte de Hardware]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/blob/BigSur/GUIA.md#soporte-de-hardware
+[Creación del EFI]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/blob/BigSur/GUIA.md#creación-del-efi
+[Creación de DSDT]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/blob/BigSur/GUIA.md#creación-de-dsdt
+[Solucionando Problemas]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/blob/BigSur/GUIA.md#solucionando-problemas
+[Opiniones]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/blob/BigSur/GUIA.md#opiniones
 
 
 Esta guía está basada en mi propia experiencia intentando hacer que algunas versiones de MacOS arranquen y funcionen sobre procesadores Broadwell-U (Intels de 5ta Generación); Ahora, explicaré unos pasos/consejos a seguir:
@@ -25,7 +25,7 @@ Art. | Tabla de Contenido
 **En mi caso, usaré como base mi laptop (Acer Aspire E5-572G/TravelMateP246-MG)**
 
 
-![img](https://i.imgur.com/NPnWBrz.png)
+![img](https://i.imgur.com/vtxzmPj.png)
 
 ---
 ## Primeros Pasos
@@ -37,7 +37,7 @@ Art. | Tabla de Contenido
  
 #### Sobre los procesadores/tarjetas gráficas integradas:
 
-Cualquier procesador Broadwell-U (5ta Generación) está soportado hasta MacOS Monterey, pero todo con ciertos matices.
+Cualquier procesador Broadwell-U (5ta Generación) está soportado hasta MacOS Monterey, aunque, aquí vamos a redactar cómo hacerlo en BigSur.
 
 Los procesadores con posible soporte (en este guía, al menos), serían los siguientes:
  
@@ -64,7 +64,7 @@ Los procesadores Pentium y Celeron no tienen un framebuffer real para MacOS. Si 
   
 #### Sobre las GPUs Discretas/Dedicadas:
 
-Cualquier GPU de Nvidia está eliminada del soporte desde MacOS BigSur, aunque algunas gráficas de Nvidia podrían funcionar en versiones posteriores (desde BigSur); Las gráficas de bajo consumo (y de arquitecturas viejas como Fermi, Kepler y Maxwell) directamente no funcionan.
+Cualquier GPU de Nvidia está eliminada del soporte desde MacOS BigSur, aunque algunas gráficas de Nvidia podrían funcionar en versiones posteriores; Las gráficas de bajo consumo (y de arquitecturas viejas como Fermi, Kepler y Maxwell) directamente no funcionan.
   
 #### Sobre tarjetas Wi-Fi/Bluetooth:
 
