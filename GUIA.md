@@ -2,6 +2,7 @@
 [Primeros pasos]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/blob/Ventura/GUIA.md#primeros-pasos
 [Soporte de Hardware]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/blob/Ventura/GUIA.md#soporte-de-hardware
 [Creación del EFI]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/blob/Ventura/GUIA.md#creación-del-efi
+[Creación de DSDT]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/blob/Ventura/GUIA.md#creación-de-dsdt
 [Solucionando Problemas]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/blob/Ventura/GUIA.md#solucionando-problemas
 [Opiniones]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/blob/Ventura/GUIA.md#opiniones
 
@@ -16,6 +17,7 @@ Art. | Tabla de Contenido
 1 | [Primeros Pasos]
 1.1 | [Soporte de Hardware]
 2 | [Creación del EFI]
+2.1 | [Creación de DSDT]
 3 | [Solucionando Problemas]
 4 | [Opiniones]
 ---
@@ -83,7 +85,7 @@ Primero que nada, debemos saber que es (U)EFI:
 
 Ahora, a sabiendas de esto, procederemos con la creación:
 
-### Extracción de nuestra tabla APCI (Creación de DSDT)
+### Creación de DSDT
 Para extraer nuestra tabla APCI, necesitamos las siguientes herramientas:
 
 - SSDTTime 
