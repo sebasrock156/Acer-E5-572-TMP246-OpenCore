@@ -54,8 +54,8 @@ Serie Core i3 (U) | HD 5500 y Iris 6100
  
 Línea del procesasor | Gráficos
  --- | :--:
-Serie Pentium U | HD 4100 (Por darle un nombre; Intel los llama solamente HD Graphics)
-Serie Celeron U | HD 4100 (Por darle un nombre; Intel los llama solamente HD Graphics)
+Serie Pentium (U) | HD 4100 (Por darle un nombre; Intel los llama solamente HD Graphics)
+Serie Celeron (U) | HD 4100 (Por darle un nombre; Intel los llama solamente HD Graphics)
  
 Los procesadores Pentium y Celeron no tienen un framebuffer real para MacOS. Si realmente quieres intentar usarlo, puedes intentar pacharlo como un Intel HD Graphics 4000 (de la 4ta Generación, Haswell).
  
