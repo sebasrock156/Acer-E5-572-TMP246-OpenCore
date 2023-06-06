@@ -47,9 +47,12 @@ Core i3 Series U | HD 5500 and Iris 6100
  
  Processor Line | Graphics
  --- | :--:
- Pentium | s
+ Pentium U Series | HD 4100 (Basic Broadwell Graphics)
+ Celeron U Series | HD 4100 (Basic Broadwell Graphics)
  
  ---
+ 
+The Pentium and Celeron processors doesn't have a real framebuffer for MacOS, if you really try to use, patch like a HD 4000 (Haswell) iGPU
  
 ---
 ---
