@@ -35,7 +35,7 @@ Partially Works:
 
 Not works:
 
-- Touchpad ❌ (**DON'T ENABLE VoodooPS2ControllerTouchpad compliment, IT'S BROKEN).
+- Touchpad ❌ ( **DON'T ENABLE VoodooPS2ControllerTouchpad compliment, IT'S BROKEN** ).
 
 - Bluetooth ❌ (It's broken for most Hackintosh devices for now, sorry).
 
