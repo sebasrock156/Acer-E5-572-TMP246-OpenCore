@@ -79,13 +79,13 @@ Cualquier GPU de Nvidia está eliminada del soporte desde MacOS BigSur, aunque a
 
 ## Creación del EFI
 
-<details>
- 
 Primero que nada, debemos saber que es (U)EFI:
 
 Ahora, a sabiendas de esto, procederemos con la creación:
 
 ### Creación de DSDT
+<details>
+ 
 Para extraer nuestra tabla APCI, necesitamos las siguientes herramientas:
 
 - SSDTTime 
