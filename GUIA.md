@@ -29,14 +29,12 @@ Art. | Tabla de Contenido
 
 ---
 ## Primeros Pasos
-
-
+---
 
 ### Soporte de Hardware
  
 <details>
  
----
 #### Sobre los procesadores/tarjetas gráficas integradas:
 
 Cualquier procesador Broadwell-U (5ta Generación) está soportado hasta MacOS Monterey; en Ventura, dichos procesadores (y gráficas) han sido eliminados del soporte.
@@ -79,9 +77,8 @@ Cualquier GPU de Nvidia está eliminada del soporte desde MacOS BigSur, aunque a
 
 </details>
 
----
 ## Creación del EFI
-
+---
 Primero que nada, debemos saber que es (U)EFI:
 
 Ahora, a sabiendas de esto, procederemos con la creación:
