@@ -47,9 +47,11 @@ Processor Line | Graphics
 Core i7 Series (U, HQ) | HD 5500/5600/6000, Iris 6100 and Iris Pro 6200
 Core i5 Series (U, H) | HD 5500/6000, Iris 6100 and Iris Pro 6200
 Core i3 Series U | HD 5500 and Iris 6100
- 
- 
 
+
+
+ 
+ 
 **NOT SUPPORTED DEVICES NATIVELY**: 
  
  Processor Line | Graphics
@@ -59,7 +61,6 @@ Core i3 Series U | HD 5500 and Iris 6100
  
 The Pentium and Celeron processors doesn't have a real framebuffer for MacOS, if you really try to use, patch like a HD 4000 (Haswell) iGPU
  
----
 ---
   
 #### About dedicated/external graphic cards:
