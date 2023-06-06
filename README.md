@@ -16,6 +16,35 @@ If do you want try to build your own EFI:
 If do you want test EFI from easy way:
 **[DOWNLOAD HERE]**
 
+**Now, the hardware**:
+
+<details>
+
+Hardware | Model
+--- |:--:
+CPU | i7 5500U 2 Cores/4 Threads@2,4Ghz
+iGPU| Intel HD Graphics 5500
+Audio Card | Realtek ALC283
+dGPU | NVIDIA GeForce 820M (Not supported on MacOS)
+WLAN Card | Intel Dual Band AC 3160 (From E5-471G)
+Ethernet | Realtek RTL8168
+---
+ 
+**Now, some minimum hardware recommendations**:
+
+---
+
+Hardware | Model
+--- |:--:
+RAM | Any Samsung, Hynix or Kingston DDR3 8GB(4GBx2).
+Audio Card | Any Realtek Audio Card (some Broadcom cards may not work).
+WLAN Card | Any Intel network card (A few Realtek cards works externally; Intel supported cards is listed below).
+SATA Drive	| Any Solid State Drive (SSD) with 240GB of storage.
+IDE Drive | Add a caddy for SATA Output, then, I recommend any Hard Disk with 500GB/1000GB of storage.
+---
+ 
+</details>
+
 Works (for now):
 - Opencore 0.9.2 ✅
 - Installer Boot ✅ (installation is a less of 35 minutes with SSD) 
