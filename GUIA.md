@@ -102,8 +102,4 @@ Para extraer nuestra tabla APCI, necesitamos las siguientes herramientas:
 
 ## Opiniones
 
-<details>
- 
 Realmente, hacer Hackintosh es algo tedioso, que requiere de paciencia, tiempo y ganas de realizar, pero, una vez lo consigues, es bastante agradable hacer algo tan DIY (Hazlo tu mismo) sólo para probar y jactarte de ello.
- 
-</details>
