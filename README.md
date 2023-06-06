@@ -39,9 +39,9 @@ Not works:
 
 - Bluetooth ❌ (It's broken for most Hackintosh devices for now, sorry).
 
-- Microphone ❌ (It's broken for some Security Setting of MacOS Ventura)
+- Microphone ❌ (It's broken since MacOS Ventura)
 
-- Camera ❌ (It's broken for some Security Setting of MacOS Ventura)
+- Camera ❌ (It's broken since MacOS Ventura)
 
 - Card reader ❌ (Try booting with their kexts causes kernel panics)
 
