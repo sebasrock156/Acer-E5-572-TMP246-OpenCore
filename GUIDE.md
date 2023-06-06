@@ -1,5 +1,6 @@
 # Build your own Ventura Hackintosh EFI for a Broadwell-U Chipset [WIP-Version]
 [Getting Started]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/blob/Ventura/GUIDE.md#getting-started
+[Hardware Support]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/blob/Ventura/GUIDE.md#hardware-support
 [Creating SSDTs]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/blob/Ventura/GUIDE.md#creating-ssdts
 [Fixing Problems]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/blob/Ventura/GUIDE.md#fixing-problems
 [Opinions]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/blob/Ventura/GUIDE.md#opinions
@@ -13,6 +14,7 @@ This guide is based on my own experience trying to do that some MacOS versions b
 Art. | Content Table
 ---|:--:
 1 | [Getting Started]
+1.1 | [Hardware Support]
 2 | [Creating SSDTs]
 3 | [Fixing Problems]
 4 | [Opinions]
@@ -47,7 +49,7 @@ Core i5 Series (U, H) | HD 5500/6000, Iris 6100 and Iris Pro 6200
 Core i3 Series U | HD 5500 and Iris 6100
 ---
 
-**NOT SUPPORTED NATIVELY**: 
+**NOT SUPPORTED DEVICES NATIVELY**: 
  
  Processor Line | Graphics
  --- | :--:
