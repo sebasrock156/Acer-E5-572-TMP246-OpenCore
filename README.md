@@ -16,7 +16,7 @@ This is a "big" project to bring MacOS OSes for these laptops with Opencore Boot
 
 ![img](https://i.imgur.com/Evxt8TX.png)
 
-**More info of MacOS [MacOS Monterey]**
+**More info of [MacOS Monterey]**
 
 ---
 
