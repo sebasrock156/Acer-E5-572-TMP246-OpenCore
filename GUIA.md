@@ -1,4 +1,4 @@
-# Crea tu propio EFI Hackintosh en Ventura para un procesador de 5ta Generación (Broadwell-U) [Versión en desarrollo]
+# Crea tu propio EFI Hackintosh en Monterey para un procesador de 5ta Generación (Broadwell-U)
 [Primeros pasos]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/blob/Ventura/GUIA.md#primeros-pasos
 [Soporte de Hardware]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/blob/Ventura/GUIA.md#soporte-de-hardware
 [Creación del EFI]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/blob/Ventura/GUIA.md#creación-del-efi
@@ -25,7 +25,7 @@ Art. | Tabla de Contenido
 **En mi caso, usaré como base mi laptop (Acer Aspire E5-572G/TravelMateP246-MG)**
 
 
-![img](https://i.imgur.com/YKIPyaT.png)
+![img](https://i.imgur.com/NPnWBrz.png)
 
 ---
 ## Primeros Pasos
@@ -37,10 +37,9 @@ Art. | Tabla de Contenido
  
 #### Sobre los procesadores/tarjetas gráficas integradas:
 
-Cualquier procesador Broadwell-U (5ta Generación) está soportado hasta MacOS Monterey; en Ventura, dichos procesadores (y gráficas) han sido eliminados del soporte.
-Pero, basandonos en la Guía de Dortania, podemos parchar falsamente nuestros PCs para intentar correr MacOS Ventura.
+Cualquier procesador Broadwell-U (5ta Generación) está soportado hasta MacOS Monterey, pero todo con ciertos matices.
 
-En ese caso, los procesadores con posible soporte (en este guía, al menos), serían los siguientes:
+Los procesadores con posible soporte (en este guía, al menos), serían los siguientes:
  
 **DISPOSITIVOS SOPORTADOS**:
  
