@@ -78,6 +78,19 @@ Cualquier GPU de Nvidia está eliminada del soporte desde MacOS BigSur, aunque a
 ## Creación del EFI
 
 <details>
+ 
+Primero que nada, debemos saber que es (U)EFI:
+
+Ahora, a sabiendas de esto, procederemos con la creación:
+
+### Extracción de nuestra tabla APCI (Creación de DSDT)
+Para extraer nuestra tabla APCI, necesitamos las siguientes herramientas:
+
+- SSDTTime 
+- A
+- B
+- C
+ 
 </details>
 
 ## Solucionando Problemas
@@ -88,4 +101,7 @@ Cualquier GPU de Nvidia está eliminada del soporte desde MacOS BigSur, aunque a
 ## Opiniones
 
 <details>
+ 
+Realmente, hacer Hackintosh es algo tedioso, que requiere de paciencia, tiempo y ganas de realizar, pero, una vez lo consigues, es bastante agradable hacer algo tan DIY (Hazlo tu mismo) sólo para probar y jactarte de ello.
+ 
 </details>
