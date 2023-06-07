@@ -29,7 +29,7 @@ Works (for now):
 
 Partially Works:
 
-- Graphics ✅❌ (Natively, doesn't work, but try to patch with OCLP 0.6.5 or newer; for enable it, delete **-igfxvesa** boot argument after to patch with OCLP; if **-igfxvesa** argument isn't available, add it for install system and first boot; this, enable the generic GPU drivers with 4MB of VRAM only).
+- Graphics ✅❌ (Like a beta, OCLP isn't made for fix it for now, **-igfxvesa** argument is NEEDED).
 
 - VoodooPS2Controller ✅❌ (For now, only works internal keyboard and external mices).
 
@@ -37,7 +37,7 @@ Not works:
 
 - Touchpad ❌ ( **DON'T ENABLE VoodooPS2ControllerTouchpad compliment, IT'S BROKEN** ).
 
-- Bluetooth ❌ (It's broken for most Hackintosh devices for now, sorry).
+- Bluetooth ❌ (It's broken since MacOS Ventura, but is possible enable it *may not work*).
 
 - Microphone ❌ (It's broken since MacOS Ventura)
 
