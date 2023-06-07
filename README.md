@@ -21,15 +21,16 @@ Works (for now):
 - Installer Boot ✅ (installation is a less of 40 minutes with SSD) 
 - System Boot ✅ (Boots really slow, but works)
 - Ethernet ✅
-- Audio Card ✅❌(It's detected, but doesn't work)
+- Audio Card ✅ (Now it's fixed, using **-lilubetaall** and **-alcbeta** args)
+- Microphone ✅ (Fixed with beta args; I'll try the same in Ventura)
 - Battery charging and stats ✅
 - USB Devices ✅ (2.0, 3.0/3.1)
 - Screen ✅ (1366x768)
-- Wi-Fi ✅❌ (It's detected, but doesn't work)
+- Wi-Fi ✅ (It's working using HeliPort)
 
 Partially Works:
 
-- Graphics ✅❌ (Like a beta, OCLP isn't made for fix it for now, **-igfxvesa** argument is NEEDED).
+- Graphics ✅❌ (Like a beta, OCLP isn't made for fix it for now, **-igfxvesa** argument is **NEEDED**).
 
 - VoodooPS2Controller ✅❌ (For now, only works internal keyboard and external mices).
 
@@ -39,9 +40,7 @@ Not works:
 
 - Bluetooth ❌ (It's broken since MacOS Ventura, but is possible enable it *may not work*).
 
-- Microphone ❌ (It's broken since MacOS Ventura)
-
-- Camera ❌ (It's broken since MacOS Ventura)
+- Camera ❌ (It's broken since MacOS Ventura, it's recognize but, doesn't work for Graphic Drivers fault)
 
 - Card reader ❌ (Try booting with their kexts causes kernel panics)
 
