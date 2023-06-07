@@ -58,13 +58,13 @@ Works:
 - Screen ✅ (1366x768 to 1080x1920)
 - VGA ✅ (Testet with a 1024x1280 screen)
 
-
+---
 <details>
  
  ![img](https://i.imgur.com/N6Z3nJD.png)
  
 </details>
-
+---
 - HDMI ✅ 
 - Wi-Fi ✅ (altrough is some slow to connect)
 
