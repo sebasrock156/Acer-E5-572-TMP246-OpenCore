@@ -10,8 +10,7 @@
 
 **⚠️ADVICE⚠️:  THIS IS A ULTRA WIP PROJECT TRYING TO RUN THE SYSTEM, MAY BE HAVE SOME ACPI PROBLEMS**
 
-If do you want try to build your own EFI:
-**[SEE THE GUIDE]** | **[MIRA LA GUIA]** para hispanohablantes.
+If do you want try to build your own EFI: **[MIRA LA GUIA]** para hispanohablantes.
 
 If do you want test EFI from easy way:
 **[DOWNLOAD HERE]**
