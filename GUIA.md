@@ -29,7 +29,9 @@ MacBookPro15,4 | Coffee Lake, Iris Plus 645
 MacBookPro16,1 | Coffee Lake, UHD 630
 MacBookPro16,2 | Ice Lake, Iris Plus G4/G7     
 MacBookPro16,3 | Coffee Lake, Iris Plus 645  
-MacBookPro16,4 | Coffee Lake, UHD 63
+MacBookPro16,4 | Coffee Lake, UHD 630
+
+---
 
 
 **Con cualquiera de éstas lo más seguro es que el sistema inicie**
