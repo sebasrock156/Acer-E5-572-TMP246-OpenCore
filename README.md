@@ -64,7 +64,11 @@ Works:
  
 </details>
 
-- HDMI ✅ 
+- HDMI ✅
+- 
+- Screen Backlit ✅ (Backlight work as in Linux distros)
+**For using brightness control: pressing "Pause" (up backlit ☀+) and "Lock Scroll" (down Backlit ☼-)**.
+
 - Wi-Fi ✅ (altrough is some slow to connect)
 
 Partially Works:
