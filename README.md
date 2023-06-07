@@ -56,7 +56,7 @@ Works:
 - Battery charging and stats ✅
 - USB Devices ✅ (2.0, 3.0/3.1)
 - Screen ✅ (1366x768 to 1080x1920)
-- VGA ✅ (Testet with a 1024x1280 screen)
+- VGA ✅ (Tested with a 1024x1280 screen)
 
 <details>
  
