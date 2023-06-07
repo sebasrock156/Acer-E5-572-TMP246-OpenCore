@@ -18,6 +18,7 @@ Acabando así por completo el soporte para procesadores y gráficas Skylake X y 
 En cuanto a lo que nos compete (Hackintosh), todos los procesadores Skylake e inferiores están completamente eliminados del soporte oficial de MacOS, por lo cual, sería recomendable no actualizar a versiones superiores a MacOS 12.x.x (Monterey); pero si en todo caso queremos probar esta primera Beta, los consejos y pasos a seguir son los siguientes:
 
 1. Cambiar SMBIOS: La recomendación sería usar una de las siguientes (para laptop):
+
 **Con cualquiera de éstas lo más seguro es que el sistema inicie**
 
 SMBIOS | Hardware
