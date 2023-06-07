@@ -1,4 +1,4 @@
-# Acer Aspire V3-572G/TravelMate-P246 Hackintosh OpenCore (Big Sur 11.2-11.6)
+# Acer Aspire E5-572G/TravelMate-P246 Hackintosh OpenCore (Big Sur 11.2-11.6)
 
 [DOWNLOAD HERE]: https://github.com/sebasrock156/Acer-V3-572-TMP246-OpenCore/releases/tag/releases
 [AppleALC Support Codecs]: https://github.com/acidanthera/AppleALC/wiki/Supported-codecs
@@ -6,7 +6,7 @@
 ![img](https://i.imgur.com/vtxzmPj.png)
 
 
-**[DOWNLOAD HERE]**
+**[DOWNLOAD HERE]** (This EFI works with MacOS Catalina too)
 
 
 **Let's go with my hardware**:
