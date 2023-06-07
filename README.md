@@ -65,7 +65,6 @@ Works:
 </details>
 
 - HDMI ✅
-- 
 - Screen Backlit ✅ (Backlight work as in Linux distros)
 **For using brightness control: pressing "Pause" (up backlit ☀+) and "Lock Scroll" (down Backlit ☼-)**.
 
