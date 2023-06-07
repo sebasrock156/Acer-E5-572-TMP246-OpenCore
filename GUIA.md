@@ -19,7 +19,7 @@ En cuanto a lo que nos compete (Hackintosh), todos los procesadores Skylake e in
 
 1. Cambiar SMBIOS: La recomendación sería usar una de las siguientes (para laptop):
 
----|:--:
+---|---|:--:
 
 MacBookPro15,1 | Coffee Lake  | UHD 630         | S, 15" 2018
 MacBookPro15,2 | Coffee Lake  | Iris Plus 655   | 13" 2018       
