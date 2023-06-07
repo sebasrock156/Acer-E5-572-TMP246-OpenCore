@@ -21,16 +21,16 @@ Works (for now):
 - System Boot ✅ (Now, booting pretty well)
 - Ethernet ✅
 - Audio Card ✅ (Now it's fixed, using **-lilubetaall** and **-alcbeta** args)
-- Microphone ✅ (Fixed with beta args; I'll try the same in Ventura)
+- Microphone ✅ (Fixed with beta args)
 - Battery charging and stats ✅
-- USB Devices ✅ (2.0, 3.0/3.1)
 - Screen ✅ (1366x768)
 - Wi-Fi ✅ (It's working using HeliPort)
 
 Partially Works:
 
 - Graphics ✅❌ (Like a beta, OCLP isn't made for fix it for now, **-igfxvesa** argument is **NEEDED**).
-- Camera ✅❌ (Really works, but without Graphic Drivers, using FaceTime or apps that required it, is really awful).
+- Camera ✅❌ (Works, but without Graphic Drivers, using FaceTime or apps that required it, is really awful).
+- USB Devices ✅❌ (Detect all USB devices, and almost all works, less Massive Storage devices like External HDDs or pendrives)
 - VoodooPS2Controller ✅❌ (For now, only works internal keyboard and external mices).
 
 Not works:
