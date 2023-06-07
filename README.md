@@ -17,29 +17,32 @@ If do you want test EFI from easy way:
 
 Works (for now):
 - Opencore 0.9.2 ✅
-- Installer Boot ✅ (installation is a less of 40 minutes with SSD) 
-- System Boot ✅ (Now, booting pretty well)
+- Installer Boot ✅  (installation is a less of 40 minutes with SSD) 
+- System Boot ✅  (Now, booting pretty well)
 - Ethernet ✅
-- Audio Card ✅ (Now it's fixed, using **-lilubetaall** and **-alcbeta** args)
-- Microphone ✅ (Fixed with beta args)
+- Audio Card ✅  (Now it's fixed, using **-lilubetaall** and **-alcbeta** args)
+- Microphone ✅  (Fixed with beta args)
 - Battery charging and stats ✅
-- Screen ✅ (1366x768)
-- Wi-Fi ✅ (It's working using HeliPort)
+- Screen ✅  (1366x768)
+- Wi-Fi ✅  (It's working using HeliPort)
 
 Partially Works:
 
-- Graphics ✅❌ (Like a beta, OCLP isn't made for fix it for now, **-igfxvesa** argument is **NEEDED**).
-- Camera ✅❌ (Works, but without Graphic Drivers, using FaceTime or apps that required it, is really awful).
-- USB Devices ✅❌ (Detect all USB devices, and almost all works, less Massive Storage devices like External HDDs or pendrives)
-- VoodooPS2Controller ✅❌ (For now, only works internal keyboard and external mices).
+- Graphics ✅❌  (Like a beta, OCLP isn't made for fix it for now, **-igfxvesa** argument is **NEEDED**).
+
+- Camera ✅❌  (Works, but without Graphic Drivers, using FaceTime or apps that required it, is really awful).
+
+- USB Devices ✅❌  (Detect all USB devices, and almost all works, less Massive Storage devices like External HDDs or pendrives)
+
+- VoodooPS2Controller ✅❌  (For now, only works internal keyboard and external mices).
 
 Not works:
 
-- Touchpad ❌ ( **DON'T ENABLE VoodooPS2ControllerTouchpad compliment, IT'S BROKEN** ).
+- Touchpad ❌  (**DON'T ENABLE VoodooPS2ControllerTouchpad compliment, IT'S BROKEN**).
 
-- Bluetooth ❌ (It's broken since MacOS Ventura, but is possible enable it *may not work*).
+- Bluetooth ❌  (It's broken since MacOS Ventura, but is possible enable it *may not work*).
 
-- Card reader ❌ (Try booting with their kexts causes kernel panics)
+- Card reader ❌  (Try booting with their kexts causes kernel panics)
 
 **⚠️IMPORTANT NOTE⚠️**:
 Use OCLP 0.6.x for fix the iGPU; this works moving and patching the [Library Files] to System , read [Library README.md] for more info.
