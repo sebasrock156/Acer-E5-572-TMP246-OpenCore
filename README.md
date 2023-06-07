@@ -65,6 +65,8 @@ Works:
  
 </details>
 ---
+
+
 - HDMI ✅ 
 - Wi-Fi ✅ (altrough is some slow to connect)
 
