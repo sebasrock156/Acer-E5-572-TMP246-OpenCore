@@ -82,7 +82,7 @@ Not works:
 - Card reader ❌ (Try booting with their kexts causes kernel panics)
 
 **⚠️IMPORTANT NOTE⚠️**:
-Use OCLP 0.6.x for fix the iGPU; this works moving and patching the [Library Files] to System , read [Library README.md] for more info..
+Use OCLP 0.6.x for fix the iGPU; this works moving and patching the [Library Files] to System , read [Library README.md] for more info.
 
 
  
