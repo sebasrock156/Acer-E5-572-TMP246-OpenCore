@@ -30,7 +30,7 @@ Works (for now):
 Partially Works:
 
 - Graphics ✅❌ (Like a beta, OCLP isn't made for fix it for now, **-igfxvesa** argument is **NEEDED**).
-
+- Camera ✅❌ (Really works, but without Graphic Drivers, using FaceTime or apps that required it, is really awful).
 - VoodooPS2Controller ✅❌ (For now, only works internal keyboard and external mices).
 
 Not works:
@@ -38,8 +38,6 @@ Not works:
 - Touchpad ❌ ( **DON'T ENABLE VoodooPS2ControllerTouchpad compliment, IT'S BROKEN** ).
 
 - Bluetooth ❌ (It's broken since MacOS Ventura, but is possible enable it *may not work*).
-
-- Camera ❌ (It's broken since MacOS Ventura, it's recognize but, doesn't work for Graphic Drivers fault)
 
 - Card reader ❌ (Try booting with their kexts causes kernel panics)
 
