@@ -18,7 +18,7 @@ Acabando así por completo el soporte para procesadores y gráficas Skylake X y 
 En cuanto a lo que nos compete (Hackintosh), todos los procesadores Skylake e inferiores están completamente eliminados del soporte oficial de MacOS, por lo cual, sería recomendable no actualizar a versiones superiores a MacOS 12.x.x (Monterey); pero si en todo caso queremos probar esta primera Beta, los consejos y pasos a seguir son los siguientes:
 
 1. Cambiar SMBIOS: La recomendación sería usar una de las siguientes (para laptop):
-
+**Con cualquiera de éstas lo más seguro es que el sistema inicie**
 
 SMBIOS | Hardware
 --- | :--:
@@ -31,8 +31,6 @@ MacBookPro16,2 | Ice Lake, Iris Plus G4/G7
 MacBookPro16,3 | Coffee Lake, Iris Plus 645  
 MacBookPro16,4 | Coffee Lake, UHD 630
 ---
-
-**Con cualquiera de éstas lo más seguro es que el sistema inicie**
 
 
 2. Olvidarse de la aceleración 3D (por ahora): Para aquellos que tenemos hardware más antiguo, [OpenCore Legacy Patcher] será nuestra solución en cuanto al problema de las GPUs; pero, hasta que no estén resueltos los [Problemas de incompatibilidad con Metal]; tendremos que prescindir, sí o sí de la acelereación 3D y acostumbrarnos a usar los drivers genéricos **VESA**; en este caso, agregando a nuestro boot-args: **-igfxvesa**.
