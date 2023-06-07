@@ -19,16 +19,16 @@ En cuanto a lo que nos compete (Hackintosh), todos los procesadores Skylake e in
 
 1. Cambiar SMBIOS: La recomendación sería usar una de las siguientes (para laptop):
 
----|---|:--:
+---|:--:
 
-MacBookPro15,1 | Coffee Lake  | UHD 630         | S, 15" 2018
-MacBookPro15,2 | Coffee Lake  | Iris Plus 655   | 13" 2018       
-MacBookPro15,3 | Coffee Lake  | UHD 630/        | S, 15" 2018    
-MacBookPro15,4 | Coffee Lake  | Iris Plus 645   | 13" 2019       
-MacBookPro16,1 | Coffee Lake  | UHD 630         | S, 16" 2019   
-MacBookPro16,2 | Ice Lake     | Iris Plus G4/G7 | 13" 2020       
-MacBookPro16,3 | Coffee Lake  | Iris Plus 645   | 13" 2020       
-MacBookPro16,4 | Coffee Lake  | UHD 630         | S, 16" 2019
+MacBookPro15,1 | Coffee Lake, UHD 630
+MacBookPro15,2 | Coffee Lake, Iris Plus 655    
+MacBookPro15,3 | Coffee Lake, UHD 630  
+MacBookPro15,4 | Coffee Lake, Iris Plus 645   
+MacBookPro16,1 | Coffee Lake, UHD 630
+MacBookPro16,2 | Ice Lake, Iris Plus G4/G7     
+MacBookPro16,3 | Coffee Lake, Iris Plus 645  
+MacBookPro16,4 | Coffee Lake, UHD 63
 
 
 **Con cualquiera de éstas lo más seguro es que el sistema inicie**
