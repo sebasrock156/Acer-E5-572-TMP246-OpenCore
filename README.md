@@ -17,13 +17,21 @@ If do you want test EFI from easy way:
 
 Works (for now):
 - Opencore 0.9.2 ✅
+
 - Installer Boot ✅  (installation is a less of 40 minutes with SSD) 
+
 - System Boot ✅  (Now, booting pretty well)
+
 - Ethernet ✅
+
 - Audio Card ✅  (Now it's fixed, using **-lilubetaall** and **-alcbeta** args)
+
 - Microphone ✅  (Fixed with beta args)
+
 - Battery charging and stats ✅
+
 - Screen ✅  (1366x768)
+
 - Wi-Fi ✅  (It's working using HeliPort)
 
 Partially Works:
