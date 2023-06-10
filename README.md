@@ -1,4 +1,4 @@
-# Acer Aspire E5-572G/TravelMate P246-MG Hackintosh OpenCore (ULTRA WIP-Sonoma 14 BETA)
+# Acer Aspire E5-572G/TravelMate P246-MG Hackintosh OpenCore (WIP-Sonoma 14 BETA)
 
 [Library Files]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/tree/Sonoma-beta/System/Library
 [Library README.md]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/blob/Sonoma-beta/System/Library/README.md
@@ -8,7 +8,7 @@
 
 ![img](https://i.imgur.com/zLH08nx.png)
 
-**⚠️ADVICE⚠️:  THIS IS A ULTRA WIP PROJECT TRYING TO RUN THE SYSTEM, MAY BE HAVE SOME ACPI PROBLEMS**
+**⚠️ADVICE⚠️:  THIS IS A WIP PROJECT TRYING TO RUN THE SYSTEM, MAY BE HAVE SOME ACPI PROBLEMS**
 
 If do you want try to build your own EFI: **[SEE THE GUIDE]** | **[MIRA LA GUIA]** para hispanohablantes.
 
