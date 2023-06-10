@@ -1,92 +1,41 @@
-# Build your own Ventura Hackintosh EFI for a Broadwell-U Chipset [WIP-Version]
-[Getting Started]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/blob/Ventura/GUIDE.md#getting-started
-[Hardware Support]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/blob/Ventura/GUIDE.md#hardware-support
-[Creating SSDTs]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/blob/Ventura/GUIDE.md#creating-ssdts
-[Fixing Problems]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/blob/Ventura/GUIDE.md#fixing-problems
-[Opinions]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/blob/Ventura/GUIDE.md#opinions
+[Ventura Guide]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/blob/Ventura/GUIA.md
+[Metal incompatibilities problems]: https://github.com/dortania/OpenCore-Legacy-Patcher/issues/1076
+[OpenCore Legacy Patcher]: https://github.com/dortania/OpenCore-Legacy-Patcher
+[itlwm]: https://github.com/OpenIntelWireless/itlwm/releases/download/v2.2.0/itlwm_v2.2.0_stable.kext.zip
+[HeliPort]: https://github.com/OpenIntelWireless/HeliPort
 
 
-This guide is based on my own experience trying to do that some MacOS versions boots and run functionally on a Broadwell-U device; now I will try explain a some steps/tips for get it:
+# Build your own Hackintosh EFI for Sonoma for a 5th Gen Processor (Broadwell-U) [WIP-Version]
 
+Resume: Follow the [Ventura Guide], for thee moment MacOS Sonoma is in Beta; some differents are explained below.
 
----
+### About Hardware:
 
-Art. | Content Table
----|:--:
-1 | [Getting Started]
-1.1 | [Hardware Support]
-2 | [Creating SSDTs]
-3 | [Fixing Problems]
-4 | [Opinions]
----
+Apple has dropped even more hardware with the release of MacOS 14 (Sonoma), now only Coffee Lake (8th generation Intel) and higher processors being officially supported.
 
-**In my case, I'm use as base, my laptop (Acer Aspire E5-572G/TravelMateP246-MG)**
+Thus completely ending support for Skylake X and Kaby Lake (7th Generation) processors and graphics.
 
+As far as we are concerned (Hackintosh), all Skylake and lower processors are completely removed from official MacOS support, so it would be advisable not to update to versions higher than MacOS 12.x.x (Monterey); but if in any case we want to try this first Beta, the advice and steps to follow are the following:
 
-![img](https://i.imgur.com/YKIPyaT.png)
+**With any of these, is safest that the system starts**
 
----
-## Getting Started
-
-<details>
-
-### Hardware Support
- 
----
-#### About processors/internal graphic cards:
-
-Any Broadwell-U processors are supported until MacOS Monterey; on Ventura, Broadwell processors (and graphics) has been dropped.
-But, based on Dortania's Guide, we could fake patch our laptops for try to boot MacOS Ventura.
-
-In this case, the supported hardware is the follow:
- 
-**SUPPORTED DEVICES**:
- 
-Processor Line | Graphics
+SMBIOS | Hardware
 --- | :--:
-Core i7 Series (U, HQ) | HD 5500/5600/6000, Iris 6100 and Iris Pro 6200
-Core i5 Series (U, H) | HD 5500/6000, Iris 6100 and Iris Pro 6200
-Core i3 Series U | HD 5500 and Iris 6100
+MacBookPro15,1 | Coffee Lake, UHD 630
+MacBookPro15,2 | Coffee Lake, Iris Plus 655    
+MacBookPro15,3 | Coffee Lake, UHD 630  
+MacBookPro15,4 | Coffee Lake, Iris Plus 645   
+MacBookPro16,1 | Coffee Lake, UHD 630
+MacBookPro16,2 | Ice Lake, Iris Plus G4/G7     
+MacBookPro16,3 | Coffee Lake, Iris Plus 645  
+MacBookPro16,4 | Coffee Lake, UHD 630
 ---
- 
- 
-**NOT SUPPORTED DEVICES NATIVELY**: 
- 
- Processor Line | Graphics
- --- | :--:
- Pentium U Series | HD 4100 (Basic Broadwell Graphics)
- Celeron U Series | HD 4100 (Basic Broadwell Graphics)
- 
-The Pentium and Celeron processors doesn't have a real framebuffer for MacOS, if you really try to use, patch like a HD 4000 (Haswell) iGPU
- 
----
-  
-#### About dedicated/external graphic cards:
 
-Any Nvidia GPUs are dropped from MacOS BigSur, although some Nvidia graphics may be works on latest MacOS versions, the Low Power devices (and older architectures, like Fermi, Kepler and Maxwell) don't works.
-  
-#### About wireless/bluetooth cards:
 
-#### About audio cards (internal and external):
+2. Forget about 3D acceleration (for now): For those of us with older hardware, [OpenCore Legacy Patcher] will be our solution to the GPU problem; but, until the [Metal incompatibilities problems] are resolved; we will have to do without 3D acceleration and get used to using generic drivers **VESA**; in this case, adding to our boot-args: **-igfxvesa**.
 
-**For Internal:** In this guide, we talking about [AppleALC's supported cards] and how config it in our Hackintosh EFI.
 
-**For External:** Any USB Audio Card DAC what is compatible with MacOS or Windows may be work.
+3. Getting used to using HeliPort (for now): With all the Hardware removal, Apple has dropped support for Broadcom network cards for good; On the other hand, with those of Intel, we can still have Wi-Fi via [itlwm] along with [HeliPort].
 
-</details>
 
-## Creating SSDTs
-
-<details>
-</details>
-
-## Fixing Problems
-
-<details>
-</details>
-
-## Opinions
-
-<details>
-</details>
-
+4. Solucionar problemas de audio: Solve audio problems: As a good beta version that is recognized, it will leave the audio card without working, no matter how active it is; if you come from Ventura and you had already made it work perfectly; just add in boot-args: **-lilubetaall** and **-alcbeta** in your config.plist for Sonoma.
