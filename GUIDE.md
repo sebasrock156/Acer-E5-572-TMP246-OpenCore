@@ -1,4 +1,4 @@
-[Ventura Guide]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/blob/Ventura/GUIA.md
+[Ventura Guide]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/blob/Ventura/GUIDE.md
 [Metal incompatibilities problems]: https://github.com/dortania/OpenCore-Legacy-Patcher/issues/1076
 [OpenCore Legacy Patcher]: https://github.com/dortania/OpenCore-Legacy-Patcher
 [itlwm]: https://github.com/OpenIntelWireless/itlwm/releases/download/v2.2.0/itlwm_v2.2.0_stable.kext.zip
