@@ -26,6 +26,8 @@ Works (for now):
 
 - Audio Card ✅  (Now it's fixed, using **-lilubetaall** and **-alcbeta** args)
 
+- USB Devices ✅ (2.0, 3.0/3.1)
+
 - Microphone ✅  (Fixed with beta args)
 
 - Battery charging and stats ✅
@@ -42,9 +44,7 @@ Partially Works:
 
 - Graphics ✅❌  (Like a beta, OCLP isn't made for fix it for now, **-igfxvesa** argument is **NEEDED**).
 
-- USB Devices ✅❌  (Detect all USB devices, and almost all works, less Massive Storage devices like External HDDs or pendrives)
-
-- VoodooPS2Controller ✅❌  (For now, only works internal keyboard and external mices).
+- VoodooPS2Controller ✅❌  (Same bugs than Ventura).
 
 Not works:
 
