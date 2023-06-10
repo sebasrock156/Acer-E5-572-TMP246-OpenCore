@@ -32,13 +32,15 @@ Works (for now):
 
 - Screen ✅  (1366x768)
 
+- Camera ✅  (Works, but without Graphic Drivers, using FaceTime or apps that required it, is really awful).
+
 - Wi-Fi ✅  (It's working using HeliPort)
+
+- Bluetooth ✅ (Now it's working).
 
 Partially Works:
 
 - Graphics ✅❌  (Like a beta, OCLP isn't made for fix it for now, **-igfxvesa** argument is **NEEDED**).
-
-- Camera ✅❌  (Works, but without Graphic Drivers, using FaceTime or apps that required it, is really awful).
 
 - USB Devices ✅❌  (Detect all USB devices, and almost all works, less Massive Storage devices like External HDDs or pendrives)
 
@@ -46,9 +48,7 @@ Partially Works:
 
 Not works:
 
-- Touchpad ❌  (**DON'T ENABLE VoodooPS2ControllerTouchpad compliment, IT'S BROKEN**).
-
-- Bluetooth ❌  (It's broken since MacOS Ventura, but is possible enable it *may not work*).
+- Touchpad ❌  (**DON'T ENABLE VoodooPS2ControllerTouchpad compliment, IT'S BROKEN**; *Some XHCI USB ports are dropped with new macOS versions, some USB 1.0/1.1 devices may not work*).
 
 - Card reader ❌  (Try booting with their kexts causes kernel panics)
 
