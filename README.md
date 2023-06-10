@@ -1,5 +1,6 @@
 # Acer Aspire E5-572G/TravelMate P246-MG Hackintosh OpenCore (Ventura 13.0-13.4)
 
+[GO HERE]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/tree/Sonoma-beta/README.md
 [Library Files]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/tree/Ventura/System/Library
 [Library README.md]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/blob/Ventura/System/Library/README.md
 [DOWNLOAD HERE]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/releases/tag/ventura-05
@@ -8,7 +9,7 @@
 
 ![img](https://i.imgur.com/YKIPyaT.png)
 
-**⚠️ADVICE⚠️: THIS IS A PROJECT TRYING TO RUN THE SYSTEM, MAY BE HAVE SOME ACPI PROBLEMS**
+**⚠️ADVICE⚠️: For Ventura 13.5 (or newer) and Sonoma 14 [GO HERE]**
 
 If do you want try to build your own EFI:
 **[SEE THE GUIDE]** | **[MIRA LA GUIA]** para hispanohablantes.
