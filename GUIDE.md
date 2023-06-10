@@ -1,4 +1,4 @@
-# Build your own Ventura Hackintosh EFI for a Broadwell-U Chipset [WIP-Version]
+# Build your own Ventura Hackintosh EFI for a Broadwell-U Chipset
 [Getting Started]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/blob/Ventura/GUIDE.md#getting-started
 [Hardware Support]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/blob/Ventura/GUIDE.md#hardware-support
 [Creating SSDTs]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/blob/Ventura/GUIDE.md#creating-ssdts
