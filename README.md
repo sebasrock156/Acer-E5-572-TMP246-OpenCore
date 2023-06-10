@@ -82,6 +82,8 @@ Works:
 
 - Wi-Fi ✅ (altrough is some slow to connect)
 
+- Bluetooth ✅ (Now it's working).
+
 Partially Works:
 
 - Graphics ✅❌ (Natively, doesn't work (*by Apple dropped hardware with this MacOS Version*), but try to patch with OCLP 0.6.5 or newer; for enable it, delete **-igfxvesa** boot argument after to patch with OCLP; if **-igfxvesa** argument isn't available, add it for install system and first boot; this, enable the generic GPU drivers with 4MB of VRAM only).
@@ -91,8 +93,6 @@ Partially Works:
 Not works:
 
 - Touchpad ❌ (**DON'T TRY TO ENABLE IT** makes break the laptop keyboard).
-
-- Bluetooth ❌ (It's broken for most Hackintosh devices for now, sorry).
 
 - Card reader ❌ (Try booting with their kexts causes kernel panics)
 
