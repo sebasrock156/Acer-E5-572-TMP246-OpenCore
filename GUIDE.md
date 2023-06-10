@@ -17,6 +17,8 @@ Thus completely ending support for Skylake X and Kaby Lake (7th Generation) proc
 
 As far as we are concerned (Hackintosh), all Skylake and lower processors are completely removed from official MacOS support, so it would be advisable not to update to versions higher than MacOS 12.x.x (Monterey); but if in any case we want to try this first Beta, the advice and steps to follow are the following:
 
+1. Change for a new SMBIOS
+
 **With any of these, is safest that the system starts**
 
 SMBIOS | Hardware
