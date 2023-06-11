@@ -46,7 +46,10 @@ IDE Drive | Add a caddy for SATA Output, then, I recommend any Hard Disk with 50
  
 </details>
 
-Works:
+### Works:
+---
+<details>
+
 - Opencore 0.9.2 ✅ 
 
 - Installer Boot ✅ (installation is a less of 35 minutes with SSD)
@@ -84,6 +87,8 @@ Works:
 - Wi-Fi ✅ (altrough is some slow to connect)
 
 - Bluetooth ✅ (Now it's working).
+ 
+</details>
 
 Partially Works:
 
