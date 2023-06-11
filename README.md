@@ -15,7 +15,12 @@ If do you want try to build your own EFI: **[SEE THE GUIDE]** | **[MIRA LA GUIA]
 If do you want test EFI from easy way:
 **[DOWNLOAD HERE]**
 
-Works (for now):
+
+### Works (for now):
+---
+
+<details>
+
 - Opencore 0.9.2 ✅
 
 - Installer Boot ✅  (installation is a less of 40 minutes with SSD) 
@@ -39,18 +44,29 @@ Works (for now):
 - Wi-Fi ✅  (It's working using HeliPort)
 
 - Bluetooth ✅ (Now it's working).
+ 
+</details>
 
-Partially Works:
+### Partially Works:
+---
+
+<details>
 
 - Graphics ✅❌  (Like a beta, OCLP isn't made for fix it for now, **-igfxvesa** argument is **NEEDED**).
 
 - VoodooPS2Controller ✅❌  (Same bugs than Ventura).
 
-Not works:
+</details>
+
+### Not works:
+---
+<details>
 
 - Touchpad ❌  (**DON'T ENABLE VoodooPS2ControllerTouchpad compliment, IT'S BROKEN**; *Some XHCI USB ports are dropped with new macOS versions, some USB 1.0/1.1 devices may not work*).
 
-- Card reader ❌  (Try booting with their kexts causes kernel panics)
+- Card reader ❌  (Try booting with their kexts causes kernel panics).
+
+</details>
 
 **⚠️IMPORTANT NOTE⚠️**:
 Use OCLP 0.6.x for fix the iGPU; this works moving and patching the [Library Files] to System , read [Library README.md] for more info.
