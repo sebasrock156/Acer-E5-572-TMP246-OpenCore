@@ -89,18 +89,31 @@ IDE Drive | Add a caddy for SATA Output, then, I recommend any Hard Disk with 50
 - Bluetooth ✅ (Now it's working).
  
 </details>
+---
 
-Partially Works:
+
+### Partially Works:
+
+---
+<details>
 
 - Graphics ✅❌ (Natively, doesn't work (*by Apple dropped hardware with this MacOS Version*), but try to patch with OCLP 0.6.5 or newer; for enable it, delete **-igfxvesa** boot argument after to patch with OCLP; if **-igfxvesa** argument isn't available, add it for install system and first boot; this, enable the generic GPU drivers with 4MB of VRAM only).
 
 - VoodooPS2Controller ✅❌ (Works, but touchpad is broken, **DON'T TRY TO ENABLE IT**; Internal keyboard and external devices, works; If after to boot, keyboard doesn't work, use the Touchpad shortcut and reboot to MacOS again).
 
-Not works:
+</details>
+---
 
+
+### Not works:
+---
+
+<details>
 - Touchpad ❌ (**DON'T TRY TO ENABLE IT** makes break the laptop keyboard).
 
 - Card reader ❌ (Try booting with their kexts causes kernel panics)
+</details>
+---
 
 **⚠️IMPORTANT NOTE⚠️**:
 Use OCLP 0.6.x for fix the iGPU; this works moving and patching the [Library Files] to System , read [Library README.md] for more info.
