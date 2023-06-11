@@ -89,7 +89,6 @@ IDE Drive | Add a caddy for SATA Output, then, I recommend any Hard Disk with 50
 - Bluetooth ✅ (Now it's working).
  
 </details>
----
 
 
 ### Partially Works:
@@ -102,7 +101,6 @@ IDE Drive | Add a caddy for SATA Output, then, I recommend any Hard Disk with 50
 - VoodooPS2Controller ✅❌ (Works, but touchpad is broken, **DON'T TRY TO ENABLE IT**; Internal keyboard and external devices, works; If after to boot, keyboard doesn't work, use the Touchpad shortcut and reboot to MacOS again).
 
 </details>
----
 
 
 ### Not works:
@@ -113,7 +111,7 @@ IDE Drive | Add a caddy for SATA Output, then, I recommend any Hard Disk with 50
 
 - Card reader ❌ (Try booting with their kexts causes kernel panics)
 </details>
----
+
 
 **⚠️IMPORTANT NOTE⚠️**:
 Use OCLP 0.6.x for fix the iGPU; this works moving and patching the [Library Files] to System , read [Library README.md] for more info.
