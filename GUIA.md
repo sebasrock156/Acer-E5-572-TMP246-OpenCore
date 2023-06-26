@@ -86,12 +86,12 @@ Ahora, a sabiendas de esto, procederemos con la creación:
 ### Creación de DSDT
 <details>
  
-Para extraer nuestra tabla APCI, necesitamos las siguientes herramientas:
+Para extraer y editar nuestra tabla ACPI, necesitamos las siguientes herramientas:
 
-- SSDTTime 
-- A
-- B
-- C
+- SSDTTime (Para todos los sistemas, Acpidump viene incluido para Windows, Linux y Mac; requiere Python 3.X).
+- Acpidump (Windows 7, 8, 10 u 11) | DPCIManager (MacOS), por si no quieres instalar Python.
+- Xiasl (Windows) | Kate (Linux) | MasiASL (MacOS)
+- Opencore Auxiliary Tools (Windows, Linux y MacOS) | Opencore Configurator (MacOS)
  
 </details>
 
