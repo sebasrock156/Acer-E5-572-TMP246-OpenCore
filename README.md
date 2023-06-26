@@ -2,6 +2,8 @@
 [MacOS Monterey]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/tree/Monterey
 [MacOS Ventura]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/tree/Ventura
 [MacOS Sonoma]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/tree/Sonoma-beta
+[BigSur]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/tree/BigSur#supported-wlan-cards-by-intel
+[Monterey, Ventura and Sonoma]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/tree/Monterey#supported-wlan-cards-by-intel
 
 # Acer Aspire E5-572G/TravelMate-P246 Hackintosh OpenCore
 
@@ -58,7 +60,7 @@ CPU | i7 5500U 2 Cores/4 Threads@2,4Ghz
 iGPU| Intel HD Graphics 5500
 Audio Card | Realtek ALC283
 dGPU | NVIDIA GeForce 820M (Not supported on MacOS)
-WLAN Card | Some Intel Card (see supported models on [MacOS BigSur] or [MacOS Monterey])
+WLAN Card | Some Intel Card (see supported models on [BigSur] or [Monterey, Ventura and Sonoma])
 Ethernet | Realtek RTL8168
 ---
 
