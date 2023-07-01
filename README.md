@@ -112,6 +112,8 @@ IDE Drive | Add a caddy for SATA Output, then, I recommend any Hard Disk with 50
 - Touchpad ❌ (**DON'T TRY TO ENABLE IT** makes break the laptop keyboard).
 
 - Card reader ❌ (Try booting with their kexts causes kernel panics)
+
+- EA Origin ❌ (IDK why it isn't work)
 </details>
 
 
