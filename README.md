@@ -5,6 +5,7 @@
 [DOWNLOAD HERE]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/releases/tag/sonoma-beta02
 [SEE THE GUIDE]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/tree/Sonoma-beta/GUIDE.md
 [MIRA LA GUIA]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/tree/Sonoma-beta/GUIA.md
+[DOWNLOAD OCLP]: 
 
 ![img](https://i.imgur.com/zLH08nx.png)
 
@@ -15,6 +16,10 @@ If do you want try to build your own EFI: **[SEE THE GUIDE]** | **[MIRA LA GUIA]
 If do you want test EFI from easy way:
 **[DOWNLOAD HERE]**
 
+For fix Graphic 3D Acceleration:
+**[DOWNLOAD OCLP]**
+
+**NOTE⚠️: This OpenCore-Legacy Patcher is a testing and development version, built by me for try to fix graphics, if this isn't work, wait for new OCLP releases.**
 
 ### Works (for now):
 ---
@@ -69,7 +74,7 @@ If do you want test EFI from easy way:
 </details>
 
 **⚠️IMPORTANT NOTE⚠️**:
-Use OCLP 0.6.x for fix the iGPU; this works moving and patching the [Library Files] to System , read [Library README.md] for more info.
+Use OCLP 0.6.9 (link above) for fix the iGPU Acceleration; this is an integration of Metal API and GPU 3D Draw rendering, but, this isn't a Graphic Driver complete fix.
 
 
  
