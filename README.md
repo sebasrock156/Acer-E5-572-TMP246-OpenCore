@@ -5,7 +5,7 @@
 [DOWNLOAD HERE]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/releases/tag/sonoma-beta02
 [SEE THE GUIDE]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/tree/Sonoma-beta/GUIDE.md
 [MIRA LA GUIA]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/tree/Sonoma-beta/GUIA.md
-[DOWNLOAD OCLP]: 
+[DOWNLOAD OCLP]: https://www.mediafire.com/file/y9yq0o2wrzhn7er/OpenCore-Patcher0.6.9.zip/file
 
 ![img](https://i.imgur.com/zLH08nx.png)
 
