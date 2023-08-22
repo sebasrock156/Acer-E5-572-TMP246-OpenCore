@@ -5,7 +5,7 @@
 [DOWNLOAD HERE]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/releases/tag/sonoma-beta02
 [SEE THE GUIDE]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/tree/Sonoma-beta/GUIDE.md
 [MIRA LA GUIA]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/tree/Sonoma-beta/GUIA.md
-[DOWNLOAD OCLP]: https://www.mediafire.com/file/y9yq0o2wrzhn7er/OpenCore-Patcher0.6.9.zip/file
+[DOWNLOAD OCLP]: https://github.com/dortania/OpenCore-Legacy-Patcher/releases
 
 ![img](https://i.imgur.com/zLH08nx.png)
 
@@ -17,7 +17,7 @@ If do you want test EFI from easy way:
 **[DOWNLOAD HERE]**
 
 For fix Graphic 3D Acceleration:
-**[DOWNLOAD OCLP]**
+**[DOWNLOAD OCLP]** (Not works for me, but some people could use for fix it)
 
 **NOTE⚠️: This OpenCore-Legacy Patcher is a testing and development version, built by me for try to fix graphics, if this isn't work, wait for new OCLP releases.**
 
