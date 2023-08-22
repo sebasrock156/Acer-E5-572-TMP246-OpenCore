@@ -6,6 +6,7 @@
 [SEE THE GUIDE]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/tree/Sonoma-beta/GUIDE.md
 [MIRA LA GUIA]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/tree/Sonoma-beta/GUIA.md
 [DOWNLOAD OCLP]: https://github.com/dortania/OpenCore-Legacy-Patcher/releases
+[FROM SOURCE]: https://github.com/dortania/OpenCore-Legacy-Patcher/blob/main/SOURCE.md
 
 ![img](https://i.imgur.com/zLH08nx.png)
 
@@ -74,7 +75,7 @@ For fix Graphic 3D Acceleration:
 </details>
 
 **⚠️IMPORTANT NOTE⚠️**:
-Use OCLP 0.6.9 (link above) for fix the iGPU Acceleration; this is an integration of Metal API and GPU 3D Draw rendering, but, this isn't a Graphic Driver complete fix.
+Use OCLP 0.6.8 (link above) or compile OCLP 0.6.9 ([FROM SOURCE]) for fix the iGPU Acceleration; this is an integration of Metal API and GPU 3D Draw rendering, but, this isn't a Graphic Driver complete fix.
 
 
  
