@@ -75,7 +75,7 @@ For fix Graphic 3D Acceleration:
 </details>
 
 **⚠️IMPORTANT NOTE⚠️**:
-Use OCLP 0.6.8 (link above) or compile OCLP 0.6.9 ([FROM SOURCE]) for fix the iGPU Acceleration; this is an integration of Metal API and GPU 3D Draw rendering, but, this isn't a Graphic Driver complete fix.
+Use OCLP 0.6.8 (![DOWNLOAD OCLP]:link above) or compile OCLP 0.6.9 ([FROM SOURCE]) for fix the iGPU Acceleration; this is an integration of Metal API and GPU 3D Draw rendering, but, this isn't a Graphic Driver complete fix.
 
 
  
