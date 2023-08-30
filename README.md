@@ -12,7 +12,7 @@
 **⚠️ADVICE⚠️: For Ventura 13.5 (or newer) and Sonoma 14 [GO HERE]**
 
 If do you want try to build your own EFI:
-**[SEE THE GUIDE]** | **[MIRA LA GUIA]** para hispanohablantes.
+**[SEE THE GUIDE]** (Unfinished)| **[MIRA LA GUIA]** para hispanohablantes (Aún inacabada).
 
 If do you want test EFI from easy way:
 **[DOWNLOAD HERE]**
