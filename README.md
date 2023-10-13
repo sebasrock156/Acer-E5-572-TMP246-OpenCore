@@ -7,6 +7,8 @@
 
 # Acer Aspire E5-572G/TravelMate-P246 Hackintosh OpenCore
 
+##**PROJECT IS STOPPED FOR NOW**
+
 This is a "big" project to bring MacOS OSes for these laptops with Opencore Bootloader, for more information, click on "More info of **MacOS Version** below:
 
 
