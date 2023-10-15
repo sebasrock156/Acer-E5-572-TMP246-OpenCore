@@ -4,7 +4,8 @@
 
 # Acer Aspire E5-572G/TravelMate-P246 Hackintosh OpenCore
 
-![progress](https://img.shields.io/badge/progress-developing-yellow.svg) 
+![progress](https://img.shields.io/badge/progress-developing-yellow.svg)
+[![AMD OSX](https://img.shields.io/badge/AMDOSX-coming_soon-violet.svg)](https://github.com/sebasrock156/Asus-X555QA-Hackintosh)
 
 **⚠️ PROJECT IS STOPPED FOR NOW ⚠️**
 
