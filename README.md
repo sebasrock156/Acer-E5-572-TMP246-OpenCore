@@ -23,7 +23,7 @@ If do you want test EFI from easy way:
 
 Hardware | Model
 --- |:--:
-CPU | i7 5500U 2 Cores/4 Threads@2,4Ghz
+![corei7](https://i.imgur.com/hWNvzxy.png) | i7 5500U 2 Cores/4 Threads@2,4Ghz
 iGPU| Intel HD Graphics 5500
 Audio Card | Realtek ALC283
 dGPU | NVIDIA GeForce 820M (Not supported on MacOS)
