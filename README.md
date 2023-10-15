@@ -1,6 +1,5 @@
 # Acer Aspire E5-572G/TravelMate P246-MG Hackintosh OpenCore (WIP - Ventura 13.5/Sonoma 14 BETA)
 
-![progress](https://img.shields.io/badge/progress-developing-yellow.svg)
 [Library Files]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/tree/Sonoma-beta/System/Library
 [Library README.md]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/blob/Sonoma-beta/System/Library/README.md
 [DOWNLOAD HERE]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/releases/tag/sonoma-beta02
@@ -8,6 +7,8 @@
 [MIRA LA GUIA]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/tree/Sonoma-beta/GUIA.md
 [DOWNLOAD OCLP]: https://github.com/dortania/OpenCore-Legacy-Patcher/releases
 [FROM SOURCE]: https://github.com/dortania/OpenCore-Legacy-Patcher/blob/main/SOURCE.md
+
+![progress](https://img.shields.io/badge/progress-developing-yellow.svg)
 
 ![img](https://i.imgur.com/zLH08nx.png)
 
