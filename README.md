@@ -1,4 +1,3 @@
-[MacOS BigSur]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/tree/BigSur
 [MacOS Monterey]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/tree/Monterey
 [MacOS Ventura]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/tree/Ventura
 [MacOS Sonoma]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/tree/Sonoma-beta
@@ -7,13 +6,13 @@
 
 # Acer Aspire E5-572G/TravelMate-P246 Hackintosh OpenCore
 
+![progreso](https://img.shields.io/badge/progreso-en_desarrollo-yellow.svg)
+
 **⚠️ PROJECT IS STOPPED FOR NOW ⚠️**
 
 This is a "big" project to bring MacOS OSes for these laptops with Opencore Bootloader, for more information, click on "More info of **MacOS Version** below:
 
-
-![img](https://i.imgur.com/SP2LYM8.png)
-
+[![MacOS BigSur](https://i.imgur.com/SP2LYM8.png)](https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/tree/BigSur)
  **More info of [MacOS BigSur]**
 
 
