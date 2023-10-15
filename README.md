@@ -1,4 +1,4 @@
-[MacOS Monterey]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/tree/Monterey
+[MacOS Monterey]: 
 [MacOS Ventura]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/tree/Ventura
 [MacOS Sonoma]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/tree/Sonoma-beta
 [BigSur]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/tree/BigSur#supported-wlan-cards-by-intel
@@ -18,9 +18,13 @@ This is a "big" project to bring MacOS OSes for these laptops with Opencore Boot
 
 ---
 
-![img](https://i.imgur.com/BKvumkU.png)
+![img]()
 
 **More info of [MacOS Monterey]**
+
+**More info of MacOS Monterey:**
+
+[![MacOS Monterey](https://i.imgur.com/BKvumkU.png)](https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/tree/Monterey)
 
 ---
 
