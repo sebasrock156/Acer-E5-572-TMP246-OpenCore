@@ -9,6 +9,7 @@
 [FROM SOURCE]: https://github.com/dortania/OpenCore-Legacy-Patcher/blob/main/SOURCE.md
 
 ![progress](https://img.shields.io/badge/progress-developing-yellow.svg)
+![3Dgraphics](https://img.shields.io/badge/3Dgraphics-not_working-red.svg)
 
 ![img](https://i.imgur.com/zLH08nx.png)
 
