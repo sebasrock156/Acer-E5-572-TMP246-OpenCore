@@ -24,7 +24,7 @@ If do you want test EFI from easy way:
 
 **Now, the hardware**:
 
-<details>
+
 
 Hardware | Model
 --- |:--:
@@ -38,6 +38,8 @@ Ethernet | Realtek RTL8168
  
 **Now, some minimum hardware recommendations**:
 
+<details>
+ 
 ---
 
 Hardware | Model
