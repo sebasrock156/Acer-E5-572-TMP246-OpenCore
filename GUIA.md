@@ -7,6 +7,8 @@
 
 # Crea tu propio EFI Hackintosh en Sonoma para un procesador de 5ta Generación (Broadwell-U) [Versión en desarrollo]
 
+![progreso](https://img.shields.io/badge/progreso-en_desarrollo-yellow.svg)
+
 Resumen: Seguir la [Guía de Ventura], pues, de momento MacOS Sonoma está en Beta; las diferencias palpables serán añadidas abajo.
 
 ### Sobre el Hardware:
