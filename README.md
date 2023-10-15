@@ -34,7 +34,8 @@ Hardware | Model
 ![dgpu](https://i.imgur.com/1frTIg4.png) | GeForce 820M (Not supported on MacOS)
 ![wlan](https://i.imgur.com/9eDLwo9.png) | Dual Band AC 3160 (From E5-471G)
 Ethernet | Realtek RTL8168
-![ddr3](https://i.imgur.com/5MAnSyf.png) | Kingston 8GBx2 CL11@1600Mhz (not important)
+![ddr3](https://i.imgur.com/5MAnSyf.png) | Kingston 8GBx2 CL11@1600Mhz
+![ssd](https://i.imgur.com/pozDx4X.png) | Kingston A400 SSD 960GB (QLC SM2259XT Controller)
 ---
  
 **Now, some minimum hardware recommendations**:
