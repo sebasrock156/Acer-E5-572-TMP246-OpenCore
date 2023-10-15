@@ -14,6 +14,7 @@ This is a "big" project to bring MacOS OSes for these laptops with Opencore Boot
 
 
 [![MacOS BigSur](https://i.imgur.com/SP2LYM8.png)](https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/tree/BigSur)
+
 **Click the image above**
 
 
