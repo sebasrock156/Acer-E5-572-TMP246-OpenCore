@@ -10,6 +10,7 @@
 
 ![progress](https://img.shields.io/badge/progress-developing-yellow.svg)
 ![3Dgraphics](https://img.shields.io/badge/3Dgraphics-not_working-red.svg)
+![periphericals](https://img.shields.io/badge/periphericals-almost_working-orange)
 
 ![img](https://i.imgur.com/zLH08nx.png)
 
