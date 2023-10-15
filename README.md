@@ -6,7 +6,6 @@
 
 # Acer Aspire E5-572G/TravelMate-P246 Hackintosh OpenCore
 
-![progreso](https://img.shields.io/badge/progreso-en_desarrollo-yellow.svg)
 
 **⚠️ PROJECT IS STOPPED FOR NOW ⚠️**
 
