@@ -18,10 +18,6 @@ This is a "big" project to bring MacOS OSes for these laptops with Opencore Boot
 
 ---
 
-![img]()
-
-**More info of [MacOS Monterey]**
-
 **More info of MacOS Monterey:**
 
 [![MacOS Monterey](https://i.imgur.com/BKvumkU.png)](https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/tree/Monterey)
