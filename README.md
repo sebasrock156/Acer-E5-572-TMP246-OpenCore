@@ -9,7 +9,7 @@
 ![progress](https://img.shields.io/badge/progress-done-blue.svg)
 ![3Dgraphics](https://img.shields.io/badge/3Dgraphics-in_build-blue.svg)
 ![periphericals](https://img.shields.io/badge/periphericals-working-green.svg)
-![installation](https://img.shields.io/badge/installation-working-green)
+![installation](https://img.shields.io/badge/installation-working-green.svg)
 
 ![img](https://i.imgur.com/NPnWBrz.png)
 
