@@ -9,7 +9,7 @@
 ![572G](https://img.shields.io/badge/works-on_E5_572G-green.svg)
 ![573G](https://img.shields.io/badge/works-on_E5_573G-green.svg)
 ![TMP246](https://img.shields.io/badge/works-on_TravelMate_P246-green.svg)
-![471G](https://img.shields.io/badge/malfunction-on_E5_471G-orange.svg)
+![471G](https://img.shields.io/badge/malfunctioning-on_E5_471G_click_for_info-orange.svg)
 [![AMD OSX](https://img.shields.io/badge/AMDOSX-coming_soon-violet.svg)](https://github.com/sebasrock156/Asus-X555QA-Hackintosh)
 
 **⚠️ PROJECT IS STOPPED FOR NOW ⚠️**
