@@ -21,8 +21,6 @@ If do you want test EFI from easy way:
 
 **Now, the hardware**:
 
-<details>
-
 Hardware | Model
 --- |:--:
 CPU | i7 5500U 2 Cores/4 Threads@2,4Ghz
@@ -32,6 +30,8 @@ dGPU | NVIDIA GeForce 820M (Not supported on MacOS)
 WLAN Card | Intel Dual Band AC 3160 (From E5-471G)
 Ethernet | Realtek RTL8168
 ---
+
+<details>
  
 **Now, some minimum hardware recommendations**:
 
