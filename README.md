@@ -7,6 +7,11 @@
 [SEE THE GUIDE]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/tree/Ventura/GUIDE.md
 [MIRA LA GUIA]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/tree/Ventura/GUIA.md
 
+![progress](https://img.shields.io/badge/progress-developing-yellow.svg)
+![3Dgraphics](https://img.shields.io/badge/3Dgraphics-almost_working-orange.svg)
+![periphericals](https://img.shields.io/badge/periphericals-almost_working-orange)
+![installation](https://img.shields.io/badge/installation-working-green)
+
 ![img](https://i.imgur.com/YKIPyaT.png)
 
 **⚠️ADVICE⚠️: For Ventura 13.5 (or newer) and Sonoma 14 [GO HERE]**
