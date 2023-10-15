@@ -6,6 +6,7 @@
 [Solucionando Problemas]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/blob/Ventura/GUIA.md#solucionando-problemas
 [Opiniones]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/blob/Ventura/GUIA.md#opiniones
 
+![progreso](https://img.shields.io/badge/progreso-en_desarrollo-yellow.svg)
 
 Esta guía está basada en mi propia experiencia intentando hacer que algunas versiones de MacOS arranquen y funcionen sobre procesadores Broadwell-U (Intels de 5ta Generación); Ahora, explicaré unos pasos/consejos a seguir:
 
