@@ -28,10 +28,9 @@ This is a "big" project to bring MacOS OSes for these laptops with Opencore Boot
 
 ---
 
+**More info of MacOS Sonoma:**
 
-![img](https://i.imgur.com/fjkDYMh.png)                                                   
-
-**More info of [MacOS Sonoma]**
+[![MacOS Sonoma](https://i.imgur.com/fjkDYMh.png)](https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/tree/Sonoma-beta)
 
 ---
 
