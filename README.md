@@ -5,6 +5,8 @@
 [DOWNLOAD HERE]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/releases/tag/12-releases
 [SEE THE GUIDE]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/tree/Monterey/GUIDE.md
 
+![3Dgraphics](https://img.shields.io/badge/3Dgraphics-in_build-blue)
+
 ![img](https://i.imgur.com/NPnWBrz.png)
 
 If do you want try to build your own EFI:
