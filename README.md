@@ -31,7 +31,7 @@ For fix Graphic 3D Acceleration:
 
 Hardware | Model
 --- |:--:
-![processor](https://i.imgur.com/hWNvzxy.png) | Core i7 5500U 2 Cores/4 Threads @2,4Ghz
+![processor](https://i.imgur.com/hWNvzxy.png) | Core i7 5500U, 2 Cores/4 Threads@2,4Ghz
 ![igpu](https://i.imgur.com/ywW6onH.png)| HD 5500 2GB VRAM @900Mhz
 ![audio](https://i.imgur.com/A7RRuUn.png) | Realtek ALC283
 ![dgpu](https://i.imgur.com/1frTIg4.png) | GeForce 820M (Not supported on MacOS)
