@@ -58,6 +58,7 @@ This is a "big" project to bring MacOS OSes for these laptops with Opencore Boot
 
 ---
 
+Hardware | Model
 --- |:--:
 ![processor](https://i.imgur.com/hWNvzxy.png) | Core i7 5500U, 2 Cores/4 Threads@2,4Ghz
 ![igpu](https://i.imgur.com/ywW6onH.png)| HD 5500 2GB VRAM @900Mhz
