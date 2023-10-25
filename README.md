@@ -55,17 +55,17 @@ This is a "big" project to bring MacOS OSes for these laptops with Opencore Boot
 </details>
 
 **Firstly we will go the base hardware for those EFIs needs to work**:
----
 
 --- |:--:
 ![processor](https://i.imgur.com/hWNvzxy.png) | Core i7 5500U, 2 Cores/4 Threads@2,4Ghz
 ![igpu](https://i.imgur.com/ywW6onH.png)| HD 5500 2GB VRAM @900Mhz
 ![audio](https://i.imgur.com/A7RRuUn.png) | Realtek ALC283
 ![dgpu](https://i.imgur.com/1frTIg4.png) | GeForce 820M (Not supported on MacOS)
-![wlan](https://i.imgur.com/9eDLwo9.png) | Dual Band AC 3160 (From E5-471G)
+![wlan](https://i.imgur.com/9eDLwo9.png) | Dual Band AC 3160 (From E5-471G) (see supported models on [BigSur] or [Monterey, Ventura and Sonoma])
 Ethernet | Realtek RTL8168
 ![ddr3](https://i.imgur.com/5MAnSyf.png) | Kingston 8GBx2 CL11@1600Mhz
 ![ssd](https://i.imgur.com/pozDx4X.png) | Kingston A400 SSD 960GB (QLC SM2259XT Controller)
+---
 
 ---
 
