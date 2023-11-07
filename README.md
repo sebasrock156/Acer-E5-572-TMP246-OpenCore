@@ -49,9 +49,18 @@ This is a "big" project to bring MacOS OSes for these laptops with Opencore Boot
 **Status:** ✅ Functional, it should be patched for stable releases in future, but, for the moment, works with Betas 1 - 4 and the 1st Stable Build 💻 
 
 ---
+**⚠️ WARNING ⚠️:**
 
-<pre> Warning ⚠️: My hardware is inherited from Aspire E5-471G model, this EFI works with Aspire V3-572G
- and some Aspire E5-573G models too (anyways, I'll wanna name "E5-471MG" 😂😂😂) </pre>
+<pre> My hardware is inherited from Aspire E5-471G model, but with a TravelMate P246-MG (from China), anyways, I'll wanna named "E5-471MG" 😂😂😂
+
+This EFI works on the following models too:
+Aspire E5-571G (with an i5/i7 with 5500 HD Graphics)
+Aspire E5-572G (with an i5/i7 with 5500 HD Graphics)
+Aspire E5-573G (with an i5/i7 with 5500 HD Graphics or Iris HD 6100 Graphics)
+Aspire E5-471G (with i5/i7 with 5500 HD Graphics)
+Other laptops with the same processor (Intel i5 5200U/i7 5500U or better).
+ 
+</pre>
 ---
 
 
