@@ -10,9 +10,9 @@
 ![573G](https://img.shields.io/badge/works-on_E5_573G-green.svg)
 ![TMP246](https://img.shields.io/badge/works-on_TravelMate_P246-green.svg)
 [![471G](https://img.shields.io/badge/malfunctioning-on_E5_471G_click_for_info-orange.svg)](https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/blob/main/471G-INFO.md)
-[![AMD OSX](https://img.shields.io/badge/AMDOSX-coming_soon-violet.svg)](https://github.com/sebasrock156/Asus-X555QA-Hackintosh)
+[![AMD OSX](https://img.shields.io/badge/AMDOSX-alpha_available-violet.svg)](https://github.com/sebasrock156/Asus-X555QA-Hackintosh)
 
-**⚠️ PROJECT IS STOPPED FOR NOW ⚠️**
+**⚠️ PROJECT IS STOPPED FOR NOW; I'LL TRYING BRING HACKINTOSH FOR AN OLDER AMD PROCESSOR FOR THE MOMENT⚠️**
 
 This is a "big" project to bring MacOS OSes for these laptops with Opencore Bootloader, for more information, click on "More info of **MacOS Version** below:
 
@@ -20,11 +20,16 @@ This is a "big" project to bring MacOS OSes for these laptops with Opencore Boot
 
 [![MacOS BigSur](https://i.imgur.com/SP2LYM8.png)](https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/tree/BigSur)
 
+**Status:** ✅ Almost finished; if you try with latest macOS 11.x.x versions might work too 💻
+**Notes for future:** I should update OC version. 
+
 ---
 
 **More info of MacOS Monterey:**
 
 [![MacOS Monterey](https://i.imgur.com/BKvumkU.png)](https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/tree/Monterey)
+
+**Status:** ✅ Finished, not more updates, but try to update OC manually; OC 0.9.3 and 0.9.4 works perfect 💻 
 
 ---
 
@@ -32,11 +37,15 @@ This is a "big" project to bring MacOS OSes for these laptops with Opencore Boot
 
 [![MacOS Ventura](https://i.imgur.com/Y3QSYAZ.png)](https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/tree/Ventura)
 
+**Status:** ✅ Functional, not more updates, but try to update OC manually; OC 0.9.3 and 0.9.4 works perfect 💻 
+
 ---
 
 **More info of MacOS Sonoma:**
 
 [![MacOS Sonoma](https://i.imgur.com/fjkDYMh.png)](https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/tree/Sonoma-beta)
+
+**Status:** ✅ Functional, it should be patched for stable releases in future, but, for the moment, works with Betas 1 - 4 and the 1st Stable Build 💻 
 
 ---
 
