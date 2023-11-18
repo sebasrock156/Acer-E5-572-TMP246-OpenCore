@@ -51,7 +51,7 @@ This is a "big" project to bring MacOS OSes for these laptops with Opencore Boot
 ---
 **⚠️ WARNING ⚠️:**
 
-<pre> My hardware is inherited from Aspire E5-471G model, but with a TravelMate P246-MG (from China), anyways, I'll wanna named "E5-471MG" 😂😂😂
+<pre> My hardware is inherited from Aspire E5-471G model, but with a TravelMate P246-MG Motherboard (from China), anyways, I'll wanna named "E5-471MG" 😂😂😂
 
 This EFI works on the following models too:
  
