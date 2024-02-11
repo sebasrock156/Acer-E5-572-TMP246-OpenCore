@@ -13,7 +13,7 @@
 [![AMD OSX](https://img.shields.io/badge/AMDOSX-alpha_available-violet.svg)](https://github.com/sebasrock156/Asus-X555QA-Hackintosh)
 [![Huawei OSX](https://img.shields.io/badge/HuaweiHackintosh-available_soon-yellow.svg)](https://github.com/sebasrock156/Huawei-Matebook-D14-21-OpenCore)
 
-**⚠️ PROJECT IS STOPPED FOR NOW; I'LL TRYING BRING HACKINTOSH FOR AN OLDER AMD PROCESSOR FOR THE MOMENT⚠️**
+**⚠️ PROJECT IS STOPPED FOR NOW; I'LL TRYING BRING HACKINTOSH FOR AN OLDER AMD AND A NEWER INTEL PROCESSORS FOR THE MOMENT⚠️**
 
 This is a "big" project to bring MacOS OSes for these laptops with Opencore Bootloader, for more information, click on "More info of **MacOS Version** below:
 
