@@ -29,7 +29,6 @@ Ethernet | Realtek RTL8168
 ![ssd](https://i.imgur.com/pozDx4X.png) | Kingston A400 SSD 960GB (QLC SM2259XT Controller)
 ---
 
----
 
 <details>
  
