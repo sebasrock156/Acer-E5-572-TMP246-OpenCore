@@ -28,13 +28,13 @@ If do you want test EFI from easy way:
 
 Hardware | Model
 --- |:--:
-![processor](https://i.imgur.com/hWNvzxy.png) | Core i7 5500U 2 Cores/4 Threads @2,4Ghz
-![igpu](https://i.imgur.com/ywW6onH.png)| HD 5500 2GB VRAM @900Mhz
-![audio](https://i.imgur.com/A7RRuUn.png) | Realtek ALC283
+![processor](https://i.imgur.com/hWNvzxy.png) | Core i7 (5th Gen) 5500U 2 Cores/4 Threads@2,4Ghz
+![igpu](https://i.imgur.com/ywW6onH.png)| HD 5500 2GB VRAM @900Mhz (Patched)
+![audio](https://i.imgur.com/A7RRuUn.png) | ALC283 (in-build)
 ![dgpu](https://i.imgur.com/1frTIg4.png) | GeForce 820M (Not supported on MacOS)
 ![wlan](https://i.imgur.com/9eDLwo9.png) | Dual Band AC 3160 (From E5-471G)
 Ethernet | Realtek RTL8168
-![ddr3](https://i.imgur.com/5MAnSyf.png) | Kingston 8GBx2 CL11@1600Mhz
+![ddr3](https://i.imgur.com/5MAnSyf.png) | Kingston 16GB(8x2) DDR3L@1600Mhz
 ![ssd](https://i.imgur.com/pozDx4X.png) | Kingston A400 SSD 960GB (QLC SM2259XT Controller)
 ---
  
