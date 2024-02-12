@@ -23,7 +23,7 @@ This is a "big" project to bring MacOS OSes for these laptops with Opencore Boot
 
 **Status:** ✅ Almost finished; if you try with latest macOS 11.x.x versions might work too 💻
 
-**Notes for future:** I should update OC version. 
+**To do:** Update to OC 0.9.x. 
 
 ---
 
@@ -47,7 +47,7 @@ This is a "big" project to bring MacOS OSes for these laptops with Opencore Boot
 
 [![MacOS Sonoma](https://i.imgur.com/fjkDYMh.png)](https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/tree/Sonoma-beta)
 
-**Status:** ✅ Functional, it should be patched for stable releases in future, but, for the moment, works with Betas 1 - 4 and the 1st Stable Build 💻 
+**To do:** Fix USB 3.0 port, update OC.
 
 ---
 **⚠️ WARNING ⚠️:**
