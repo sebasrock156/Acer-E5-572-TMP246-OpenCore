@@ -82,6 +82,8 @@ Other laptops with the same processor (Intel i5 5200U/i7 5500U or better and usi
 
 Hardware | Model
 --- |:--:
+![motherboard]() | Acer HB40A (Broadwell-U)
+![bios](https://i.imgur.com/98P6ntE.png) | InsydeH20 v1.18 (by Acer)
 ![processor](https://i.imgur.com/hWNvzxy.png) | Core i7 (5th Gen) 5500U 2 Cores/4 Threads@2,4Ghz
 ![igpu](https://i.imgur.com/ywW6onH.png)| HD 5500 2GB VRAM @900Mhz (Patched)
 ![audio](https://i.imgur.com/A7RRuUn.png) | ALC283 (in-build)
