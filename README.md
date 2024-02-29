@@ -13,7 +13,7 @@
 ![periphericals](https://img.shields.io/badge/periphericals-almost_working-orange)
 ![installation](https://img.shields.io/badge/installation-working-green)
 
-![img](https://i.imgur.com/L4hy31a.png)
+![img](https://i.imgur.com/EpvNpoN.png)
 
 **⚠️ADVICE⚠️:  THIS IS A WIP PROJECT TRYING TO RUN THE SYSTEM, MAY BE HAVE SOME ACPI PROBLEMS**
 
