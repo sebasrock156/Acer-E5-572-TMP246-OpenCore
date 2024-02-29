@@ -48,7 +48,7 @@ This is a "big" project to bring MacOS OSes for these laptops with Opencore Boot
 
 [![MacOS Sonoma](https://i.imgur.com/fjkDYMh.png)](https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/tree/Sonoma)
 
-**To do:** Fix USB 3.0 port (USBToolbox doesn't work for now), might be fix the touchpad, IDK; maybe I could fix Wi-Fi with AirportItlwm.
+**To do:** Might be fix the touchpad, IDK; maybe I could fix Wi-Fi with AirportItlwm.
 
 ---
 **⚠️ WARNING ⚠️:**
