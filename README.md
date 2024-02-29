@@ -48,7 +48,9 @@ This is a "big" project to bring MacOS OSes for these laptops with Opencore Boot
 
 [![MacOS Sonoma](https://i.imgur.com/fjkDYMh.png)](https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/tree/Sonoma)
 
-**To do:** Change itlwm for Airportitlwm; Touchpad is fully broken since Ventura, I don't know why, SSDT-GPI0 from DSDT only works until Monterey.
+**Status:** ✅ Functional, not more recent updates for now 💻 
+
+**To do:** Change itlwm for Airportitlwm in future; Touchpad is fully broken since Ventura, I don't know why, SSDT-GPI0 from DSDT only works until Monterey.
 
 ---
 **⚠️ WARNING ⚠️:**
