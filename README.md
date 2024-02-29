@@ -32,7 +32,7 @@ This is a "big" project to bring MacOS OSes for these laptops with Opencore Boot
 
 [![MacOS Monterey](https://i.imgur.com/BKvumkU.png)](https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/tree/Monterey)
 
-**Status:** ✅ Finished, not more updates, but try to update OC manually; OC 0.9.3 and 0.9.4 works perfect 💻 
+**Status:** ✅ Finished, not more recent updates (at least with OC versions) but I'm working in fix 3.0 USB Port and Touchpad (now it's working, release in future) 💻 
 
 ---
 
@@ -40,7 +40,7 @@ This is a "big" project to bring MacOS OSes for these laptops with Opencore Boot
 
 [![MacOS Ventura](https://i.imgur.com/Y3QSYAZ.png)](https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/tree/Ventura)
 
-**Status:** ✅ Functional, not more updates, but try to update OC manually; OC 0.9.3 and 0.9.4 works perfect 💻 
+**Status:** ✅ Functional, not more recent updates for now, I'm working in Sonoma for the moment 💻 
 
 ---
 
@@ -48,7 +48,7 @@ This is a "big" project to bring MacOS OSes for these laptops with Opencore Boot
 
 [![MacOS Sonoma](https://i.imgur.com/fjkDYMh.png)](https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/tree/Sonoma-beta)
 
-**To do:** Fix USB 3.0 port, update OC.
+**To do:** Fix USB 3.0 port (USBToolbox doesn't work for now), might be fix the touchpad, IDK; maybe I could fix Wi-Fi with AirportItlwm.
 
 ---
 **⚠️ WARNING ⚠️:**
