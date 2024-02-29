@@ -62,7 +62,7 @@ Ethernet | Realtek RTL8168
 
 - Battery charging and stats ✅
 
-- Screen ✅  (1366x768)
+- Screen ✅  (1366x768, 1920x1080)
 
 - Camera ✅  (Works, but without Graphic Drivers, using FaceTime or apps that required it, is really awful).
 
@@ -77,7 +77,7 @@ Ethernet | Realtek RTL8168
 
 <details>
 
-- Graphics ✅❌  (Only works with OCLP 1.1.0 installed, **-igfxvesa** argument is **NEEDED** before install OCLP).
+- Graphics ✅❌ (Only works with OCLP 1.1.0 installed, **-igfxvesa** argument is **NEEDED** before install OCLP).
  
 - VoodooPS2Controller ✅❌  (Same bugs than Ventura).
 
