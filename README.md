@@ -8,8 +8,8 @@
 [DOWNLOAD OCLP]: https://github.com/dortania/OpenCore-Legacy-Patcher/releases
 [FROM SOURCE]: https://github.com/dortania/OpenCore-Legacy-Patcher/blob/main/SOURCE.md
 
-![progress](https://img.shields.io/badge/progress-developing-yellow.svg)
-![3Dgraphics](https://img.shields.io/badge/3Dgraphics-not_working-red.svg)
+![progress](https://img.shields.io/badge/progress-finished-blue.svg)
+![3Dgraphics](https://img.shields.io/badge/3Dgraphics-working_with_OCLP-orange.svg)
 ![periphericals](https://img.shields.io/badge/periphericals-almost_working-orange)
 ![installation](https://img.shields.io/badge/installation-working-green)
 
