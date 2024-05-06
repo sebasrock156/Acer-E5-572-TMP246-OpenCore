@@ -88,7 +88,7 @@ Hardware | Model
 ![motherboard](https://i.imgur.com/kjUKjB2.png) | Acer HB40A 9x Series (Broadwell-U)
 ![bios](https://i.imgur.com/98P6ntE.png) | InsydeH20 v1.18 (by Acer)
 ![processor](https://i.imgur.com/hWNvzxy.png) | Core i7 (5th Gen) 5500U 2 Cores/4 Threads@2,4Ghz
-![igpu](https://i.imgur.com/ywW6onH.png)| HD 5500 2GB VRAM @900Mhz (Patched)
+![igpu](https://i.imgur.com/f55jc7k.png)| HD 5500 2GB VRAM @900Mhz (Patched)
 ![audio](https://i.imgur.com/A7RRuUn.png) | ALC283 (in-build)
 ![dgpu](https://i.imgur.com/1frTIg4.png) | GeForce 820M (Not supported on MacOS)
 ![wlan](https://i.imgur.com/9eDLwo9.png) | Dual Band AC 3160 (From E5-471G) (see supported models on [BigSur] or [Monterey, Ventura and Sonoma])
