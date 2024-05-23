@@ -12,7 +12,7 @@
 [![471G](https://img.shields.io/badge/malfunctioning-on_E5_471G_click_for_info-orange.svg)](https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/blob/main/471G-INFO.md)
 
 
-**⚠️ PROJECT IS STOPPED FOR NOW; I'LL TRYING BRING HACKINTOSH FOR AN OLDER AMD AND A NEWER INTEL PROCESSORS FOR THE MOMENT⚠️**
+**⚠️ PROJECT IS IN CONSTANT DEVELOPMENT ⚠️**
 
 This is a "big" project to bring MacOS OSes for these laptops with Opencore Bootloader, for more information, click on "More info of **MacOS Version** below:
 
