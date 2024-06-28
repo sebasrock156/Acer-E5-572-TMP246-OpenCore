@@ -30,7 +30,7 @@ This is a "big" project to bring MacOS OSes for these laptops with Opencore Boot
 
 [![MacOS Monterey](https://i.imgur.com/BKvumkU.png)](https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/tree/Monterey)
 
-**Status:** ✅ Finished, not more recent updates (at least with OC versions) but I'm working in fix 3.0 USB Port and Touchpad (now it's working, release in future) 💻 
+**Status:** ✅ Finished, not more recent updates (at least with OC versions) 💻 
 
 ---
 
