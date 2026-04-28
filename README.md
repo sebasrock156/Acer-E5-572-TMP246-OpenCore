@@ -1,31 +1,11 @@
-# Acer Aspire E5-572G/TravelMate P246-MG Hackintosh OpenCore (WIP - Ventura 13.5/Sonoma 14.1)
+# Acer Aspire E5-572G/TravelMate P246-MG Hackintosh OpenCore (ULTRA WIP - Tahoe 26.X)
 
-[Library Files]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/tree/Sonoma-beta/System/Library
-[Library README.md]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/blob/Sonoma-beta/System/Library/README.md
-[DOWNLOAD HERE]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/releases/tag/sonoma-beta02
-[SEE THE GUIDE]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/tree/Sonoma-beta/GUIDE.md
-[MIRA LA GUIA]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/tree/Sonoma-beta/GUIA.md
-[DOWNLOAD OCLP]: https://github.com/dortania/OpenCore-Legacy-Patcher/releases
-[FROM SOURCE]: https://github.com/dortania/OpenCore-Legacy-Patcher/blob/main/SOURCE.md
+This is the Testing Phase of EFI build
 
-![progress](https://img.shields.io/badge/progress-finished-blue.svg)
-![3Dgraphics](https://img.shields.io/badge/3Dgraphics-working_with_OCLP-orange.svg)
-![periphericals](https://img.shields.io/badge/periphericals-almost_working-orange)
-![installation](https://img.shields.io/badge/installation-working-green)
+![img](https://i.imgur.com/DTbO6Gd.jpeg)
 
-![img](https://i.imgur.com/EpvNpoN.png)
+**⚠️ADVICE⚠️:  THIS IS A ULTRA WIP PROJECT TRYING TO RUN THE SYSTEM, MAY BE HAVE SOME ACPI PROBLEMS**
 
-**⚠️ADVICE⚠️:  THIS IS A WIP PROJECT TRYING TO RUN THE SYSTEM, MAY BE HAVE SOME ACPI PROBLEMS**
-
-If do you want try to build your own EFI: **[SEE THE GUIDE]** | **[MIRA LA GUIA]** para hispanohablantes.
-
-If do you want test EFI from easy way:
-**[DOWNLOAD HERE]**
-
-For fix Graphic 3D Acceleration:
-**[DOWNLOAD OCLP]** (Not works for me, but some people could use for fix it)
-
-**NOTE⚠️: This OpenCore-Legacy Patcher is a testing and development version, built by me for try to fix graphics, if this isn't work, wait for new OCLP releases.**
 
 **Now, the hardware**:
 
@@ -46,7 +26,7 @@ Ethernet | Realtek RTL8168
 
 <details>
 
-- Opencore 0.9.2 ✅
+- Opencore 1.0.3 ✅
 
 - Installer Boot ✅  (installation is a less of 40 minutes with SSD) 
 
@@ -54,13 +34,11 @@ Ethernet | Realtek RTL8168
 
 - Ethernet ✅
 
-- Audio Card ✅  (Now it's fixed, using **-lilubetaall** and **-alcbeta** args)
+- Audio Card ✅  (Installing AppleHDA with MyKextsInstaller)
 
 - USB Devices ✅ (2.0, 3.0/3.1)
 
-- Microphone ✅  (Fixed with beta args)
-
-- Battery charging and stats ✅
+- Microphone ✅ 
 
 - Screen ✅  (1366x768, 1920x1080)
 
@@ -77,9 +55,8 @@ Ethernet | Realtek RTL8168
 
 <details>
 
-- Graphics ✅❌ (Only works with OCLP 1.1.0 installed, **-igfxvesa** argument is **NEEDED** before install OCLP).
+- Graphics ✅❌ (Only works with OCLP 3.0.0 installed, **-igfxvesa** argument is **NEEDED** before install OCLP).
  
-- VoodooPS2Controller ✅❌  (Same bugs than Ventura).
 
 </details>
 
@@ -88,6 +65,8 @@ Ethernet | Realtek RTL8168
 <details>
 
 - Touchpad ❌  (**DON'T ENABLE VoodooPS2ControllerTouchpad compliment, IT'S BROKEN**; *Some XHCI USB ports are dropped with new macOS versions, some USB 1.0/1.1 devices may not work*).
+
+- Keyboard ❌ (Maybe it's the same fault than Sonoma).
 
 - Card reader ❌  (Try booting with their kexts causes kernel panics).
 
