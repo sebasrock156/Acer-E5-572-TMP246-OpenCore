@@ -2,7 +2,7 @@
 [BigSur]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/tree/BigSur#supported-wlan-cards-by-intel
 [Monterey, Ventura and Sonoma]: https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/tree/Monterey#supported-wlan-cards-by-intel
 
-# Acer Aspire E5-572G/TravelMate-P246 Hackintosh OpenCore
+# Acer Aspire E5-471G/E5-572G/TravelMate-P246 Hackintosh OpenCore
 
 ![progress](https://img.shields.io/badge/progress-developing-blue.svg)
 ![571G](https://img.shields.io/badge/works-on_E5_571G-green.svg)
@@ -49,6 +49,16 @@ This is a "big" project to bring MacOS OSes for these laptops with Opencore Boot
 **Status:** ✅ Functional, not more recent updates for now 💻 
 
 **To do:** Change itlwm for Airportitlwm in future; Touchpad is fully broken since Ventura, I don't know why, SSDT-GPI0 from DSDT only works until Monterey.
+
+---
+
+**More info of MacOS Tahoe:**
+
+[![MacOS Tahoe](https://i.imgur.com/E4EFOOM.png)](https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/tree/Tahoe)
+
+**Status:** ✅👨‍🔧 Booteable, in preliminar phase.
+
+**To do:** Test OCLP for fix iGPU, try to fix in-bulid Keyboard (at least), add guide for install AppleHDA kext, suggest don't use OC-Simplify for fix problems (according with the script, this laptop isn't available to use Tahoe).
 
 ---
 **⚠️ WARNING ⚠️:**
