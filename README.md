@@ -1,8 +1,9 @@
 # Acer Aspire E5-572G/TravelMate P246-MG Hackintosh OpenCore (ULTRA WIP - Tahoe 26.X)
 
-This is the Testing Phase of EFI build
+This is the Functional Phase of the EFI
 
-![img](https://i.imgur.com/DTbO6Gd.jpeg)
+![img](https://i.imgur.com/zmItFrW.png)
+![img](https://i.imgur.com/CVMGCL8.png)
 
 **⚠️ADVICE⚠️:  THIS IS A ULTRA WIP PROJECT TRYING TO RUN THE SYSTEM, MAY BE HAVE SOME ACPI PROBLEMS**
 
@@ -17,7 +18,7 @@ Hardware | Model
 ![dgpu](https://i.imgur.com/1frTIg4.png) | GeForce 820M (Not supported on MacOS)
 ![wlan](https://i.imgur.com/9eDLwo9.png) | Dual Band AC 3160 (From E5-471G)
 Ethernet | Realtek RTL8168
-![ddr3](https://i.imgur.com/5MAnSyf.png) | Kingston 16GB(8x2) DDR3L@1600Mhz
+![ddr3](https://i.imgur.com/5MAnSyf.png) | SK Hynix 16GB(8x2) DDR3L@1600Mhz
 ![ssd](https://i.imgur.com/pozDx4X.png) | Kingston A400 SSD 960GB (QLC SM2259XT Controller)
 ---
 
@@ -50,19 +51,12 @@ Ethernet | Realtek RTL8168
  
 </details>
 
-### Partially Works:
----
-
-<details>
-
-- Graphics ✅❌ (Only works with OCLP 3.0.0 installed, **-igfxvesa** argument is **NEEDED** before install OCLP).
- 
-
-</details>
 
 ### Not works:
 ---
 <details>
+
+- Graphics ❌ (Only works with OCLP 3.X+ installed, doesn't exist a stable build for now).
 
 - Touchpad ❌  (**DON'T ENABLE VoodooPS2ControllerTouchpad compliment, IT'S BROKEN**; *Some XHCI USB ports are dropped with new macOS versions, some USB 1.0/1.1 devices may not work*).
 
