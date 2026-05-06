@@ -5,7 +5,7 @@ This is the Functional Phase of the EFI
 ![img](https://i.imgur.com/zmItFrW.png)
 ![img](https://i.imgur.com/CVMGCL8.png)
 
-**⚠️ADVICE⚠️:  THIS IS A ULTRA WIP PROJECT TRYING TO RUN THE SYSTEM, MAY BE HAVE SOME ACPI PROBLEMS**
+**⚠️ADVICE⚠️:  THIS IS A ULTRA WIP PROJECT TRYING TO RUN THE SYSTEM, MAY BE HAVE SOME ACPI PROBLEMS, IF YOU WANT TO TRY, USE THIS [PRE-RELEASE EFI](https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/releases/tag/tahoe-pr-rc1)**
 
 
 **Now, the hardware**:
@@ -58,11 +58,13 @@ Ethernet | Realtek RTL8168
 
 - Graphics ❌ (Only works with OCLP 3.X+ installed, doesn't exist a stable build for now).
 
-- Touchpad ❌  (**DON'T ENABLE VoodooPS2ControllerTouchpad compliment, IT'S BROKEN**; *Some XHCI USB ports are dropped with new macOS versions, some USB 1.0/1.1 devices may not work*).
+- Touchpad ❌  (**DON'T ENABLE VoodooPS2ControllerTouchpad compliment, IT'S BROKEN; USE AN USB MOUSE THEN**; *Some XHCI USB ports are dropped with new macOS versions, some USB 1.0/1.1 devices may not work*).
 
-- Keyboard ❌ (Maybe it's the same fault than Sonoma).
+- Keyboard ❌ (Maybe it's the same fault than Sonoma; it isn't fixed for now, **USE AN USB KEYBOARD THEN**).
 
 - Card reader ❌  (Try booting with their kexts causes kernel panics).
+
+- OC-Simplify integration ❌ (It's limited to work under Sequoia or earlier versions).
 
 </details>
 
