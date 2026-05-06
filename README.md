@@ -54,11 +54,11 @@ This is a "big" project to bring MacOS OSes for these laptops with Opencore Boot
 
 **More info of MacOS Tahoe:**
 
-[![MacOS Tahoe](https://i.imgur.com/E4EFOOM.png)](https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/tree/Tahoe)
+[![MacOS Tahoe](https://i.imgur.com/kxna97v.png)](https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/tree/Tahoe)
 
-**Status:** ✅👨‍🔧 Booteable, in preliminar phase.
+**Status:** ✅👨‍🔧 Functional, but not 3D Accelertion, in very early phase.
 
-**To do:** Test OCLP for fix iGPU, try to fix in-bulid Keyboard (at least), add guide for install AppleHDA kext, suggest don't use OC-Simplify for fix problems (according with the script, this laptop isn't available to use Tahoe).
+**To do:** Wait for some OCLP that fix iGPU, suggest don't use OC-Simplify for fix problems (according with the script, this laptop isn't available to use Tahoe).
 
 ---
 **⚠️ WARNING ⚠️:**
