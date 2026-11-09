@@ -22,6 +22,16 @@ Ethernet | Realtek RTL8168
 ![ssd](https://i.imgur.com/pozDx4X.png) | Kingston A400 SSD 960GB (QLC SM2259XT Controller)
 ---
 
+
+## For fix HDA Audio (in-built):
+***Thanks to @enigma131 for reminding me this***
+
+1. Disable AMFI from config.plist (my [release](https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore/releases/tag/tahoe-pr-rc1) EFI is done).
+2. Follow the guide by @Mirone from [here](https://github.com/Mirone/MyKextInstaller).
+3. If audio doesn't work patch your EFI build with SSDT-HPET and add the boot-args: *-lilubetaall* and *-alcbeta*.
+---
+
+
 ### Works (for now):
 ---
 
